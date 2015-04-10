@@ -46,7 +46,9 @@ schools.each do |school|
       end
     end
 
-    rosters << row
+    if (row.size > 3)
+      rosters << row
+    end
   end
   rosters.flush
 end

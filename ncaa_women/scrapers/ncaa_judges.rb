@@ -40,7 +40,9 @@ schedules.each do |schedule|
       text = td.text.scrub.strip rescue nil
       row += [text]
     end
-    assignments << row
+    if (row.size > 3)
+      assignments << row
+    end
   end
   assignments.flush
 
@@ -51,7 +53,9 @@ schedules.each do |schedule|
       text = td.text.scrub.strip rescue nil
       row += [text]
     end
-    judges << row
+    if (row.size > 3)
+      judges << row
+    end
   end
   judges.flush
 

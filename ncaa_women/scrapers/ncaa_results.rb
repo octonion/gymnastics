@@ -51,7 +51,9 @@ schedules.each do |schedule|
       text = td.text.scrub.strip rescue nil
       row += [text]
     end
-    individual_results << row
+    if (row.size>3)
+      individual_results << row
+    end
   end
   individual_results.flush
 
