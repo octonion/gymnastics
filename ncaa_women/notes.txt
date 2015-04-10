@@ -1,0 +1,6 @@
+AA = All Around
+VT = Vault
+UB = Uneven Bars
+BB = Balance Beam
+FX = Floor Exercise
+(T) = Tie

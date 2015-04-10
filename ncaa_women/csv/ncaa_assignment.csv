@@ -1,0 +1,943 @@
+1,36,55,1/9/2015,7:00PM,Utah State,Logan,Ut,Air Force Academy,4
+1,37,66,1/24/2015,1800,Air Force Academy,USAFA,CO,Seattle Pacific University,4
+1,38,25,1/30/2015,7:00 PM,Auburn Univ.,Auburn,AL,Air Force Academy,5
+1,39,67,2/7/2015,1800,Air Force Academy,USAFA,CO,Texas Woman's University,4
+1,40,68,2/14/2015,1800,Air Force Academy,USAFA,CO,Cortland Univsity,4
+1,41,300,2/20/2015,7:00 PM,Illinois State,Normal,IL,Air Force,4
+1,42,13,2/27/2015,7:00pm,Seattle Pacific,Seattle,WA,US Air Force Academy,4
+1,43,116,3/7/2015,6:00,"Denver, U. of",Denver,CO,"Air Force, Ohio State",8
+1,44,69,3/9/2015,1800,Air Force Academy,USAFA,CO,Denver & Alaska,8
+1,45,425,3/13/2015,7:00 pm,Arizona State,Tempe,AZ,Air Force,4
+1,46,323,3/21/2015,6:00pm,MPSF Conference,Anchorage,AK,List one or more opponents here,9
+2,858,232,1/9/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Arizona, U. of",5
+2,859,1,1/16/2015,8pm,"Arkansas, U. of",Fayetteville,AR,Alabama,5
+2,860,233,1/23/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Florida, U. of",5
+2,861,91,1/30/2015,7:00PM,"Kentucky, U. of",Lexington,KY,Alabama,5
+2,862,234,2/6/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,Auburn U.,5
+2,863,235,2/13/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,Boise State U.,5
+2,864,204,2/20/2015,7 pm,"Georgia, U. of",Athens,GA,Alabama,5
+2,865,236,2/27/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,LSU,5
+2,866,230,3/6/2015,6:30pm,"Missouri, U. of",Columbia,MO,Alabama,5
+2,867,454,3/8/2015,3:00 pm CT,Elevate,Unit 99,AL,"Alabama, Auburn",5
+2,868,237,3/13/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Oklahoma, U. of",5
+2,869,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+3,534,216,1/8/2015,7:00pm,"Alaska, U. of",Anchorage,AK,Winona State,4
+3,535,217,1/10/2015,2:00pm,"Alaska, U. of",Anchorage,AK,Winona State,4
+3,536,207,1/17/2015,8:00,Ozone Invitational,Knoxville,TN,"Whitewater, Alaska, BYU, Bowling Green",9
+3,537,12,1/30/2015,7:00pm,Seattle Pacific,Seattle,WA,Univ. of Alaska - Anchorage,4
+3,538,240,2/13/2015,7:00pm,Wisconsin-Whitewater,Whitewater,WI,Winona State and University of Alaska-Anchorage,8
+3,539,320,2/15/2015,2pm,Northern Illinois Univ.,Dekalb,IL,"Bowling Green, Alaska",8
+3,540,218,2/27/2015,7:00pm,"Alaska, U. of",Anchorage,AK,Centenary College,4
+3,541,219,3/1/2015,2:00pm,"Alaska, U. of",Anchorage,AK,Centenary College,4
+3,542,200,3/6/2015,7pm MST,Boise State Univ.,Boise,ID,Alaska,5
+3,543,69,3/9/2015,1800,Air Force Academy,USAFA,CO,Denver & Alaska,8
+3,544,323,3/21/2015,6:00pm,MPSF Conference,Anchorage,AK,List one or more opponents here,9
+4,824,232,1/9/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Arizona, U. of",5
+4,825,426,1/16/2015,7pm,"Arizona, U. of",Tucson,AZ,"Sacramento St., U. Wisconsin-Stout, Illinois-Chicago",8
+4,826,385,1/19/2015,1pm,UCLA,Los Angeles,CA,Arizona,4
+4,827,391,1/24/2015,4:00 p.m.,"Washington, U. of",Seattle,WA,Arizona,5
+4,828,427,1/31/2015,4pm,"Arizona, U. of",Tucson,AZ,Utah,4
+4,829,304,2/7/2015,2:00pm,Oregon State,Corvallis,OR,Arizona,5
+4,830,428,2/16/2015,7pm,"Arizona, U. of",Tucson,AZ,Arizona State,4
+4,831,429,2/28/2015,6pm,"Arizona, U. of",Tucson,AZ,California,4
+4,832,263,3/6/2015,6:00 PM,Michigan State,East Lansing,MI,Arizona & Eastern Michigan,9
+4,833,279,3/8/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,University of Arizona,4
+4,834,430,3/14/2015,4pm,"Arizona, U. of",Tucson,AZ,Denver,4
+4,835,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+5,573,421,1/9/2015,7:00 pm,Arizona State,Tempe,AZ,Southern Utah,4
+5,574,90,1/16/2015,7:00pm,"Kentucky, U. of",Lexington,KY,LSU & Arizona St.,9
+5,575,380,1/25/2015,2 pm,California,Berkeley,CA,"ASU, SJSU, University of Denver",9
+5,576,422,1/31/2015,7:00 pm,Arizona State,Tempe,AZ,Stanford,4
+5,577,267,2/6/2015,6:00 pm,"Utah, U. of",Salt Lake City,UT,Arizona State,4
+5,578,428,2/16/2015,7pm,"Arizona, U. of",Tucson,AZ,Arizona State,4
+5,579,423,2/20/2015,7:00 pm,Arizona State,Tempe,AZ,Oregon State,4
+5,580,424,2/28/2015,12:00 pm,Arizona State,Tempe,AZ,UCLA,4
+5,581,414,3/6/2015,7:00 pm,Southern Utah Univ.,Cedar City,UT,Arizona State,4
+5,582,425,3/13/2015,7:00 pm,Arizona State,Tempe,AZ,Air Force,4
+5,583,No records found.
+6,490,222,1/9/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,Arkansas,5
+6,491,1,1/16/2015,8pm,"Arkansas, U. of",Fayetteville,AR,Alabama,5
+6,492,24,1/23/2015,7:00 PM,Auburn Univ.,Auburn,AL,University of Arkansas,5
+6,493,No records found.
+6,494,2,2/6/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,Florida,5
+6,495,3,2/13/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,"Illinois State, Semo",9
+6,496,92,2/20/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Arkansas,5
+6,497,4,2/27/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,Missouri,5
+6,498,205,3/7/2015,6 pm,"Georgia, U. of",Athens,GA,Arkansas,5
+6,499,5,3/13/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,UCLA,5
+6,500,No records found.
+6,994,11,1/9/2015,7:00pm,Seattle Pacific,Seattle,WA,UC - Davis,4
+7,812,344,1/9/2015,7:00PM,"North Carolina, U. of",Chapel Hill,NC,Auburn University,4
+7,813,6,1/16/2015,7pm,"Florida, U. of",Gainesville,FL,Auburn,5
+7,814,24,1/23/2015,7:00 PM,Auburn Univ.,Auburn,AL,University of Arkansas,5
+7,815,25,1/30/2015,7:00 PM,Auburn Univ.,Auburn,AL,Air Force Academy,5
+7,816,234,2/6/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,Auburn U.,5
+7,817,26,2/13/2015,7:00 PM,Auburn Univ.,Auburn,AL,Louisiana State University,5
+7,818,229,2/20/2015,6:30pm,"Missouri, U. of",Columbia,MO,Auburn,5
+7,819,27,2/27/2015,7:00 PM,Auburn Univ.,Auburn,AL,University of Georgia,5
+7,820,93,3/6/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Auburn,5
+7,821,454,3/8/2015,3:00 pm CT,Elevate,Unit 99,AL,"Alabama, Auburn",5
+7,822,28,3/13/2015,7:00 PM,Auburn Univ.,Auburn,AL,Univeristy of North Carolina,5
+7,823,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+7,991,No records found.
+8,881,No records found.
+8,882,No records found.
+8,883,No records found.
+8,884,No records found.
+8,885,No records found.
+8,886,No records found.
+8,887,No records found.
+8,888,No records found.
+8,889,No records found.
+8,890,No records found.
+8,891,No records found.
+8,892,No records found.
+9,391,No records found.
+9,392,197,1/23/2015,7pm MST,Boise State Univ.,Boise,ID,Southern Utah,5
+9,393,No records found.
+9,394,No records found.
+9,395,No records found.
+9,396,198,2/15/2015,7pm MST,Boise State Univ.,Boise,ID,Utah State,5
+9,397,No records found.
+9,398,199,2/27/2015,7pm MST,Boise State Univ.,Boise,ID,BYU,5
+9,399,200,3/6/2015,7pm MST,Boise State Univ.,Boise,ID,Alaska,5
+9,400,No records found.
+9,401,No records found.
+9,996,No records found.
+10,416,247,1/10/2015,2:00pm,Bowling Green,Bowling Green,OH,Michigan State University,4
+10,421,207,1/17/2015,8:00,Ozone Invitational,Knoxville,TN,"Whitewater, Alaska, BYU, Bowling Green",9
+10,546,271,1/24/2015,4:00pm,Eastern Michigan,Ypsilanti,MI,Bowling Green University,4
+10,547,338,2/1/2015,1:00 pm,George Washington U.,Washington,DC,Bowling Green,5
+10,417,248,2/6/2015,6:00pm,Bowling Green,Bowling Green,OH,Ohio State University,4
+10,418,249,2/8/2015,2:00pm,Bowling Green,Bowling Green,OH,Ball State University,4
+10,548,320,2/15/2015,2pm,Northern Illinois Univ.,Dekalb,IL,"Bowling Green, Alaska",8
+10,549,336,2/22/2015,1 pm,Central Michigan,Mt.Pleasant,MI,Bowling Green State University,5
+10,419,250,2/28/2015,4:00pm,Bowling Green,Bowling Green,OH,Western Michigan University,4
+10,976,263,3/6/2015,6:00 PM,Michigan State,East Lansing,MI,Arizona & Eastern Michigan,9
+10,550,398,3/7/2015,6:00pm,Rutgers Univ.,New Brunswick,NJ,"West Chester, Bowling Green",9
+10,420,251,3/14/2015,4:00pm,Bowling Green,Bowling Green,OH,Kent State University,4
+10,551,147,3/21/2015,2p,MAC Conference,Kent,OH,MAC Championships: 7 teams total,17
+11,127,341,1/17/2015,1:00,Southern Conn.,New Haven,CT,"Brown, Bridgeport, RIC",8
+11,129,256,1/24/2015,6pm,Brown Univ.,Providence,RI,"Bridgeport, RI College, URI Club Team",9
+11,130,No records found.
+11,377,104,2/7/2015,4:00PM,West Chester Univ.,West Chester,PA,"Ursinus, RIC, and Bridgeport",8
+11,131,179,2/14/2015,1pm,Temple Univ.,Philadelphia,PA,West Chester and Bridgeport,8
+11,132,257,2/15/2015,1pm,Brown Univ.,Providence,RI,"UNH, Bridgeport, Southern CT",9
+11,133,No records found.
+11,134,158,2/28/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Bridgeport, William & Mary",4
+11,972,306,1/11/2015,1pm,Ball State Univ.,Muncie,IN,University of Florida,4
+11,136,No records found.
+11,977,464,3/11/2015,6:00 pm,"Bridgeport, U. of",Bridgeport,CT,Brown University,4
+11,137,371,3/14/2015,6:30 PM,William & Mary,Williamsburg,VA,BRIDGEPORT,4
+11,138,342,3/21/2015,1:00,ECAC 2,New Haven,CT,"West Chester, Bridgeport",8
+12,13,No records found.
+12,14,No records found.
+12,15,No records found.
+12,16,No records found.
+12,17,No records found.
+12,18,No records found.
+12,19,No records found.
+12,20,No records found.
+12,21,No records found.
+12,22,No records found.
+12,23,No records found.
+13,83,341,1/17/2015,1:00,Southern Conn.,New Haven,CT,"Brown, Bridgeport, RIC",8
+13,84,256,1/24/2015,6pm,Brown Univ.,Providence,RI,"Bridgeport, RI College, URI Club Team",9
+13,85,396,1/31/2015,4:00 pm,Rutgers Univ.,New Brunswick,NJ,"Michigan State, UW-Osh Kosh, Brown",9
+13,86,436,2/8/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Towson/Bridgeport/Brown,9
+13,87,257,2/15/2015,1pm,Brown Univ.,Providence,RI,"UNH, Bridgeport, Southern CT",9
+13,88,363,2/22/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Ivy Classic:  Yale, Cornell, Brown",8
+13,89,278,3/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"Utah State, Maryland, & Brown",8
+13,91,258,3/8/2015,1pm,Brown Univ.,Providence,RI,"Lindenwood, Towson",9
+13,90,379,3/5/2015,7:00 pm,"Bridgeport, U. of",Bridgeport,CT,"Rhode Island College, Brown University",8
+13,92,259,3/15/2015,1pm,Brown Univ.,Providence,RI,Yale,5
+13,93,383,3/21/2015,"",ECAC 1,Danbury,CT,"Yale, Temple, William & Mary, Brown, UPenn, Cornell",9
+14,220,416,1/9/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,University of Utah,4
+14,240,No records found.
+14,221,417,1/23/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Utah State,4
+14,222,410,1/30/2015,7:00 pm,Southern Utah Univ.,Cedar City,UT,BYU,4
+14,223,418,2/7/2015,1:00 PM,Brigham Young Univ.,Provo,Ut,Boise State and Denver,8
+14,224,419,2/13/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Southern Utah University,4
+14,225,115,2/21/2015,6:00 pm,"Denver, U. of",Denver,CO,"BYU, Iowa",8
+14,226,199,2/27/2015,7pm MST,Boise State Univ.,Boise,ID,BYU,5
+14,227,420,3/6/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Central Michigan University,8
+14,228,58,3/13/2015,7:00PM,Utah State,Logan,Ut,Brigham Young University,5
+14,229,No records found.
+14,992,No records found.
+15,194,151,1/4/2015,2:00pm,UC Davis,Davis,Ca,"Cal, Sacramento State, SJSU, Stanford",9
+15,195,349,1/9/2015,7:00 PM,Sacramento State,Sacramento,CA,Cal Berkeley,4
+15,196,193,1/16/2015,7:00pm,San Jose State,San Jose,CA,"CAL, UW La Crosse",8
+15,197,380,1/25/2015,2 pm,California,Berkeley,CA,"ASU, SJSU, University of Denver",9
+15,198,386,2/1/2015,10am,UCLA,Los Angeles,CA,California,4
+15,199,381,2/8/2015,12:00 pm,California,Berkeley,CA,Stanford,5
+15,200,382,2/13/2015,7:00 pm,California,Berkeley,CA,Oregon State,4
+15,201,393,2/21/2015,7:00 p.m.,"Washington, U. of",Seattle,WA,"California, Seattle Pacific",9
+15,202,429,2/28/2015,6pm,"Arizona, U. of",Tucson,AZ,California,4
+15,203,384,3/8/2015,12:00 pm,California,Berkeley,CA,UC Davis,5
+15,978,415,3/13/2015,7:00 pm,Southern Utah Univ.,Cedar City,UT,"Boise State, CAL",8
+15,205,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+16,729,38,1/10/2015,4:00,Centenary College,Shreveport,LA,TWU,4
+16,730,294,1/18/2015,2:00 PM,Illinois State,Normal,IL,Centenary,4
+16,731,276,2/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"San Jose State, Centenary & Towson",8
+16,732,39,2/6/2015,6:00 pm,Centenary College,Shreveport,LA,UW Eau Claire,4
+16,733,313,2/8/2015,2:00 pm,Iowa State,Ames,IA,Centenary College,5
+16,734,254,2/13/2015,7pm,Lindenwood University,St.Charles,MO,"TWU, Centenary",8
+16,735,277,2/21/2015,6:00 pm,Texas Woman's Univ.,Denton,TX,Centenary,4
+16,736,218,2/27/2015,7:00pm,"Alaska, U. of",Anchorage,AK,Centenary College,4
+16,737,219,3/1/2015,2:00pm,"Alaska, U. of",Anchorage,AK,Centenary College,4
+16,738,409,3/6/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,Centenary College,4
+16,739,40,3/13/2015,7:00 pm,Centenary College,Shreveport,LA,"LSU, UNH",8
+16,740,41,3/15/2015,2:00 pm,Centenary College,Shreveport,LA,University of New Hampshire,4
+16,741,328,3/21/2015,4:00 pm,MIC Conference,Denton,TX,"Ill. St., SEMO, UIC, Lindenwood, Centenary",8
+17,616,332,1/3/2015,1 pm,Central Michigan,Mt.Pleasant,MI,Wisconsin Eau Claire,4
+17,617,333,1/11/2015,1 pm,Central Michigan,Mt.Pleasant,MI,University of Illinois,5
+17,618,334,1/17/2015,7 pm,Central Michigan,Mt.Pleasant,MI,"Eastern Michigan, Seattle Pacific",9
+17,619,307,1/23/2015,7pm,Ball State Univ.,Muncie,IN,Central Michigan,4
+17,620,298,1/31/2015,4:00 PM,Illinois State,Normal,IL,UIC - CMU - EMU,8
+17,621,335,2/6/2015,7 pm,Central Michigan,Mt.Pleasant,MI,Northern Illinois University,5
+17,622,132,2/15/2015,2p,Kent State University,Kent,OH,Central Michigan,5
+17,623,336,2/22/2015,1 pm,Central Michigan,Mt.Pleasant,MI,Bowling Green State University,5
+17,624,154,2/27/2015,7:00pm,UC Davis,Davis,Ca,"Sac State, Iowa, Central Michigan",8
+17,625,420,3/6/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Central Michigan University,8
+17,626,264,3/15/2015,2pm,Western Michigan,Kalamazoo,MI,Central Michigan,4
+17,627,147,3/21/2015,2p,MAC Conference,Kent,OH,MAC Championships: 7 teams total,17
+18,1,142,1/10/2015,4pm,Penn State,University Park,PA,"Cornell, Rutgers, New Hampshire",9
+18,2,No records found.
+18,3,159,1/24/2015,1:00 pm,Cornell Univ.,Ithaca,NY,Cortland,4
+18,4,No records found.
+18,5,160,2/7/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Brockport, Ithaca, SCSU",8
+18,6,No records found.
+18,7,No records found.
+18,8,158,2/28/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Bridgeport, William & Mary",4
+18,9,161,3/7/2015,12:00 pm,Cornell Univ.,Ithaca,NY,Temple,4
+18,10,23,3/14/2015,4:00pm,West Virginia Univ.,Morgantown,WV,"University of Pennsylvania, Cornell University",9
+18,11,No records found.
+19,552,455,1/13/2015,6:30 p.m.,Cortland State,Cortland,NY,College at Brockport,4
+19,553,163,1/17/2015,1:00 p.m.,Cortland State,Cortland,NY,West Chester,4
+19,554,159,1/24/2015,1:00 pm,Cornell Univ.,Ithaca,NY,Cortland,4
+19,555,166,1/31/2015,1:00 p.m.,Cortland State,Cortland,NY,Springfield College,4
+19,556,377,2/8/2015,1:00 p.m.,Cortland State,Cortland,NY,Southern Connecticut,4
+19,557,68,2/14/2015,1800,Air Force Academy,USAFA,CO,Cortland Univsity,4
+19,558,190,2/21/2015,1:00 PM,Brockport State,Brockport,NY,Cortland College,4
+19,559,191,3/1/2015,1:00 PM,Brockport State,Brockport,NY,"RIC, Ithaca, Cortland",8
+19,560,167,3/7/2015,3:30 p.m.,Cortland State,Cortland,NY,Ithaca College,4
+19,561,378,3/14/2015,1:00pm,NCGA - East,Collegeville,PA,"Brockport. Cortland, RIC, Springfield, Ithaca",9
+20,893,209,1/9/2015,7:00pm,North Carolina State,Raleigh,NC,DENVER,4
+20,478,112,1/17/2015,6:00 pm,"Denver, U. of",Denver,CO,Utah State University,4
+20,938,113,1/19/2015,2:00 pm,"Denver, U. of",Denver,CO,Georgia,4
+20,939,380,1/25/2015,2 pm,California,Berkeley,CA,"ASU, SJSU, University of Denver",9
+20,940,114,1/29/2015,7:00 pm,"Denver, U. of",Denver,CO,Oklahoma,4
+20,941,418,2/7/2015,1:00 PM,Brigham Young Univ.,Provo,Ut,Boise State and Denver,8
+20,942,20,2/13/2015,7:00pm,West Virginia Univ.,Morgantown,WV,University of Denver,5
+20,943,115,2/21/2015,6:00 pm,"Denver, U. of",Denver,CO,"BYU, Iowa",8
+20,944,413,2/27/2015,7:00 pm,Southern Utah Univ.,Cedar City,UT,Denver & Utah State,8
+20,945,116,3/7/2015,6:00,"Denver, U. of",Denver,CO,"Air Force, Ohio State",8
+20,946,69,3/9/2015,1800,Air Force Academy,USAFA,CO,Denver & Alaska,8
+20,947,430,3/14/2015,4pm,"Arizona, U. of",Tucson,AZ,Denver,4
+20,948,117,3/21/2015,6:00 pm,Mountain Rim Conference,Denver,CO,"Boise St., BYU, Denver, S. Utah, Utah St.",17
+21,681,270,1/9/2015,7:00pm,Eastern Michigan,Ypsilanti,MI,Temple University,4
+21,682,334,1/17/2015,7 pm,Central Michigan,Mt.Pleasant,MI,"Eastern Michigan, Seattle Pacific",9
+21,683,271,1/24/2015,4:00pm,Eastern Michigan,Ypsilanti,MI,Bowling Green University,4
+21,684,298,1/31/2015,4:00 PM,Illinois State,Normal,IL,UIC - CMU - EMU,8
+21,685,272,2/7/2015,4:00pm,Eastern Michigan,Ypsilanti,MI,Kent St,4
+21,686,273,2/15/2015,1:00pm,Eastern Michigan,Ypsilanti,MI,Illinois - Chicago,4
+21,687,128,2/20/2015,7:00pm,Western Michigan,Kalamazoo,MI,Eastern Michigan,4
+21,688,274,2/22/2015,1:00pm,Eastern Michigan,Ypsilanti,MI,Ball St,4
+21,689,255,2/28/2015,4pm,Lindenwood University,St.Charles,MO,"Eastern Michigan, ISU, UIC",8
+21,690,263,3/6/2015,6:00 PM,Michigan State,East Lansing,MI,Arizona & Eastern Michigan,9
+21,691,322,3/15/2015,1pm,Northern Illinois Univ.,Dekalb,IL,Eastern Michigan,4
+21,692,147,3/21/2015,2p,MAC Conference,Kent,OH,MAC Championships: 7 teams total,17
+22,693,306,1/11/2015,1pm,Ball State Univ.,Muncie,IN,University of Florida,4
+22,694,6,1/16/2015,7pm,"Florida, U. of",Gainesville,FL,Auburn,5
+22,695,233,1/23/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Florida, U. of",5
+22,696,7,1/30/2015,7pm,"Florida, U. of",Gainesville,FL,Georgia,5
+22,697,2,2/6/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,Florida,5
+22,698,8,2/13/2015,7pm,"Florida, U. of",Gainesville,FL,Missouri,5
+22,699,32,2/20/2015,7pm,L.S.U.,Baton Rouge,LA,florida,5
+22,700,9,2/27/2015,7pm,"Florida, U. of",Gainesville,FL,Kentucky,5
+22,701,224,3/6/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,Florida,5
+22,702,10,3/13/2015,7pm,"Florida, U. of",Gainesville,FL,Texas Woman's,5
+22,703,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+23,442,442,1/9/2015,7:00pm,Maryland-College Park,College Park,MD,West Virginia and George Washington,9
+23,443,337,1/18/2015,1:00 pm,George Washington U.,Washington,DC,"Pitt, UNC, Temple, Cornell",9
+23,444,17,1/25/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"Iowa State University, George Washington University",9
+23,445,338,2/1/2015,1:00 pm,George Washington U.,Washington,DC,Bowling Green,5
+23,446,351,2/6/2015,7:00 PM,Sacramento State,Sacramento,CA,George Washington,4
+23,447,152,2/8/2015,1:00pm,UC Davis,Davis,Ca,George Washington,4
+23,448,212,2/14/2015,7:30pm,North Carolina State,Raleigh,NC,WM/GW,8
+23,449,445,2/20/2015,7:00pm,Maryland-College Park,College Park,MD,"Towson, George Washington and William and Mary",9
+23,450,133,3/1/2015,1p,Kent State University,Kent,OH,George Washington,5
+23,451,339,3/8/2015,1:00 pm,George Washington U.,Washington,DC,"Western Michigan,Yale",9
+23,452,369,3/13/2015,7pm,Towson University,Towson,MD,George Washington,5
+23,453,340,3/15/2015,1:00 pm,George Washington U.,Washington,DC,Towson,5
+23,454,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+24,584,201,1/10/2015,4 pm,"Georgia, U. of",Athens,GA,Michigan,5
+24,585,202,1/16/2015,7:30 pm,"Georgia, U. of",Athens,GA,Missouri,5
+24,586,113,1/19/2015,2:00 pm,"Denver, U. of",Denver,CO,Georgia,4
+24,587,203,1/24/2015,4 pm,"Georgia, U. of",Athens,GA,Kentucky,5
+24,588,7,1/30/2015,7pm,"Florida, U. of",Gainesville,FL,Georgia,5
+24,589,31,2/6/2015,7pm,L.S.U.,Baton Rouge,LA,georgia,5
+24,590,347,2/14/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,University of Georgia,4
+24,591,204,2/20/2015,7 pm,"Georgia, U. of",Athens,GA,Alabama,5
+24,592,27,2/27/2015,7:00 PM,Auburn Univ.,Auburn,AL,University of Georgia,5
+24,593,205,3/7/2015,6 pm,"Georgia, U. of",Athens,GA,Arkansas,5
+24,594,206,3/14/2015,4 pm,"Georgia, U. of",Athens,GA,Utah,5
+24,595,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+25,961,14,1/9/2015,6:00,Wisconsin-Eau Claire,Eau Claire,WI,UW LaCrosse and Gustavus,8
+25,962,No records found.
+25,963,No records found.
+25,964,121,1/30/2015,6:30pm,Wisconsin-La Crosse,La Crosse,WI,Gershon/McLellan Invite,8
+25,965,No records found.
+25,966,87,2/10/2015,6:30,Winona State,Winona,MN,Gustavus,4
+25,967,No records found.
+25,968,15,2/20/2015,6:30,Wisconsin-Eau Claire,Eau Claire,WI,Gustavus,4
+25,969,285,2/22/2015,2:00 pm,"Minnesota, U. of",Minneapolis,MN,"Gustavus, Hamline, Winona State",8
+25,970,186,3/6/2015,6:30PM,Wisconsin-Oshkosh,Oshkosh,WI,Gustavus Adolphus College,4
+25,971,No records found.
+26,928,180,1/10/2015,1:00 pm,Hamline Univ.,St. Paul,MN,UW Oshkosh,4
+26,929,373,1/16/2015,7:00pm,Gustavus Adolphus,St. Peter,MN,Hamline University,4
+26,930,238,1/24/2015,4:00pm,Wisconsin-Whitewater,Whitewater,WI,Hamline University,4
+26,931,303,1/30/2015,7:00pm,Oregon State,Corvallis,OR,"Washington, Sac State, Hamline",9
+26,932,449,2/6/2015,6pm,Wisconsin-Stout,Menomonie,WI,vs. UW-La Crosse and Hamline,8
+26,933,181,2/14/2015,7:00 pm,Hamline Univ.,St. Paul,MN,UW Eau Claire,4
+26,934,182,2/17/2015,6:30 pm,Hamline Univ.,St. Paul,MN,Winona St. University,4
+26,935,285,2/22/2015,2:00 pm,"Minnesota, U. of",Minneapolis,MN,"Gustavus, Hamline, Winona State",8
+26,936,123,2/27/2015,6:30pm,Wisconsin-La Crosse,La Crosse,WI,UW-Eau Claire & Hamline,6
+26,937,220,3/15/2015,2:00 pm,WIAC Conference,Saint Paul,MI,Gustavus/Winona/Stout/Eau Claire/Lacrosse/Whitewater/Oshkosh,9
+27,906,No records found.
+27,907,No records found.
+27,908,No records found.
+27,909,No records found.
+27,910,No records found.
+27,911,No records found.
+27,912,No records found.
+27,913,No records found.
+27,914,No records found.
+27,915,No records found.
+27,916,No records found.
+27,985,328,3/21/2015,4:00 pm,MIC Conference,Denton,TX,"Ill. St., SEMO, UIC, Lindenwood, Centenary",8
+28,310,333,1/11/2015,1 pm,Central Michigan,Mt.Pleasant,MI,University of Illinois,5
+28,311,242,1/17/2015,4:00pm,Illinois-Champaign,Champaign,IL,Rutgers,4
+28,312,77,1/25/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,Illinois,5
+28,313,243,1/31/2015,4:00pm,Illinois-Champaign,Champaign,IL,Penn State,4
+28,314,244,2/7/2015,4:00pm,Illinois-Champaign,Champaign,IL,Minnesota,4
+28,315,357,2/14/2015,3pm,"Iowa, U. of",Iowa City,IA,Illinois,5
+28,316,245,2/20/2015,7:00pm,Illinois-Champaign,Champaign,IL,Michigan State,4
+28,317,246,2/27/2015,7:00pm,Illinois-Champaign,Champaign,IL,Oklahoma,4
+28,318,291,3/1/2015,2:00 p.m.,"Nebraska, U. of",Lincoln,NE,"Illinois, San Jose and TBA - Masters Classic",9
+28,319,321,3/7/2015,6pm,Northern Illinois Univ.,Dekalb,IL,"Illinois, UIC, Illinois State",8
+28,320,293,3/14/2015,12:00 p.m.,"Nebraska, U. of",Lincoln,NE,"Illinois, Michigan St., Ohio St., Maryland - Big Ten Meet",9
+28,545,No records found.
+29,116,No records found.
+29,117,No records found.
+29,118,No records found.
+29,119,No records found.
+29,120,No records found.
+29,121,No records found.
+29,122,No records found.
+29,123,No records found.
+29,124,No records found.
+29,125,No records found.
+29,126,No records found.
+30,365,281,1/10/2015,6:30 pm,"Minnesota, U. of",Minneapolis,MN,Iowa State,4
+30,366,316,1/18/2015,2:00 pm,Iowa State,Ames,IA,Oregon State & Southeast Missouri,8
+30,367,17,1/25/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"Iowa State University, George Washington University",9
+30,368,453,1/31/2015,7:00,Metroplex Challenge Dallas,Allen,TX,"Oklahoma, LSU, Arkansas , Iowa State",9
+30,369,312,2/6/2015,6:30 pm,Iowa State,Ames,IA,Oklahoma,5
+30,370,313,2/8/2015,2:00 pm,Iowa State,Ames,IA,Centenary College,5
+30,371,354,2/13/2015,7:30,Invitational-Navy Pier,Chicago,IL,"Iowa State, Yale, NIU",8
+30,372,314,2/20/2015,6:30 pm,Iowa State,Ames,IA,Minnesota,5
+30,373,146,2/28/2015,4pm,Penn State,University Park,PA,"Brockport, Iowa State, Penn",9
+30,374,358,3/6/2015,7pm,"Iowa, U. of",Iowa City,IA,Iowa State,5
+30,375,315,3/13/2015,6:30 pm,Iowa State,Ames,IA,Temple University,5
+30,376,83,3/21/2015,4 pm,Big 12 Conference,Norman,ok,"University of Oklahoma, Iowa State University, West Virginia",17
+30,990,No records found.
+31,321,96,1/18/2015,1:00pm,Ursinus College,Collegeville,PA,Ithaca College,4
+31,322,325,1/25/2015,1:00pm,Springfield College,Springfield,Ma,Ithaca,4
+31,323,431,2/1/2015,1:00pm,Ithaca College,Ithaca,NY,Brockport,4
+31,324,160,2/7/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Brockport, Ithaca, SCSU",8
+31,325,432,2/15/2015,1:00pm,Ithaca College,Ithaca,NY,"Brockport, RIC & Springfield",8
+31,326,214,2/21/2015,1:00pm,Rhode Island College,Providence,RI,Ithaca College,4
+31,327,191,3/1/2015,1:00 PM,Brockport State,Brockport,NY,"RIC, Ithaca, Cortland",8
+31,328,167,3/7/2015,3:30 p.m.,Cortland State,Cortland,NY,Ithaca College,4
+31,329,38,1/10/2015,4:00,Centenary College,Shreveport,LA,TWU,4
+31,330,310,3/27/2015,6:00,Division III Nationals,Lacrosse,WI,6 Teams,9
+32,206,226,1/9/2015,6:30pm,"Missouri, U. of",Columbia,MO,"Townson, Kent St.",8
+32,207,317,1/16/2015,7pm,Northern Illinois Univ.,Dekalb,IL,Kent State,4
+32,208,130,1/23/2015,7p,Kent State University,Kent,OH,Western Michigan,5
+32,209,131,1/30/2015,7p,Kent State University,Kent,OH,Pittsuburgh,5
+32,210,272,2/7/2015,4:00pm,Eastern Michigan,Ypsilanti,MI,Kent St,4
+32,211,132,2/15/2015,2p,Kent State University,Kent,OH,Central Michigan,5
+32,212,208,2/20/2015,7:00pm,North Carolina State,Raleigh,NC,Kent St/ UNC Rutgers,8
+32,213,133,3/1/2015,1p,Kent State University,Kent,OH,George Washington,5
+32,214,134,3/8/2015,2p,Kent State University,Kent,OH,Ball State,5
+32,215,251,3/14/2015,4:00pm,Bowling Green,Bowling Green,OH,Kent State University,4
+32,216,147,3/21/2015,2p,MAC Conference,Kent,OH,MAC Championships: 7 teams total,17
+33,562,390,1/12/2015,6:00 p.m.,"Washington, U. of",Seattle,WA,Kentucky,5
+33,563,90,1/16/2015,7:00pm,"Kentucky, U. of",Lexington,KY,LSU & Arizona St.,9
+33,564,203,1/24/2015,4 pm,"Georgia, U. of",Athens,GA,Kentucky,5
+33,565,91,1/30/2015,7:00PM,"Kentucky, U. of",Lexington,KY,Alabama,5
+33,566,227,2/6/2015,6:30pm,"Missouri, U. of",Columbia,MO,Kentucky,5
+33,567,118,2/14/2015,7:00,Nadia Meet,Oklahoma City,OK,Oklahoma and Kentucky,5
+33,568,92,2/20/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Arkansas,5
+33,569,9,2/27/2015,7pm,"Florida, U. of",Gainesville,FL,Kentucky,5
+33,570,93,3/6/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Auburn,5
+33,571,94,3/13/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Pitt & Ball State,8
+33,572,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+34,836,288,1/9/2015,7:00 p.m.,"Nebraska, U. of",Lincoln,NE,Lindenwood - Tumble and Rumble,5
+34,837,No records found.
+34,838,No records found.
+34,839,No records found.
+34,840,No records found.
+34,841,254,2/13/2015,7pm,Lindenwood University,St.Charles,MO,"TWU, Centenary",8
+34,842,253,2/22/2015,2pm,Lindenwood University,St.Charles,MO,ISU,4
+34,843,255,2/28/2015,4pm,Lindenwood University,St.Charles,MO,"Eastern Michigan, ISU, UIC",8
+34,844,No records found.
+34,845,No records found.
+34,846,No records found.
+35,183,29,1/9/2015,7pm,L.S.U.,Baton Rouge,LA,Iowa,5
+35,184,90,1/16/2015,7:00pm,"Kentucky, U. of",Lexington,KY,LSU & Arizona St.,9
+35,185,30,1/23/2015,7pm,L.S.U.,Baton Rouge,LA,Mizzouri,5
+35,186,453,1/31/2015,7:00,Metroplex Challenge Dallas,Allen,TX,"Oklahoma, LSU, Arkansas , Iowa State",9
+35,187,31,2/6/2015,7pm,L.S.U.,Baton Rouge,LA,georgia,5
+35,188,26,2/13/2015,7:00 PM,Auburn Univ.,Auburn,AL,Louisiana State University,5
+35,189,32,2/20/2015,7pm,L.S.U.,Baton Rouge,LA,florida,5
+35,190,236,2/27/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,LSU,5
+35,191,33,3/6/2015,7pm,L.S.U.,Baton Rouge,LA,minnesota,5
+35,192,40,3/13/2015,7:00 pm,Centenary College,Shreveport,LA,"LSU, UNH",8
+35,193,85,3/21/2015,2 p.m. & 6 p.m.,SEC Conference,Duluth,GA,"Alabama, Arkansas, Auburn, UF, UGA, UK, LSU, Missouri",17
+36,466,442,1/9/2015,7:00pm,Maryland-College Park,College Park,MD,West Virginia and George Washington,9
+36,467,443,1/15/2015,7:00pm,Maryland-College Park,College Park,MD,Minnesota,5
+36,468,177,1/24/2015,4pm,Penn State,University Park,PA,Maryland,5
+36,469,356,1/30/2015,7pm,"Iowa, U. of",Iowa City,IA,Maryland,5
+36,470,444,2/7/2015,7:00pm,Maryland-College Park,College Park,MD,University of Michigan,5
+36,471,397,2/14/2015,1:00 pm,Rutgers Univ.,New Brunswick,NJ,"Maryland, Ursinus, Cornell",9
+36,472,445,2/20/2015,7:00pm,Maryland-College Park,College Park,MD,"Towson, George Washington and William and Mary",9
+36,473,21,2/22/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"University of New Hampshire, University of Maryland, Rutgers",9
+36,474,278,3/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"Utah State, Maryland, & Brown",8
+36,475,446,3/8/2015,2:00pm,Maryland-College Park,College Park,MD,"Bridgeport, Southern Connecticut and William and Mary",9
+36,476,293,3/14/2015,12:00 p.m.,"Nebraska, U. of",Lincoln,NE,"Illinois, Michigan St., Ohio St., Maryland - Big Ten Meet",9
+36,477,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+37,172,201,1/10/2015,4 pm,"Georgia, U. of",Athens,GA,Michigan,5
+37,173,399,1/17/2015,4pm,Ohio State Univ.,Columbus,OH,University of Michigan and West Virginia University,9
+37,174,77,1/25/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,Illinois,5
+37,175,78,1/31/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,Nebraska,5
+37,176,444,2/7/2015,7:00pm,Maryland-College Park,College Park,MD,University of Michigan,5
+37,177,261,2/13/2015,6:00 PM,Michigan State,East Lansing,MI,Michigan,5
+37,178,79,2/20/2015,7:00 pm,"Michigan, U. of",Ann Arbor,MI,Oklahoma,5
+37,179,80,2/28/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,North Carolina State,5
+37,180,269,3/6/2015,7:00 pm,"Utah, U. of",Salt Lake City,UT,Michigan,4
+37,181,287,3/14/2015,4:00 pm,"Minnesota, U. of",Minneapolis,MN,"B1G Qualifier:  Iowa, Michigan, Penn State, Rutgers",9
+37,182,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+38,777,No records found.
+38,778,No records found.
+38,779,260,1/24/2015,4:00 PM,Michigan State,East Lansing,MI,Minnesota,5
+38,780,No records found.
+38,781,No records found.
+38,782,261,2/13/2015,6:00 PM,Michigan State,East Lansing,MI,Michigan,5
+38,783,262,2/15/2015,2:00 PM,Michigan State,East Lansing,MI,Pittsburgh,5
+38,784,No records found.
+38,785,No records found.
+38,786,No records found.
+38,787,263,3/6/2015,6:00 PM,Michigan State,East Lansing,MI,Arizona & Eastern Michigan,9
+38,788,No records found.
+38,987,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+39,378,281,1/10/2015,6:30 pm,"Minnesota, U. of",Minneapolis,MN,Iowa State,4
+39,379,443,1/15/2015,7:00pm,Maryland-College Park,College Park,MD,Minnesota,5
+39,380,282,1/17/2015,4:00 pm,"Minnesota, U. of",Minneapolis,MN,Oklahoma,4
+39,381,260,1/24/2015,4:00 PM,Michigan State,East Lansing,MI,Minnesota,5
+39,382,283,1/31/2015,6:00 pm,"Minnesota, U. of",Minneapolis,MN,Ohio State,4
+39,383,244,2/7/2015,4:00pm,Illinois-Champaign,Champaign,IL,Minnesota,4
+39,384,284,2/14/2015,6:00 pm,"Minnesota, U. of",Minneapolis,MN,Nebraska,4
+39,385,314,2/20/2015,6:30 pm,Iowa State,Ames,IA,Minnesota,5
+39,386,285,2/22/2015,2:00 pm,"Minnesota, U. of",Minneapolis,MN,"Gustavus, Hamline, Winona State",8
+39,387,286,2/28/2015,6:00 pm,"Minnesota, U. of",Minneapolis,MN,New Hampshire,4
+39,388,33,3/6/2015,7pm,L.S.U.,Baton Rouge,LA,minnesota,5
+39,389,287,3/14/2015,4:00 pm,"Minnesota, U. of",Minneapolis,MN,"B1G Qualifier:  Iowa, Michigan, Penn State, Rutgers",9
+39,390,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+40,704,226,1/9/2015,6:30pm,"Missouri, U. of",Columbia,MO,"Townson, Kent St.",8
+40,705,202,1/16/2015,7:30 pm,"Georgia, U. of",Athens,GA,Missouri,5
+40,706,30,1/23/2015,7pm,L.S.U.,Baton Rouge,LA,Mizzouri,5
+40,707,406,1/30/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,University of Missouri and Lindenwood University,8
+40,708,227,2/6/2015,6:30pm,"Missouri, U. of",Columbia,MO,Kentucky,5
+40,709,228,2/8/2015,3:00pm,"Missouri, U. of",Columbia,MO,Lindenwood,4
+40,710,8,2/13/2015,7pm,"Florida, U. of",Gainesville,FL,Missouri,5
+40,711,229,2/20/2015,6:30pm,"Missouri, U. of",Columbia,MO,Auburn,5
+40,712,4,2/27/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,Missouri,5
+40,713,230,3/6/2015,6:30pm,"Missouri, U. of",Columbia,MO,Alabama,5
+40,714,231,3/13/2015,6:30pm,"Missouri, U. of",Columbia,MO,N.C. State,4
+40,982,No records found.
+40,997,No records found.
+41,501,No records found.
+41,502,No records found.
+41,503,No records found.
+41,504,No records found.
+41,505,No records found.
+41,506,No records found.
+41,507,No records found.
+41,508,No records found.
+41,509,No records found.
+41,510,No records found.
+41,511,No records found.
+42,94,142,1/10/2015,4pm,Penn State,University Park,PA,"Cornell, Rutgers, New Hampshire",9
+42,95,433,1/18/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Yale,4
+42,96,434,1/24/2015,4:00pm,"New Hampshire, U. of",Durham,NH,Pittsburgh,4
+42,97,435,1/31/2015,7:00pm,"New Hampshire, U. of",Durham,NH,Temple,4
+42,98,436,2/8/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Towson/Bridgeport/Brown,9
+42,99,257,2/15/2015,1pm,Brown Univ.,Providence,RI,"UNH, Bridgeport, Southern CT",9
+42,100,21,2/22/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"University of New Hampshire, University of Maryland, Rutgers",9
+42,101,286,2/28/2015,6:00 pm,"Minnesota, U. of",Minneapolis,MN,New Hampshire,4
+42,102,437,3/7/2015,7:00pm,"New Hampshire, U. of",Durham,NH,UPenn,4
+42,151,40,3/13/2015,7:00 pm,Centenary College,Shreveport,LA,"LSU, UNH",8
+42,103,41,3/15/2015,2:00 pm,Centenary College,Shreveport,LA,University of New Hampshire,4
+42,241,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+43,659,344,1/9/2015,7:00PM,"North Carolina, U. of",Chapel Hill,NC,Auburn University,4
+43,660,337,1/18/2015,1:00 pm,George Washington U.,Washington,DC,"Pitt, UNC, Temple, Cornell",9
+43,661,367,1/25/2015,4pm,Towson University,Towson,MD,"West Chester, William & Mary, University of North Carolina",9
+43,662,211,1/31/2015,7:00pm,North Carolina State,Raleigh,NC,WVU/WM/UNC,8
+43,663,346,2/7/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,College of William & Mary,4
+43,664,347,2/14/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,University of Georgia,4
+43,665,208,2/20/2015,7:00pm,North Carolina State,Raleigh,NC,Kent St/ UNC Rutgers,8
+43,666,111,2/28/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,"West Virginia, North Carolina, Temple",9
+43,667,348,3/7/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,University of Pittsburgh,4
+43,668,28,3/13/2015,7:00 PM,Auburn Univ.,Auburn,AL,Univeristy of North Carolina,5
+43,669,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+44,243,209,1/9/2015,7:00pm,North Carolina State,Raleigh,NC,DENVER,4
+44,244,210,1/16/2015,7:00pm,North Carolina State,Raleigh,NC,WASHINGTON,4
+44,245,275,1/25/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,North Carolina State University,4
+44,246,211,1/31/2015,7:00pm,North Carolina State,Raleigh,NC,WVU/WM/UNC,8
+44,247,109,2/6/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,North Carolina State,5
+44,248,212,2/14/2015,7:30pm,North Carolina State,Raleigh,NC,WM/GW,8
+44,249,208,2/20/2015,7:00pm,North Carolina State,Raleigh,NC,Kent St/ UNC Rutgers,8
+44,250,80,2/28/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,North Carolina State,5
+44,251,394,3/6/2015,7:00 p.m.,"Washington, U. of",Seattle,WA,North Carolina State,5
+44,252,231,3/13/2015,6:30pm,"Missouri, U. of",Columbia,MO,N.C. State,4
+44,253,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+45,894,173,1/9/2015,7:00pm,UIC,Chicago,IL,NIU,4
+45,895,317,1/16/2015,7pm,Northern Illinois Univ.,Dekalb,IL,Kent State,4
+45,896,318,1/23/2015,7pm,Northern Illinois Univ.,Dekalb,IL,Lindenwood,4
+45,897,140,2/1/2015,2:00pm,Western Michigan,Kalamazoo,MI,Northern Illinois,4
+45,898,335,2/6/2015,7 pm,Central Michigan,Mt.Pleasant,MI,Northern Illinois University,5
+45,899,354,2/13/2015,7:30,Invitational-Navy Pier,Chicago,IL,"Iowa State, Yale, NIU",8
+45,900,320,2/15/2015,2pm,Northern Illinois Univ.,Dekalb,IL,"Bowling Green, Alaska",8
+45,901,408,2/20/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,Northern Illinois University,4
+45,902,309,2/27/2015,7pm,Ball State Univ.,Muncie,IN,Northern Illinois,4
+45,903,321,3/7/2015,6pm,Northern Illinois Univ.,Dekalb,IL,"Illinois, UIC, Illinois State",8
+45,904,322,3/15/2015,1pm,Northern Illinois Univ.,Dekalb,IL,Eastern Michigan,4
+45,905,147,3/21/2015,2p,MAC Conference,Kent,OH,MAC Championships: 7 teams total,17
+46,455,108,1/9/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,Ohio State,5
+46,456,399,1/17/2015,4pm,Ohio State Univ.,Columbus,OH,University of Michigan and West Virginia University,9
+46,457,400,1/24/2015,4pm,Ohio State Univ.,Columbus,OH,The University of Iowa,5
+46,458,283,1/31/2015,6:00 pm,"Minnesota, U. of",Minneapolis,MN,Ohio State,4
+46,459,248,2/6/2015,6:00pm,Bowling Green,Bowling Green,OH,Ohio State University,4
+46,460,401,2/8/2015,2pm,Ohio State Univ.,Columbus,OH,Rutgers,5
+46,461,145,2/14/2015,4pm,Penn State,University Park,PA,Ohio State,5
+46,462,402,2/20/2015,7pm,Ohio State Univ.,Columbus,OH,Boise State University,5
+46,463,403,2/28/2015,4pm,Ohio State Univ.,Columbus,OH,Southeastern Missouri State,5
+46,464,116,3/7/2015,6:00,"Denver, U. of",Denver,CO,"Air Force, Ohio State",8
+46,465,293,3/14/2015,12:00 p.m.,"Nebraska, U. of",Lincoln,NE,"Illinois, Michigan St., Ohio St., Maryland - Big Ten Meet",9
+46,986,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+47,404,222,1/9/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,Arkansas,5
+47,405,282,1/17/2015,4:00 pm,"Minnesota, U. of",Minneapolis,MN,Oklahoma,4
+47,406,223,1/23/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,TWU and SEMO,9
+47,407,114,1/29/2015,7:00 pm,"Denver, U. of",Denver,CO,Oklahoma,4
+47,408,453,1/31/2015,7:00,Metroplex Challenge Dallas,Allen,TX,"Oklahoma, LSU, Arkansas , Iowa State",9
+47,409,312,2/6/2015,6:30 pm,Iowa State,Ames,IA,Oklahoma,5
+47,410,118,2/14/2015,7:00,Nadia Meet,Oklahoma City,OK,Oklahoma and Kentucky,5
+47,411,79,2/20/2015,7:00 pm,"Michigan, U. of",Ann Arbor,MI,Oklahoma,5
+47,412,246,2/27/2015,7:00pm,Illinois-Champaign,Champaign,IL,Oklahoma,4
+47,413,224,3/6/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,Florida,5
+47,414,237,3/13/2015,7:30 PM,"Alabama, U. of",Tuscaloosa,AL,"Oklahoma, U. of",5
+47,415,83,3/21/2015,4 pm,Big 12 Conference,Norman,ok,"University of Oklahoma, Iowa State University, West Virginia",17
+48,422,302,1/12/2015,6:00pm,Oregon State,Corvallis,OR,UCLA,5
+48,423,316,1/18/2015,2:00 pm,Iowa State,Ames,IA,Oregon State & Southeast Missouri,8
+48,424,329,1/26/2015,6:00 PM,Stanford Univ.,Stanford,CA,Oregon State,5
+48,425,303,1/30/2015,7:00pm,Oregon State,Corvallis,OR,"Washington, Sac State, Hamline",9
+48,426,304,2/7/2015,2:00pm,Oregon State,Corvallis,OR,Arizona,5
+48,427,382,2/13/2015,7:00 pm,California,Berkeley,CA,Oregon State,4
+48,428,423,2/20/2015,7:00 pm,Arizona State,Tempe,AZ,Oregon State,4
+48,429,305,2/27/2015,7:00pm,Oregon State,Corvallis,OR,Utah,5
+48,430,292,3/7/2015,6:00 p.m.,"Nebraska, U. of",Lincoln,NE,Oregon State,5
+48,431,221,3/14/2015,7:00pm,Oregon State,Corvallis,OR,"San Jose State, Lindenwood, SPU",9
+48,981,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+48,995,No records found.
+49,56,142,1/10/2015,4pm,Penn State,University Park,PA,"Cornell, Rutgers, New Hampshire",9
+49,57,No records found.
+49,58,177,1/24/2015,4pm,Penn State,University Park,PA,Maryland,5
+49,59,243,1/31/2015,4:00pm,Illinois-Champaign,Champaign,IL,Penn State,4
+49,60,144,2/7/2015,4pm,Penn State,University Park,PA,Michigan State,5
+49,61,145,2/14/2015,4pm,Penn State,University Park,PA,Ohio State,5
+49,62,110,2/21/2015,1:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,Penn State,5
+49,63,146,2/28/2015,4pm,Penn State,University Park,PA,"Brockport, Iowa State, Penn",9
+49,64,22,3/8/2015,2:00pm,West Virginia Univ.,Morgantown,WV,Penn State University,5
+49,65,No records found.
+49,66,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+50,277,359,1/18/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Stanford, Bridgeport",8
+50,278,360,1/25/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,Yale,4
+50,279,361,2/1/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Ursinus, Cornell, West Chester",8
+50,280,362,2/7/2015,12:00 PM,"Pennsylvania, U. of",Philadelphia,PA,Temple,4
+50,281,452,2/14/2015,4pm,Towson University,Towson,MD,University of Pennsylvania,5
+50,282,363,2/22/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Ivy Classic:  Yale, Cornell, Brown",8
+50,283,146,2/28/2015,4pm,Penn State,University Park,PA,"Brockport, Iowa State, Penn",9
+50,284,437,3/7/2015,7:00pm,"New Hampshire, U. of",Durham,NH,UPenn,4
+50,285,23,3/14/2015,4:00pm,West Virginia Univ.,Morgantown,WV,"University of Pennsylvania, Cornell University",9
+50,286,383,3/21/2015,"",ECAC 1,Danbury,CT,"Yale, Temple, William & Mary, Brown, UPenn, Cornell",9
+51,230,108,1/9/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,Ohio State,5
+51,231,337,1/18/2015,1:00 pm,George Washington U.,Washington,DC,"Pitt, UNC, Temple, Cornell",9
+51,232,434,1/24/2015,4:00pm,"New Hampshire, U. of",Durham,NH,Pittsburgh,4
+51,233,131,1/30/2015,7p,Kent State University,Kent,OH,Pittsuburgh,5
+51,234,109,2/6/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,North Carolina State,5
+51,235,262,2/15/2015,2:00 PM,Michigan State,East Lansing,MI,Pittsburgh,5
+51,236,110,2/21/2015,1:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,Penn State,5
+51,237,111,2/28/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,"West Virginia, North Carolina, Temple",9
+51,238,348,3/7/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,University of Pittsburgh,4
+51,239,94,3/13/2015,7:00pm,"Kentucky, U. of",Lexington,KY,Pitt & Ball State,8
+51,242,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+52,287,213,1/11/2015,1:00 pm,Rhode Island College,Providence,RI,Springfield College,4
+52,288,341,1/17/2015,1:00,Southern Conn.,New Haven,CT,"Brown, Bridgeport, RIC",8
+52,289,256,1/24/2015,6pm,Brown Univ.,Providence,RI,"Bridgeport, RI College, URI Club Team",9
+52,290,438,1/31/2015,1:00pm,Yale University,New Haven,CT,"Bridgeport, Southern CT, URI",9
+52,291,104,2/7/2015,4:00PM,West Chester Univ.,West Chester,PA,"Ursinus, RIC, and Bridgeport",8
+52,292,432,2/15/2015,1:00pm,Ithaca College,Ithaca,NY,"Brockport, RIC & Springfield",8
+52,293,214,2/21/2015,1:00pm,Rhode Island College,Providence,RI,Ithaca College,4
+52,294,191,3/1/2015,1:00 PM,Brockport State,Brockport,NY,"RIC, Ithaca, Cortland",8
+52,295,379,3/5/2015,7:00 pm,"Bridgeport, U. of",Bridgeport,CT,"Rhode Island College, Brown University",8
+52,296,326,3/8/2015,1:00pm,Springfield College,Springfield,Ma,Rhode Island College,4
+52,297,No records found.
+53,298,142,1/10/2015,4pm,Penn State,University Park,PA,"Cornell, Rutgers, New Hampshire",9
+53,299,242,1/17/2015,4:00pm,Illinois-Champaign,Champaign,IL,Rutgers,4
+53,300,395,1/24/2015,1:00 PM,Rutgers Univ.,New Brunswick,NJ,"Nebraska, Brockport, Southern Conn.",9
+53,301,396,1/31/2015,4:00 pm,Rutgers Univ.,New Brunswick,NJ,"Michigan State, UW-Osh Kosh, Brown",9
+53,302,401,2/8/2015,2pm,Ohio State Univ.,Columbus,OH,Rutgers,5
+53,303,397,2/14/2015,1:00 pm,Rutgers Univ.,New Brunswick,NJ,"Maryland, Ursinus, Cornell",9
+53,304,208,2/20/2015,7:00pm,North Carolina State,Raleigh,NC,Kent St/ UNC Rutgers,8
+53,305,21,2/22/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"University of New Hampshire, University of Maryland, Rutgers",9
+53,307,368,2/27/2015,7pm,Towson University,Towson,MD,"Rutgers, Yale, Michigan State",9
+53,306,398,3/7/2015,6:00pm,Rutgers Univ.,New Brunswick,NJ,"West Chester, Bowling Green",9
+53,308,287,3/14/2015,4:00 pm,"Minnesota, U. of",Minneapolis,MN,"B1G Qualifier:  Iowa, Michigan, Penn State, Rutgers",9
+53,309,81,3/21/2015,11:30/4:30,Big 10 Conference,Ann Arbor,MI,ILL IA Maryland MSU MN NE OSU PSU Rutgers,17
+54,789,405,1/11/2015,1:00pm CST,S.E. Missouri,Cape Girardeau,MO,Illinois State University,4
+54,790,316,1/18/2015,2:00 pm,Iowa State,Ames,IA,Oregon State & Southeast Missouri,8
+54,791,223,1/23/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,TWU and SEMO,9
+54,792,406,1/30/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,University of Missouri and Lindenwood University,8
+54,793,299,2/6/2015,7:00 PM,Illinois State,Normal,IL,SEMO,4
+54,794,3,2/13/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,"Illinois State, Semo",9
+54,795,407,2/15/2015,1:00pm CST,S.E. Missouri,Cape Girardeau,MO,Texas Woman's University,4
+54,796,408,2/20/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,Northern Illinois University,4
+54,797,403,2/28/2015,4pm,Ohio State Univ.,Columbus,OH,Southeastern Missouri State,5
+54,798,409,3/6/2015,6:30pm CST,S.E. Missouri,Cape Girardeau,MO,Centenary College,4
+54,799,172,3/15/2015,2:00pm,UIC,Chicago,IL,SEMO,4
+54,984,No records found.
+55,765,151,1/4/2015,2:00pm,UC Davis,Davis,Ca,"Cal, Sacramento State, SJSU, Stanford",9
+55,766,No records found.
+55,767,No records found.
+55,768,No records found.
+55,769,No records found.
+55,770,No records found.
+55,771,No records found.
+55,772,No records found.
+55,773,No records found.
+55,774,No records found.
+55,775,No records found.
+55,776,No records found.
+56,24,No records found.
+56,25,No records found.
+56,26,No records found.
+56,27,No records found.
+56,28,No records found.
+56,29,No records found.
+56,30,No records found.
+56,31,No records found.
+56,32,No records found.
+56,33,No records found.
+56,34,No records found.
+56,35,No records found.
+57,754,11,1/9/2015,7:00pm,Seattle Pacific,Seattle,WA,UC - Davis,4
+57,755,334,1/17/2015,7 pm,Central Michigan,Mt.Pleasant,MI,"Eastern Michigan, Seattle Pacific",9
+57,756,66,1/24/2015,1800,Air Force Academy,USAFA,CO,Seattle Pacific University,4
+57,757,12,1/30/2015,7:00pm,Seattle Pacific,Seattle,WA,Univ. of Alaska - Anchorage,4
+57,758,59,2/6/2015,7:00PM,Utah State,Logan,Ut,Seattle Pacific University,4
+57,759,153,2/13/2015,7:00pm,UC Davis,Davis,Ca,SPU,4
+57,760,393,2/21/2015,7:00 p.m.,"Washington, U. of",Seattle,WA,"California, Seattle Pacific",9
+57,761,13,2/27/2015,7:00pm,Seattle Pacific,Seattle,WA,US Air Force Academy,4
+57,762,No records found.
+57,763,221,3/14/2015,7:00pm,Oregon State,Corvallis,OR,"San Jose State, Lindenwood, SPU",9
+57,764,323,3/21/2015,6:00pm,MPSF Conference,Anchorage,AK,List one or more opponents here,9
+58,331,324,1/9/2015,5:00pm,Springfield College,Springfield,Ma,Southern Connecticut State University,4
+58,332,341,1/17/2015,1:00,Southern Conn.,New Haven,CT,"Brown, Bridgeport, RIC",8
+58,333,395,1/24/2015,1:00 PM,Rutgers Univ.,New Brunswick,NJ,"Nebraska, Brockport, Southern Conn.",9
+58,334,438,1/31/2015,1:00pm,Yale University,New Haven,CT,"Bridgeport, Southern CT, URI",9
+58,335,160,2/7/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Brockport, Ithaca, SCSU",8
+58,336,377,2/8/2015,1:00 p.m.,Cortland State,Cortland,NY,Southern Connecticut,4
+58,974,463,2/16/2015,7pm,Brown Univ.,Providence,RI,"UNH, Bridgeport, Southern CT",9
+58,338,106,2/27/2015,7:00 PM,West Chester Univ.,West Chester,PA,Ursinus and SCSU @ Philly Convention Center,8
+58,339,446,3/8/2015,2:00pm,Maryland-College Park,College Park,MD,"Bridgeport, Southern Connecticut and William and Mary",9
+58,340,107,3/14/2015,1:00 PM,West Chester Univ.,West Chester,PA,SCSU,4
+58,341,342,3/21/2015,1:00,ECAC 2,New Haven,CT,"West Chester, Bridgeport",8
+59,139,No records found.
+59,140,No records found.
+59,141,No records found.
+59,142,No records found.
+59,143,No records found.
+59,144,No records found.
+59,145,No records found.
+59,146,No records found.
+59,147,No records found.
+59,148,No records found.
+59,149,No records found.
+59,150,No records found.
+60,354,324,1/9/2015,5:00pm,Springfield College,Springfield,Ma,Southern Connecticut State University,4
+60,355,213,1/11/2015,1:00 pm,Rhode Island College,Providence,RI,Springfield College,4
+60,356,188,1/17/2015,1:00 PM,Brockport State,Brockport,NY,Springfield,4
+60,357,325,1/25/2015,1:00pm,Springfield College,Springfield,Ma,Ithaca,4
+60,358,166,1/31/2015,1:00 p.m.,Cortland State,Cortland,NY,Springfield College,4
+60,359,439,2/7/2015,1:00pm,Yale University,New Haven,CT,Springfield,4
+60,360,432,2/15/2015,1:00pm,Ithaca College,Ithaca,NY,"Brockport, RIC & Springfield",8
+60,361,105,2/21/2015,1:00 PM,West Chester Univ.,West Chester,PA,Springfield College,4
+60,362,326,3/8/2015,1:00pm,Springfield College,Springfield,Ma,Rhode Island College,4
+60,363,378,3/14/2015,1:00pm,NCGA - East,Collegeville,PA,"Brockport. Cortland, RIC, Springfield, Ithaca",9
+60,364,310,3/27/2015,6:00,Division III Nationals,Lacrosse,WI,6 Teams,9
+61,343,No records found.
+61,344,No records found.
+61,345,No records found.
+61,346,329,1/26/2015,6:00 PM,Stanford Univ.,Stanford,CA,Oregon State,5
+61,347,No records found.
+61,348,No records found.
+61,349,330,2/14/2015,4:00 PM,Stanford Univ.,Stanford,CA,UCLA,5
+61,350,No records found.
+61,351,331,3/2/2015,7:00 PM,Stanford Univ.,Stanford,CA,Washington,5
+61,352,No records found.
+61,353,No records found.
+62,76,270,1/9/2015,7:00pm,Eastern Michigan,Ypsilanti,MI,Temple University,4
+62,217,337,1/18/2015,1:00 pm,George Washington U.,Washington,DC,"Pitt, UNC, Temple, Cornell",9
+62,77,178,1/24/2015,1pm,Temple Univ.,Philadelphia,PA,Ursinus College,4
+62,218,435,1/31/2015,7:00pm,"New Hampshire, U. of",Durham,NH,Temple,4
+62,219,362,2/7/2015,12:00 PM,"Pennsylvania, U. of",Philadelphia,PA,Temple,4
+62,78,179,2/14/2015,1pm,Temple Univ.,Philadelphia,PA,West Chester and Bridgeport,8
+62,115,97,2/22/2015,1:00pm,Ursinus College,Collegeville,PA,Temple University,4
+62,79,111,2/28/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,"West Virginia, North Carolina, Temple",9
+62,80,161,3/7/2015,12:00 pm,Cornell Univ.,Ithaca,NY,Temple,4
+62,81,No records found.
+62,82,No records found.
+63,265,38,1/10/2015,4:00,Centenary College,Shreveport,LA,TWU,4
+63,266,223,1/23/2015,7:00 pm,"Oklahoma, U. of",Norman,OK,TWU and SEMO,9
+63,267,275,1/25/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,North Carolina State University,4
+63,268,276,2/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"San Jose State, Centenary & Towson",8
+63,269,67,2/7/2015,1800,Air Force Academy,USAFA,CO,Texas Woman's University,4
+63,270,254,2/13/2015,7pm,Lindenwood University,St.Charles,MO,"TWU, Centenary",8
+63,271,407,2/15/2015,1:00pm CST,S.E. Missouri,Cape Girardeau,MO,Texas Woman's University,4
+63,272,277,2/21/2015,6:00 pm,Texas Woman's Univ.,Denton,TX,Centenary,4
+63,273,278,3/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"Utah State, Maryland, & Brown",8
+63,274,279,3/8/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,University of Arizona,4
+63,275,10,3/13/2015,7pm,"Florida, U. of",Gainesville,FL,Texas Woman's,5
+63,276,No records found.
+64,254,226,1/9/2015,6:30pm,"Missouri, U. of",Columbia,MO,"Townson, Kent St.",8
+64,255,370,1/17/2015,4 PM,William & Mary,Williamsburg,VA,TOWSON,4
+64,256,367,1/25/2015,4pm,Towson University,Towson,MD,"West Chester, William & Mary, University of North Carolina",9
+64,257,276,2/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"San Jose State, Centenary & Towson",8
+64,258,436,2/8/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Towson/Bridgeport/Brown,9
+64,259,452,2/14/2015,4pm,Towson University,Towson,MD,University of Pennsylvania,5
+64,260,445,2/20/2015,7:00pm,Maryland-College Park,College Park,MD,"Towson, George Washington and William and Mary",9
+64,261,368,2/27/2015,7pm,Towson University,Towson,MD,"Rutgers, Yale, Michigan State",9
+64,262,258,3/8/2015,1pm,Brown Univ.,Providence,RI,"Lindenwood, Towson",9
+64,263,369,3/13/2015,7pm,Towson University,Towson,MD,George Washington,5
+64,264,340,3/15/2015,1:00 pm,George Washington U.,Washington,DC,Towson,5
+64,342,441,3/21/2015,2:00 PM,EAGL,Washington,DC,"N C State, UNC , Towson, UNH,Pitt,GWU",17
+65,742,151,1/4/2015,2:00pm,UC Davis,Davis,Ca,"Cal, Sacramento State, SJSU, Stanford",9
+65,747,11,1/9/2015,7:00pm,Seattle Pacific,Seattle,WA,UC - Davis,4
+65,748,265,1/16/2015,7:00pm,"Utah, U. of",Salt Lake City,UT,"Southern Utah, Boise State, UC Davis",8
+65,752,350,1/23/2015,7:00 PM,Sacramento State,Sacramento,CA,UC Davis,4
+65,749,56,1/30/2015,7:00PM,Utah State,Logan,Ut,"Boise State University, UC Davis",8
+65,743,152,2/8/2015,1:00pm,UC Davis,Davis,Ca,George Washington,4
+65,744,153,2/13/2015,7:00pm,UC Davis,Davis,Ca,SPU,4
+65,750,194,2/20/2015,7:00pm,San Jose State,San Jose,CA,UCD,4
+65,745,154,2/27/2015,7:00pm,UC Davis,Davis,Ca,"Sac State, Iowa, Central Michigan",8
+65,751,384,3/8/2015,12:00 pm,California,Berkeley,CA,UC Davis,5
+65,746,155,3/13/2015,7:00pm,UC Davis,Davis,Ca,Washington,4
+65,753,323,3/21/2015,6:00pm,MPSF Conference,Anchorage,AK,List one or more opponents here,9
+66,639,302,1/12/2015,6:00pm,Oregon State,Corvallis,OR,UCLA,5
+66,640,385,1/19/2015,1pm,UCLA,Los Angeles,CA,Arizona,4
+66,630,266,1/23/2015,6:00 pm,"Utah, U. of",Salt Lake City,UT,UCLA,4
+66,631,386,2/1/2015,10am,UCLA,Los Angeles,CA,California,4
+66,643,387,2/9/2015,6pm,UCLA,Los Angeles,CA,Washington,4
+66,633,330,2/14/2015,4:00 PM,Stanford Univ.,Stanford,CA,UCLA,5
+66,645,459,2/21/2015,4pm,UCLA,Los Angeles,CA,"Nebraska, Sacramento State, Bridgeport",8
+66,635,424,2/28/2015,12:00 pm,Arizona State,Tempe,AZ,UCLA,4
+66,636,389,3/7/2015,4pm,UCLA,Los Angeles,CA,Stanford,4
+66,648,5,3/13/2015,7 pm,"Arkansas, U. of",Fayetteville,AR,UCLA,5
+66,649,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+67,606,173,1/9/2015,7:00pm,UIC,Chicago,IL,NIU,4
+67,607,426,1/16/2015,7pm,"Arizona, U. of",Tucson,AZ,"Sacramento St., U. Wisconsin-Stout, Illinois-Chicago",8
+67,608,174,1/25/2015,2:00pm,UIC,Chicago,IL,Illinois State,4
+67,609,298,1/31/2015,4:00 PM,Illinois State,Normal,IL,UIC - CMU - EMU,8
+67,610,175,2/8/2015,2:00pm,UIC,Chicago,IL,WMU,4
+67,611,273,2/15/2015,1:00pm,Eastern Michigan,Ypsilanti,MI,Illinois - Chicago,4
+67,612,176,2/22/2015,2:00pm,UIC,Chicago,IL,MSU,4
+67,613,255,2/28/2015,4pm,Lindenwood University,St.Charles,MO,"Eastern Michigan, ISU, UIC",8
+67,614,321,3/7/2015,6pm,Northern Illinois Univ.,Dekalb,IL,"Illinois, UIC, Illinois State",8
+67,615,172,3/15/2015,2:00pm,UIC,Chicago,IL,SEMO,4
+67,983,No records found.
+68,67,95,1/14/2015,4:00pm,Ursinus College,Collegeville,PA,West Chester University,4
+68,68,96,1/18/2015,1:00pm,Ursinus College,Collegeville,PA,Ithaca College,4
+68,69,77,1/25/2015,4:00 pm,"Michigan, U. of",Ann Arbor,MI,Illinois,5
+68,70,No records found.
+68,71,108,1/9/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,Ohio State,5
+68,72,No records found.
+68,73,97,2/22/2015,1:00pm,Ursinus College,Collegeville,PA,Temple University,4
+68,74,111,2/28/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,"West Virginia, North Carolina, Temple",9
+68,75,378,3/14/2015,1:00pm,NCGA - East,Collegeville,PA,"Brockport. Cortland, RIC, Springfield, Ithaca",9
+69,523,416,1/9/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,University of Utah,4
+69,524,265,1/16/2015,7:00pm,"Utah, U. of",Salt Lake City,UT,"Southern Utah, Boise State, UC Davis",8
+69,525,266,1/23/2015,6:00 pm,"Utah, U. of",Salt Lake City,UT,UCLA,4
+69,526,427,1/31/2015,4pm,"Arizona, U. of",Tucson,AZ,Utah,4
+69,527,267,2/6/2015,6:00 pm,"Utah, U. of",Salt Lake City,UT,Arizona State,4
+69,528,392,2/14/2015,4:00 p.m.,"Washington, U. of",Seattle,WA,Utah,5
+69,529,268,2/21/2015,7:00 pm,"Utah, U. of",Salt Lake City,UT,Stanford,4
+69,530,305,2/27/2015,7:00pm,Oregon State,Corvallis,OR,Utah,5
+69,531,269,3/6/2015,7:00 pm,"Utah, U. of",Salt Lake City,UT,Michigan,4
+69,532,206,3/14/2015,4 pm,"Georgia, U. of",Athens,GA,Utah,5
+69,533,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+70,800,55,1/9/2015,7:00PM,Utah State,Logan,Ut,Air Force Academy,4
+70,801,112,1/17/2015,6:00 pm,"Denver, U. of",Denver,CO,Utah State University,4
+70,802,417,1/23/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Utah State,4
+70,803,56,1/30/2015,7:00PM,Utah State,Logan,Ut,"Boise State University, UC Davis",8
+70,804,59,2/6/2015,7:00PM,Utah State,Logan,Ut,Seattle Pacific University,4
+70,805,198,2/15/2015,7pm MST,Boise State Univ.,Boise,ID,Utah State,5
+70,806,57,2/20/2015,7:00PM,Utah State,Logan,Ut,Southern Utah University,5
+70,807,413,2/27/2015,7:00 pm,Southern Utah Univ.,Cedar City,UT,Denver & Utah State,8
+70,808,278,3/1/2015,1:00 pm,Texas Woman's Univ.,Denton,TX,"Utah State, Maryland, & Brown",8
+70,975,420,3/6/2015,7:00 PM,Brigham Young Univ.,Provo,Ut,Central Michigan University,8
+70,809,No records found.
+70,810,58,3/13/2015,7:00PM,Utah State,Logan,Ut,Brigham Young University,5
+70,811,353,3/15/2015,2:00 PM,Sacramento State,Sacramento,CA,Utah State,4
+70,979,117,3/21/2015,6:00 pm,Mountain Rim Conference,Denver,CO,"Boise St., BYU, Denver, S. Utah, Utah St.",17
+71,162,390,1/12/2015,6:00 p.m.,"Washington, U. of",Seattle,WA,Kentucky,5
+71,163,210,1/16/2015,7:00pm,North Carolina State,Raleigh,NC,WASHINGTON,4
+71,164,391,1/24/2015,4:00 p.m.,"Washington, U. of",Seattle,WA,Arizona,5
+71,165,303,1/30/2015,7:00pm,Oregon State,Corvallis,OR,"Washington, Sac State, Hamline",9
+71,166,387,2/9/2015,6pm,UCLA,Los Angeles,CA,Washington,4
+71,167,392,2/14/2015,4:00 p.m.,"Washington, U. of",Seattle,WA,Utah,5
+71,168,393,2/21/2015,7:00 p.m.,"Washington, U. of",Seattle,WA,"California, Seattle Pacific",9
+71,169,331,3/2/2015,7:00 PM,Stanford Univ.,Stanford,CA,Washington,5
+71,170,394,3/6/2015,7:00 p.m.,"Washington, U. of",Seattle,WA,North Carolina State,5
+71,171,155,3/13/2015,7:00pm,UC Davis,Davis,Ca,Washington,4
+71,980,196,3/21/2015,TBA,PAC 12 Conference,Tempe,AZ,"ASU,",17
+72,104,95,1/14/2015,4:00pm,Ursinus College,Collegeville,PA,West Chester University,4
+72,105,163,1/17/2015,1:00 p.m.,Cortland State,Cortland,NY,West Chester,4
+72,106,367,1/25/2015,4pm,Towson University,Towson,MD,"West Chester, William & Mary, University of North Carolina",9
+72,107,361,2/1/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Ursinus, Cornell, West Chester",8
+72,108,104,2/7/2015,4:00PM,West Chester Univ.,West Chester,PA,"Ursinus, RIC, and Bridgeport",8
+72,109,179,2/14/2015,1pm,Temple Univ.,Philadelphia,PA,West Chester and Bridgeport,8
+72,110,105,2/21/2015,1:00 PM,West Chester Univ.,West Chester,PA,Springfield College,4
+72,111,106,2/27/2015,7:00 PM,West Chester Univ.,West Chester,PA,Ursinus and SCSU @ Philly Convention Center,8
+72,112,398,3/7/2015,6:00pm,Rutgers Univ.,New Brunswick,NJ,"West Chester, Bowling Green",9
+72,113,107,3/14/2015,1:00 PM,West Chester Univ.,West Chester,PA,SCSU,4
+72,114,342,3/21/2015,1:00,ECAC 2,New Haven,CT,"West Chester, Bridgeport",8
+73,512,442,1/9/2015,7:00pm,Maryland-College Park,College Park,MD,West Virginia and George Washington,9
+73,513,399,1/17/2015,4pm,Ohio State Univ.,Columbus,OH,University of Michigan and West Virginia University,9
+73,514,17,1/25/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"Iowa State University, George Washington University",9
+73,515,211,1/31/2015,7:00pm,North Carolina State,Raleigh,NC,WVU/WM/UNC,8
+73,516,436,2/8/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Towson/Bridgeport/Brown,9
+73,517,20,2/13/2015,7:00pm,West Virginia Univ.,Morgantown,WV,University of Denver,5
+73,518,21,2/22/2015,2:00pm,West Virginia Univ.,Morgantown,WV,"University of New Hampshire, University of Maryland, Rutgers",9
+73,519,111,2/28/2015,7:00 pm,"Pittsburgh, U. of",Pittsburgh,PA,"West Virginia, North Carolina, Temple",9
+73,520,22,3/8/2015,2:00pm,West Virginia Univ.,Morgantown,WV,Penn State University,5
+73,521,23,3/14/2015,4:00pm,West Virginia Univ.,Morgantown,WV,"University of Pennsylvania, Cornell University",9
+73,522,83,3/21/2015,4 pm,Big 12 Conference,Norman,ok,"University of Oklahoma, Iowa State University, West Virginia",17
+73,993,No records found.
+74,432,No records found.
+74,433,No records found.
+74,434,No records found.
+74,435,No records found.
+74,436,No records found.
+74,437,No records found.
+74,438,No records found.
+74,439,No records found.
+74,440,No records found.
+74,441,No records found.
+75,596,370,1/17/2015,4 PM,William & Mary,Williamsburg,VA,TOWSON,4
+75,597,367,1/25/2015,4pm,Towson University,Towson,MD,"West Chester, William & Mary, University of North Carolina",9
+75,598,211,1/31/2015,7:00pm,North Carolina State,Raleigh,NC,WVU/WM/UNC,8
+75,599,346,2/7/2015,1:00PM,"North Carolina, U. of",Chapel Hill,NC,College of William & Mary,4
+75,600,212,2/14/2015,7:30pm,North Carolina State,Raleigh,NC,WM/GW,8
+75,601,445,2/20/2015,7:00pm,Maryland-College Park,College Park,MD,"Towson, George Washington and William and Mary",9
+75,602,158,2/28/2015,1:00 pm,Cornell Univ.,Ithaca,NY,"Bridgeport, William & Mary",4
+75,603,446,3/8/2015,2:00pm,Maryland-College Park,College Park,MD,"Bridgeport, Southern Connecticut and William and Mary",9
+75,604,370,1/17/2015,4 PM,William & Mary,Williamsburg,VA,TOWSON,4
+75,605,383,3/21/2015,"",ECAC 1,Danbury,CT,"Yale, Temple, William & Mary, Brown, UPenn, Cornell",9
+77,949,No records found.
+77,950,No records found.
+77,951,86,1/23/2015,6:30,Winona State,Winona,MN,UW-Eau Claire,4
+77,952,No records found.
+77,953,No records found.
+77,954,87,2/10/2015,6:30,Winona State,Winona,MN,Gustavus,4
+77,955,No records found.
+77,956,No records found.
+77,957,No records found.
+77,958,No records found.
+77,959,215,3/5/2015,6:30,Winona State,Winona,MN,UW-LaCrosse,4
+77,960,No records found.
+78,670,No records found.
+78,671,No records found.
+78,672,No records found.
+78,673,No records found.
+78,674,No records found.
+78,675,No records found.
+78,676,No records found.
+78,677,No records found.
+78,678,No records found.
+78,679,No records found.
+78,680,No records found.
+79,871,No records found.
+79,872,No records found.
+79,873,No records found.
+79,874,No records found.
+79,875,No records found.
+79,876,No records found.
+79,877,No records found.
+79,878,No records found.
+79,879,No records found.
+79,880,No records found.
+80,917,180,1/10/2015,1:00 pm,Hamline Univ.,St. Paul,MN,UW Oshkosh,4
+80,918,184,1/16/2015,6:30PM,Wisconsin-Oshkosh,Oshkosh,WI,UW-Eau Claire,4
+80,919,120,1/22/2015,6:30pm,Wisconsin-La Crosse,La Crosse,WI,UW-Oshkosh,4
+80,920,396,1/31/2015,4:00 pm,Rutgers Univ.,New Brunswick,NJ,"Michigan State, UW-Osh Kosh, Brown",9
+80,921,185,2/6/2015,6:30PM,Wisconsin-Oshkosh,Oshkosh,WI,Winona State University,4
+80,922,450,2/20/2015,6pm,Wisconsin-Stout,Menomonie,WI,UW-Oshkosh,4
+80,923,241,2/28/2015,4pm,Wisconsin-Whitewater,Whitewater,WI,UW-Oshkosh,4
+80,924,186,3/6/2015,6:30PM,Wisconsin-Oshkosh,Oshkosh,WI,Gustavus Adolphus College,4
+80,925,220,3/15/2015,2:00 pm,WIAC Conference,Saint Paul,MI,Gustavus/Winona/Stout/Eau Claire/Lacrosse/Whitewater/Oshkosh,9
+80,926,310,3/27/2015,6:00,Division III Nationals,Lacrosse,WI,6 Teams,9
+80,927,311,3/28/2015,4:00,Division III Nationals,Lacrosse,WI,4 teams/rotations at a time (this is individual finals),9
+82,650,448,1/9/2015,6pm,Wisconsin-Stout,Menomonie,WI,UW-Whitewater,4
+82,651,426,1/16/2015,7pm,"Arizona, U. of",Tucson,AZ,"Sacramento St., U. Wisconsin-Stout, Illinois-Chicago",8
+82,652,374,1/23/2015,6:30pm,Gustavus Adolphus,St. Peter,MN,University of Wisconsin Stout,4
+82,653,121,1/30/2015,6:30pm,Wisconsin-La Crosse,La Crosse,WI,Gershon/McLellan Invite,8
+82,654,449,2/6/2015,6pm,Wisconsin-Stout,Menomonie,WI,vs. UW-La Crosse and Hamline,8
+82,655,450,2/20/2015,6pm,Wisconsin-Stout,Menomonie,WI,UW-Oshkosh,4
+82,656,451,2/28/2015,6pm,Wisconsin-Stout,Menomonie,WI,Winona State,4
+82,657,16,3/6/2015,6:00,Wisconsin-Eau Claire,Eau Claire,WI,UW-Stout,4
+82,658,220,3/15/2015,2:00 pm,WIAC Conference,Saint Paul,MI,Gustavus/Winona/Stout/Eau Claire/Lacrosse/Whitewater/Oshkosh,9
+82,988,310,3/27/2015,6:00,Division III Nationals,Lacrosse,WI,6 Teams,9
+82,989,311,3/28/2015,4:00,Division III Nationals,Lacrosse,WI,4 teams/rotations at a time (this is individual finals),9
+83,479,448,1/9/2015,6pm,Wisconsin-Stout,Menomonie,WI,UW-Whitewater,4
+83,480,207,1/17/2015,8:00,Ozone Invitational,Knoxville,TN,"Whitewater, Alaska, BYU, Bowling Green",9
+83,481,238,1/24/2015,4:00pm,Wisconsin-Whitewater,Whitewater,WI,Hamline University,4
+83,482,239,1/31/2015,4:00pm,Wisconsin-Whitewater,Whitewater,WI,UW-Eau Claire,4
+83,483,375,2/1/2015,1:00pm,Gustavus Adolphus,St. Peter,MN,University of Wisconsin Whitewater,4
+83,484,240,2/13/2015,7:00pm,Wisconsin-Whitewater,Whitewater,WI,Winona State and University of Alaska-Anchorage,8
+83,485,122,2/20/2015,6:30pm,Wisconsin-La Crosse,La Crosse,WI,UW-Whitewater,4
+83,486,241,2/28/2015,4pm,Wisconsin-Whitewater,Whitewater,WI,UW-Oshkosh,4
+83,487,220,3/15/2015,2:00 pm,WIAC Conference,Saint Paul,MI,Gustavus/Winona/Stout/Eau Claire/Lacrosse/Whitewater/Oshkosh,9
+83,488,310,3/27/2015,6:00,Division III Nationals,Lacrosse,WI,6 Teams,9
+83,489,311,3/28/2015,4:00,Division III Nationals,Lacrosse,WI,4 teams/rotations at a time (this is individual finals),9
+84,152,433,1/18/2015,1:00pm,"New Hampshire, U. of",Durham,NH,Yale,4
+84,153,360,1/25/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,Yale,4
+84,154,438,1/31/2015,1:00pm,Yale University,New Haven,CT,"Bridgeport, Southern CT, URI",9
+84,155,439,2/7/2015,1:00pm,Yale University,New Haven,CT,Springfield,4
+84,156,354,2/13/2015,7:30,Invitational-Navy Pier,Chicago,IL,"Iowa State, Yale, NIU",8
+84,157,363,2/22/2015,1:00PM,"Pennsylvania, U. of",Philadelphia,PA,"Ivy Classic:  Yale, Cornell, Brown",8
+84,158,368,2/27/2015,7pm,Towson University,Towson,MD,"Rutgers, Yale, Michigan State",9
+84,159,339,3/8/2015,1:00 pm,George Washington U.,Washington,DC,"Western Michigan,Yale",9
+84,160,259,3/15/2015,1pm,Brown Univ.,Providence,RI,Yale,5
+84,161,383,3/21/2015,"",ECAC 1,Danbury,CT,"Yale, Temple, William & Mary, Brown, UPenn, Cornell",9
