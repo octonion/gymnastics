@@ -52,7 +52,9 @@ schools.each do |school|
       end
     end
 
-    schedules << row
+    if (row.size > 3)
+      schedules << row
+    end
   end
   schedules.flush
 end
