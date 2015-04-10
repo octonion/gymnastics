@@ -8,7 +8,7 @@ agent.user_agent = 'Mozilla/5.0'
 
 url = "http://www.troester.com/gym/MenuW.asp"
 
-results = CSV.open("csv/ncaa_schools.csv","w")
+results = CSV.open("csv/schools.csv","w")
 
 begin
   page = agent.get(url)

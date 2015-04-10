@@ -11,8 +11,8 @@ url = "http://www.troester.com/gym/MenuW.asp"
 
 path = '//*[@id="table2"]/tr[position()>1]'
 
-schools = CSV.open("csv/ncaa_schools.csv","r")
-schedules = CSV.open("csv/ncaa_schedules.csv","w")
+schools = CSV.open("csv/schools.csv","r")
+rosters = CSV.open("csv/rosters.csv","w")
 
 begin
   page = agent.get(url)
@@ -21,7 +21,7 @@ rescue
   retry
 end
 
-form = page.forms[4]
+form = page.forms[0]
 
 schools.each do |school|
 
@@ -36,12 +36,6 @@ schools.each do |school|
     tr.xpath("td").each_with_index do |td,j|
       case j
       when 0
-        text = td.inner_text.scrub.strip rescue nil
-        a = td.xpath("a").first
-        href = a.attributes["href"].inner_text.scrub.strip rescue nil
-        href = base+href rescue nil
-        row += [text,href]
-      when 11
         a = td.xpath("a").first
         href = a.attributes["href"].inner_text.scrub.strip rescue nil
         href = base+href rescue nil
@@ -53,10 +47,10 @@ schools.each do |school|
     end
 
     if (row.size > 3)
-      schedules << row
+      rosters << row
     end
   end
-  schedules.flush
+  rosters.flush
 end
 
-schedules.close
+rosters.close

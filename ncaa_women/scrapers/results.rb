@@ -12,9 +12,9 @@ url = "http://www.troester.com/gym/MenuW.asp"
 team_path = '//*[@id="table2"][1]/tr[2]'
 individual_path = '//*[@id="table2"][2]/tr[position()>1]'
 
-schedules = CSV.open("csv/ncaa_schedules.csv","r")
-team_results = CSV.open("csv/ncaa_team_results.csv","w")
-individual_results = CSV.open("csv/ncaa_individual_results.csv","w")
+schedules = CSV.open("csv/schedules.csv","r")
+team_results = CSV.open("csv/team_results.csv","w")
+individual_results = CSV.open("csv/individual_results.csv","w")
 
 schedules.each do |schedule|
 
