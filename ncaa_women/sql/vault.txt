@@ -1,0 +1,1165 @@
+       team_name       |   first_name   |      last_name      |  avg  | n  
+-----------------------+----------------+---------------------+-------+----
+ Florida               | Bridget        | Sloan               | 9.958 |  6
+ Florida               | Alex           | McMurtry            | 9.939 | 11
+ Stanford              | Elizabeth      | Price               | 9.938 |  9
+ Oklahoma              | Haley          | Scaman              | 9.931 | 12
+ Utah                  | TORY           | WILSON              | 9.923 | 11
+ L.S.U.                | Rheagan        | Courville           | 9.923 | 10
+ California            | ToniAnn        | Williams            | 9.915 | 12
+ Arkansas              | Amanda         | Wellick             | 9.910 | 12
+ Oklahoma              | Chayse         | Capps               | 9.907 | 12
+ UCLA                  | Samantha       | Peszek              | 9.905 | 11
+ Michigan              | Sachi          | Sugiyama            | 9.902 | 11
+ Nebraska              | Ashley         | Lambert             | 9.900 | 10
+ Boise State           | Ciera          | Perkins             | 9.895 | 12
+ Nebraska              | Jessie         | DeZiel              | 9.895 | 10
+ Utah                  | KARI           | LEE                 | 9.895 | 11
+ Minnesota             | Lindsay        | Mable               | 9.892 | 13
+ Utah                  | KAILAH         | DELANEY             | 9.891 | 11
+ Georgia               | Brandie        | Jay                 | 9.891 | 11
+ George Washington     | Cami           | DrouinAllaire       | 9.890 | 13
+ L.S.U.                | Myia           | Hambrick            | 9.890 | 10
+ Alabama               | Kaitlyn        | Clark               | 9.889 | 12
+ Auburn                | Caitlin        | Atkinson            | 9.888 | 12
+ UCLA                  | Jordan         | Williams            | 9.888 | 11
+ L.S.U.                | Sydney         | Ewing               | 9.882 | 11
+ Alabama               | Kayla          | Williams            | 9.882 | 11
+ Michigan State        | Alina          | Cartwright          | 9.881 |  9
+ Boise State           | Maddie         | Krentz              | 9.881 | 12
+ Auburn                | MJ             | Rott                | 9.880 | 11
+ Utah                  | SAMANTHA       | PARTYKA             | 9.879 |  6
+ L.S.U.                | Jessie         | Jordan              | 9.878 | 10
+ Oklahoma              | Ali            | Jackson             | 9.877 | 12
+ Denver                | Rachel         | Fielitz             | 9.877 | 13
+ Nebraska              | Hollie         | Blanske             | 9.875 | 11
+ L.S.U.                | Ashleigh       | Gnat                | 9.875 | 11
+ Oklahoma              | Brenna         | Dowell              | 9.873 | 12
+ North Carolina State  | Brittni        | Watkins             | 9.872 | 10
+ Illinois-Champaign    | Giana          | O'Connor            | 9.871 | 12
+ Florida               | Kytra          | Hunter              | 9.870 | 11
+ Oregon State          | Taylor         | Keeker              | 9.869 | 12
+ Alabama               | Lauren         | Beers               | 9.869 | 12
+ Missouri              | Shauna         | Miller              | 9.869 | 12
+ Alabama               | Carley         | Sims                | 9.868 | 12
+ Denver                | Nina           | McGee               | 9.867 | 13
+ Florida               | Kennedy        | Baker               | 9.867 | 10
+ Utah                  | GEORGIA        | DABRITZ             | 9.866 | 11
+ Georgia               | Chelsea        | Davis               | 9.865 | 12
+ L.S.U.                | Scarlett       | Williams            | 9.863 |  4
+ Alabama               | Katie          | Bailey              | 9.863 |  8
+ William & Mary        | BRITTANY       | STOVER              | 9.863 | 10
+ L.S.U.                | Britney        | Ranzy               | 9.863 |  2
+ Oklahoma              | Keeley         | Kmieciak            | 9.863 | 11
+ L.S.U.                | Lloimincia     | Hall                | 9.861 | 11
+ Arkansas              | Paige          | Zaziski             | 9.858 | 12
+ Oklahoma              | Maile'ana      | Kanewa              | 9.858 |  6
+ UCLA                  | Sadiqua        | Bynum               | 9.858 | 10
+ Penn State            | Briannah       | Tsang               | 9.857 | 11
+ Stanford              | Nicolette      | McNair              | 9.855 | 11
+ Minnesota             | Jenny          | Covers              | 9.855 | 11
+ Georgia               | Ashlyn         | Broussard           | 9.854 | 12
+ Florida               | Kiersten       | Wang                | 9.852 | 11
+ Nebraska              | Desire'        | Stephens            | 9.852 | 11
+ Arkansas              | Heather        | Elswick             | 9.852 | 12
+ Alabama               | Mackenzie      | Brannan             | 9.850 | 10
+ Michigan              | Austin         | Sheppard            | 9.850 |  9
+ California            | Serena         | Leong               | 9.850 |  2
+ Boise State           | Kelsey         | Morris              | 9.850 | 12
+ L.S.U.                | Jessica        | Savona              | 9.850 | 11
+ Oregon State          | Madeline       | Gardiner            | 9.850 | 12
+ Alabama               | Dominique      | Pegg                | 9.850 |  1
+ Oregon State          | Erika          | Aufiero             | 9.848 | 12
+ Penn State            | Emma           | Sibson              | 9.848 | 11
+ Michigan              | Nicole         | Artz                | 9.848 | 11
+ Auburn                | Lexus          | Demers              | 9.848 | 12
+ Nebraska              | Jennie         | Laeng               | 9.847 | 11
+ UCLA                  | LaNieshaJopre' | Irvin               | 9.847 |  8
+ Penn State            | Sidney         | SanabriaRobles      | 9.845 | 11
+ Georgia               | Brittany       | Rogers              | 9.844 | 10
+ Florida               | Bridgette      | Caquatto            | 9.844 | 11
+ Boise State           | Ann            | Stockwell           | 9.844 | 12
+ Michigan              | Talia          | Chiarelli           | 9.843 | 11
+ BYU                   | Makenzie       | Johnson             | 9.842 | 12
+ UC Davis              | Katy           | Nogaki              | 9.841 | 11
+ George Washington     | Jillian        | Winstanley          | 9.840 | 13
+ Arizona State         | Taylor         | Allex               | 9.840 | 10
+ Nebraska              | Kamerin        | Moore               | 9.838 |  9
+ Nebraska              | Grace          | Williams            | 9.836 | 10
+ Alabama               | Keely          | McNeer              | 9.835 | 12
+ Oklahoma              | Kara           | Lovan               | 9.834 | 12
+ Washington            | Hailey         | Burleson            | 9.834 | 11
+ Auburn                | Bri            | Guy                 | 9.834 | 12
+ Utah                  | BAELY          | ROWE                | 9.833 | 11
+ UCLA                  | PengPeng       | Lee                 | 9.833 | 10
+ Florida               | Rachel         | Spicer              | 9.833 | 11
+ George Washington     | Elena          | Corcoran            | 9.831 | 13
+ Arizona               | Shelby         | Edwards             | 9.830 | 11
+ Southern Utah         | Danielle       | RAMIREZ             | 9.829 | 12
+ North Carolina State  | Chelsea        | Knight              | 9.827 | 11
+ West Virginia         | Jaida          | Lawrence            | 9.827 | 11
+ Arkansas              | Leah           | MacMoyle            | 9.825 | 10
+ Utah                  | BREANNA        | HUGHES              | 9.825 |  6
+ Alabama               | Hunter         | Dennis              | 9.825 |  7
+ San Jose State        | Erica          | Matos               | 9.825 |  4
+ Denver                | Julia          | Ross                | 9.823 | 13
+ UCLA                  | Angi           | Cipra               | 9.821 | 10
+ Iowa State            | Haylee         | Young               | 9.821 | 13
+ Illinois-Champaign    | Mary Jane      | Horth               | 9.821 | 12
+ Southern Utah         | Stacie         | WEBB                | 9.821 | 12
+ UCLA                  | JaNay          | Honest              | 9.820 | 11
+ Ohio State            | Taylor         | Harrison            | 9.820 | 11
+ Penn State            | Lauren         | Li                  | 9.820 | 10
+ Denver                | Maggie         | Laughlin            | 9.819 | 13
+ Utah                  | TIFFANI        | LEWIS               | 9.819 |  9
+ California            | Charlie        | Owens               | 9.819 | 12
+ Maryland              | Katy           | Dodds               | 9.818 | 11
+ UCLA                  | Sonya          | Meraz               | 9.817 | 10
+ Oregon State          | Megan          | Jimenez             | 9.817 | 12
+ Kentucky              | Sydney         | Waltz               | 9.816 | 11
+ Maryland              | Kathy          | Tang                | 9.815 | 12
+ Michigan State        | Nicola         | Deans               | 9.814 | 11
+ Denver                | Emily          | Barrett             | 9.813 | 13
+ UCLA                  | Jennifer       | Pinches             | 9.813 |  7
+ Florida               | Ericha         | Fassbender          | 9.813 | 11
+ Missouri              | Laura          | Kappler             | 9.812 | 13
+ Michigan              | Brianna        | Brown               | 9.811 | 11
+ California            | Arianna        | Robinson            | 9.811 | 12
+ Georgia               | Natalie        | Vaculik             | 9.811 | 12
+ Rutgers               | Luisa          | Leal                | 9.810 | 12
+ Utah State            | McKinzey       | Martinez            | 9.810 | 12
+ Michigan              | Brooke         | Parker              | 9.809 | 11
+ Central Michigan      | Halle          | Moraw               | 9.808 | 12
+ Utah                  | CORRIE         | LOTHROP             | 9.808 | 11
+ Auburn                | Kelsey         | Kopec               | 9.808 | 12
+ Eastern Michigan      | Anna           | Willette            | 9.808 | 12
+ Lindenwood University | Kierstin       | Sokolowski          | 9.807 | 11
+ West Virginia         | Zaakira        | Muhammad            | 9.807 | 11
+ Kent State            | Chelsea        | Drooger             | 9.805 | 11
+ Northern Illinois     | Amanda         | Stepp               | 9.803 | 10
+ Arizona State         | Tasha          | Sundby              | 9.803 |  9
+ Western Michigan      | Jessi          | Buis                | 9.803 |  9
+ Minnesota             | Ciara          | Tomson              | 9.803 | 12
+ Minnesota             | Rachel         | Haines              | 9.803 | 12
+ Stanford              | Pauline        | Hanset              | 9.802 | 11
+ Iowa                  | Angel          | Metcalf             | 9.802 | 11
+ Illinois-Champaign    | Erin           | Buchanan            | 9.802 | 12
+ New Hampshire         | MEGHAN         | PFLIEGER            | 9.802 | 12
+ Oklahoma              | Charity        | Jones               | 9.800 |  1
+ Ohio State            | Erin           | Malone              | 9.800 |  9
+ Iowa State            | Courtney       | Middelkoop          | 9.800 |  4
+ Ohio State            | Tenille        | Funches             | 9.800 | 11
+ Stanford              | Danielle       | McNair              | 9.798 | 11
+ Towson University     | Katie          | Sassa               | 9.796 | 12
+ Maryland              | Shannon        | Skochko             | 9.796 | 12
+ Kentucky              | Shannon        | Mitchell            | 9.794 | 11
+ California            | Emily          | Richardson          | 9.793 | 12
+ Iowa State            | Caitlin        | Brown               | 9.792 | 13
+ L.S.U.                | Erin           | Macadaeg            | 9.792 | 10
+ California            | Desiree        | Palomares           | 9.792 | 12
+ Arizona               | Jessica        | Sisler              | 9.792 | 12
+ Southern Utah         | Jamie          | ARMIJO              | 9.792 | 12
+ Arkansas              | Samantha       | Nelson              | 9.791 | 12
+ Iowa                  | Alie           | Glover              | 9.791 | 11
+ Southern Utah         | Madyson        | BLAKE               | 9.791 |  9
+ Minnesota             | Bailey         | Gardner             | 9.790 | 13
+ West Virginia         | Nicolette      | Swoboda             | 9.789 | 11
+ New Hampshire         | ELIZABETH      | MAHONEY             | 9.789 | 11
+ Air Force Academy     | Jessica        | Wallander           | 9.789 | 11
+ Arkansas              | Cailee         | Ellsworth           | 9.788 |  7
+ Oregon State          | Dani           | Dessaints           | 9.788 |  4
+ Stanford              | Taylor         | Rice                | 9.786 | 11
+ Denver                | Nikole         | Addison             | 9.786 | 12
+ Western Michigan      | Kelsey         | Hood                | 9.785 | 10
+ Eastern Michigan      | Kendall        | Valentin            | 9.783 | 11
+ Georgia               | Sarah          | Persinger           | 9.783 | 12
+ Ohio State            | Michelle       | Burns               | 9.782 | 12
+ Kent State            | Brooke         | Timko               | 9.782 | 11
+ Georgia               | Beth           | Roberts             | 9.781 |  8
+ Texas Woman's         | Madison        | Nettles             | 9.781 |  8
+ BYU                   | Jill           | Van Mierlo          | 9.780 | 10
+ UIC                   | Kimberly       | Randall             | 9.780 | 11
+ Oregon State          | Taylor         | Ricci               | 9.779 |  7
+ Boise State           | Sandra         | Collantes           | 9.778 | 11
+ UIC                   | Gabrielle      | May                 | 9.777 | 11
+ Penn State            | Krystal        | Welsh               | 9.777 | 11
+ Ball State            | Denasiha       | Christian           | 9.777 | 12
+ Northern Illinois     | Megan          | Greenfield          | 9.777 | 12
+ Michigan State        | Anna           | Gamelo              | 9.777 | 13
+ Utah State            | Sarah          | Landes              | 9.777 | 13
+ Arizona               | Allison        | Flores              | 9.775 | 10
+ North Carolina        | Sarah          | Peterson            | 9.775 | 11
+ Kentucky              | Tiara          | Phipps              | 9.775 | 11
+ Kentucky              | Alexis         | Gross               | 9.775 |  2
+ Boise State           | Mackenzie      | Bennion             | 9.775 | 12
+ Boise State           | Paige          | Urquhart            | 9.775 | 12
+ Boise State           | Mary Francis   | Bir                 | 9.775 |  5
+ Northern Illinois     | Andie          | Van Voorhis         | 9.775 |  9
+ San Jose State        | Cami           | Guyer               | 9.773 | 12
+ Arizona               | Gabrielle      | Laub                | 9.773 | 12
+ UC Davis              | Dani           | Judal               | 9.773 | 11
+ Eastern Michigan      | Carrina        | Lo Bello            | 9.772 | 12
+ Central Michigan      | Kiki           | Petzold             | 9.769 | 12
+ Bowling Green         | Amanda         | Lievendag           | 9.769 | 12
+ North Carolina        | Haley          | Watts               | 9.768 |  8
+ Utah State            | Miranda        | Kerr                | 9.767 |  9
+ Southern Utah         | Brittney       | JENSEN              | 9.765 | 11
+ Pittsburgh            | Tracey         | Pearson             | 9.764 | 11
+ Central Michigan      | Rachel         | Carr                | 9.764 | 11
+ Oklahoma              | Hunter         | Price               | 9.763 |  2
+ Ball State            | Jordyn         | Penny               | 9.763 |  2
+ Washington            | Joslyn         | Goings              | 9.761 | 11
+ Maryland              | Abigail        | Epperson            | 9.760 | 12
+ Utah State            | Jillian        | Chappel             | 9.760 | 13
+ BYU                   | Jordan         | Schult              | 9.758 | 12
+ Maryland              | Dominiquea     | Trotter             | 9.758 | 12
+ Ohio State            | Stefanie       | Merkle              | 9.758 | 10
+ Lindenwood University | Rachel         | Zabawa              | 9.757 | 11
+ West Virginia         | Dayah          | Haley               | 9.757 | 11
+ George Washington     | Alex           | DeMoura             | 9.756 |  8
+ Ohio State            | Sarah          | Grady               | 9.756 | 12
+ Southern Utah         | Tyly           | BOZZUTO             | 9.755 | 12
+ Sacramento State      | Lauren         | Rice                | 9.754 | 12
+ Michigan State        | Lisa           | Burt                | 9.754 | 13
+ Rutgers               | April          | Baker               | 9.753 | 12
+ Washington            | Allison        | Northey             | 9.752 | 11
+ Utah State            | Bailey         | McIntire            | 9.752 | 13
+ George Washington     | Chelsea        | Raineri             | 9.752 | 13
+ Bridgeport            | Kim            | STEWART             | 9.752 | 13
+ San Jose State        | Hannah         | Gilbert             | 9.750 | 12
+ S.E. Missouri         | Ashley         | Thomas              | 9.750 | 12
+ Western Michigan      | Anna           | Corbett             | 9.750 | 10
+ Michigan              | Briley         | Casanova            | 9.750 | 11
+ Boise State           | Lianne         | Josbacher           | 9.750 | 12
+ Alabama               | Mary Lillian   | Sanders             | 9.750 |  1
+ Bowling Green         | Lauren         | Feeley              | 9.750 | 12
+ Utah State            | Kaitlyn        | Betts               | 9.750 |  9
+ Missouri              | Angie          | Kern                | 9.748 | 13
+ New Hampshire         | KELSEY         | AUCOIN              | 9.747 | 12
+ UC Davis              | Tiana          | Montell             | 9.746 | 12
+ North Carolina State  | Amanda         | Fillard             | 9.745 | 11
+ Auburn                | Brittany       | Webster             | 9.745 | 12
+ Denver                | Katie          | Menhinick           | 9.744 | 12
+ Towson University     | Lydia          | Thompson            | 9.744 | 12
+ Ball State            | Erin           | Patchey             | 9.744 | 12
+ San Jose State        | Kaitlin        | Won                 | 9.742 | 12
+ Rutgers               | Sara           | Skammer             | 9.741 | 12
+ BYU                   | Mikaela        | Jones               | 9.741 |  8
+ Illinois-Champaign    | Heather        | Foley               | 9.740 | 12
+ Utah State            | MIchelle       | Yasukochi           | 9.739 | 12
+ Rutgers               | Elizabeth      | Groden              | 9.739 | 12
+ Eastern Michigan      | Julia          | Schwartz            | 9.739 | 11
+ Arkansas              | Stephani       | Canizaro            | 9.738 | 12
+ Maryland              | Leah           | Slobodin            | 9.738 | 10
+ S.E. Missouri         | Alexis         | Brawner             | 9.738 | 12
+ North Carolina State  | Allie          | Wismer              | 9.738 |  5
+ Missouri              | Kennedi        | Harris              | 9.737 | 13
+ North Carolina State  | Michaela       | Woodford            | 9.736 | 11
+ Penn State            | Oni            | Timothy             | 9.736 | 11
+ Arizona State         | Allie          | Salas               | 9.736 | 11
+ Northern Illinois     | Ashley         | Potts               | 9.736 |  9
+ William & Mary        | LARSON         | LASEK               | 9.735 | 10
+ North Carolina        | Morgan         | Lane                | 9.734 | 11
+ Sacramento State      | Julia          | Konner              | 9.733 | 12
+ Georgia               | GiGi           | Marino              | 9.733 | 12
+ Oregon State          | Cerise         | Witherby            | 9.732 | 12
+ San Jose State        | Rachel         | Heinl               | 9.732 | 12
+ Arizona               | Selynna        | FelixTerrazas       | 9.731 | 12
+ Ball State            | Sarah          | Ebeyer              | 9.731 | 12
+ Missouri              | Becca          | Schugel             | 9.731 | 13
+ Iowa State            | Kelsey         | Paz                 | 9.731 | 13
+ North Carolina State  | Mackenzie      | Itcush              | 9.731 |  9
+ Sacramento State      | Megan          | Kyle                | 9.729 |  6
+ New Hampshire         | CASEY          | LAUTER              | 9.729 |  6
+ Arizona               | Madison        | Cindric             | 9.729 | 12
+ Minnesota             | Ciara          | Gardner             | 9.727 | 13
+ New Hampshire         | ADRIENNE       | HILL                | 9.727 | 12
+ Illinois State        | Kristyn        | Bossle              | 9.727 | 12
+ Central Michigan      | Tori           | Garcia              | 9.727 | 12
+ California            | Kristina       | Heymann             | 9.725 |  1
+ North Carolina        | Kristin        | Aloi                | 9.725 |  9
+ Penn State            | Chanen         | Raygoza             | 9.725 |  5
+ Central Michigan      | Becca          | Druien              | 9.725 | 12
+ BYU                   | Sin            | To                  | 9.725 | 11
+ Eastern Michigan      | Paulina        | Miller              | 9.723 | 12
+ Kentucky              | Brittany       | Furuyama            | 9.723 | 11
+ Brown                 | Caroline       | Morant              | 9.722 | 10
+ Utah State            | Hayley         | Sanzotti            | 9.721 | 13
+ Bridgeport            | Sasha          | TSIKHANOVICH        | 9.721 | 13
+ Auburn                | Kait           | Kluz                | 9.721 | 12
+ West Virginia         | Robyn          | Bernard             | 9.719 | 10
+ Central Michigan      | Karlee         | Teet                | 9.719 | 12
+ Pittsburgh            | Maebelle       | Pacheco             | 9.718 | 10
+ Stanford              | Kristina       | Vaculik             | 9.717 |  7
+ Air Force Academy     | Jamie          | Lewis               | 9.716 | 11
+ Kentucky              | Marissa        | Beucler             | 9.714 |  9
+ West Chester          | Majesta        | Valentine           | 9.714 | 11
+ Iowa                  | Caroline       | McCrady             | 9.713 | 10
+ BYU                   | KayCee         | Gassaway            | 9.713 | 12
+ Iowa State            | Alex           | Marasco             | 9.712 | 13
+ Rutgers               | Sahara         | Gipson              | 9.710 | 12
+ George Washington     | Sara           | Mermelstein         | 9.710 | 13
+ Pittsburgh            | Miya           | Dotson              | 9.709 | 11
+ Illinois-Champaign    | Sarah          | Lyons               | 9.709 | 12
+ Bowling Green         | Alyssa         | Nocella             | 9.708 | 12
+ Ball State            | Kayla          | Beckler             | 9.708 | 12
+ Washington            | Alexandra      | Yacalis             | 9.706 |  8
+ Denver                | Ellese         | SakaiHart           | 9.706 | 13
+ Ohio State            | Jaine          | VanPutten           | 9.705 | 11
+ Kent State            | Jordan         | Hardison            | 9.705 | 11
+ Alaska                | M'rcy          | Matsunami           | 9.705 | 11
+ Seattle Pacific       | Maria          | HUNDLEY             | 9.704 |  6
+ Eastern Michigan      | Sydney         | McEachern           | 9.704 | 12
+ Kent State            | Nicolle        | Eastman             | 9.703 | 11
+ North Carolina State  | Lane           | Jarred              | 9.702 | 11
+ California            | Amber          | Takara              | 9.702 | 12
+ Southern Utah         | Virginia       | BROWNSELL           | 9.702 | 12
+ Oregon State          | Kaytianna      | McMillan            | 9.700 | 11
+ Pittsburgh            | Lisa           | Soto                | 9.700 |  8
+ Washington            | Zoey           | Schaefer            | 9.700 |  5
+ George Washington     | Courtney       | Willoughby          | 9.696 | 12
+ Iowa                  | Ashleigh       | Edlin               | 9.695 | 11
+ Michigan State        | Mackenzie      | Smith               | 9.694 | 12
+ San Jose State        | Maddie         | Herr                | 9.693 | 11
+ Iowa                  | Sydney         | Hoerr               | 9.693 | 11
+ Missouri              | Katelyn        | Trevino             | 9.693 | 13
+ Washington            | Emily          | Liddle              | 9.689 |  9
+ Bowling Green         | Jamilah        | Ali                 | 9.688 | 12
+ Southern Utah         | Rochelle       | BERNIER             | 9.688 | 12
+ Sacramento State      | Caitlin        | Soliwoda            | 9.686 | 11
+ Lindenwood University | Aubree         | Horn                | 9.686 | 11
+ Maryland              | Karen          | Tang                | 9.686 | 12
+ Bowling Green         | Victoria       | Heath               | 9.685 | 12
+ Iowa State            | Briana         | Ledesma             | 9.685 | 13
+ Kentucky              | Shelby         | Hilton              | 9.684 |  8
+ West Virginia         | Amanda         | Bowman              | 9.683 |  6
+ Sacramento State      | Kalliah        | McCartney           | 9.683 |  5
+ Missouri              | Alyson         | Heimsath            | 9.683 | 13
+ North Carolina        | Lexi           | Cappalli            | 9.682 | 11
+ Ohio State            | Alexis         | Mattern             | 9.678 | 12
+ Northern Illinois     | Kelly          | Nortz               | 9.677 | 12
+ UC Davis              | Miranda        | Holder              | 9.675 |  2
+ Washington            | Dori           | Overhus             | 9.675 |  1
+ UC Davis              | Stephanie      | Stamates            | 9.675 | 12
+ Michigan State        | Elena          | Lagoski             | 9.675 | 13
+ Boise State           | Krystine       | Jacobsen            | 9.675 | 12
+ Towson University     | Noelle         | Harada              | 9.675 | 12
+ Arkansas              | Kathleen       | York                | 9.675 |  2
+ Central Michigan      | Kirstin        | Stambaugh           | 9.675 | 11
+ UC Davis              | Kala           | DeFrancesco         | 9.673 | 12
+ Bridgeport            | Caitlin        | PERRY               | 9.672 | 13
+ Brown                 | Corey          | Holman              | 9.672 | 10
+ Seattle Pacific       | Paige          | BLANEY              | 9.670 | 11
+ UC Davis              | Yonni          | Michovska           | 9.667 | 11
+ S.E. Missouri         | Bailey         | Walker              | 9.667 |  6
+ San Jose State        | Alyssa         | Montalban           | 9.664 | 12
+ Sacramento State      | Courtney       | Soliwoda            | 9.663 | 12
+ UC Davis              | Alexis         | Brown               | 9.661 | 12
+ Texas Woman's         | Kayla          | Jones               | 9.658 |  9
+ Kentucky              | Kayla          | Hartley             | 9.658 | 11
+ North Carolina        | Kaitlynn       | Hedelund            | 9.658 | 11
+ Kent State            | Skyelee        | Lamano              | 9.657 | 11
+ Rutgers               | Jenna          | Williams            | 9.655 | 12
+ S.E. Missouri         | Alyssa         | Tucker              | 9.654 |  7
+ Eastern Michigan      | Catie          | Conrad              | 9.650 | 12
+ New Hampshire         | MARISSA        | TOCI                | 9.650 |  8
+ Eastern Michigan      | Kimberly       | Ebeyer              | 9.650 | 10
+ Rutgers               | Nicolette      | Wilson              | 9.650 |  7
+ Michigan State        | Ashley         | Noll                | 9.650 |  2
+ Sacramento State      | Dallas         | Smith               | 9.650 | 12
+ Wisconsin-Whitewater  | Katie          | Fiorilli            | 9.650 |  9
+ Ball State            | Jala           | Washington          | 9.648 | 12
+ Pennsylvania          | Morgan         | Venuti              | 9.648 | 10
+ Towson University     | Nicolette      | Vignola             | 9.646 | 12
+ Seattle Pacific       | Arianna        | HARGER              | 9.645 | 11
+ Cornell               | Alexandria     | Bourgeois           | 9.645 | 10
+ Western Michigan      | Brittany       | Aragon              | 9.644 |  5
+ Stanford              | Rachel         | Daum                | 9.642 | 10
+ S.E. Missouri         | Erin           | Brady               | 9.641 | 11
+ West Virginia         | Emma           | Lasker              | 9.638 |  2
+ Pittsburgh            | Erika          | Reichert            | 9.634 | 11
+ Washington            | Podlucky       | Madison             | 9.631 |  9
+ Alaska                | Morgan         | Cook                | 9.627 | 11
+ New Hampshire         | ERIKA          | RUDIGER             | 9.625 | 12
+ Western Michigan      | Lauren         | Vandenberg          | 9.625 |  1
+ West Virginia         | Beth           | Deal                | 9.625 | 11
+ Alaska                | Sariaye        | Fishburn            | 9.625 |  1
+ Minnesota             | Bailey         | Abernathy           | 9.625 |  2
+ Bridgeport            | Hope           | TRALLI              | 9.625 |  5
+ Texas Woman's         | Schyler        | Jones               | 9.623 | 12
+ Alaska                | MarieSophie    | Boggasch            | 9.618 | 11
+ Lindenwood University | Courtney       | Heise               | 9.618 | 11
+ Northern Illinois     | Courtney       | Dowdell             | 9.617 | 12
+ Kent State            | Michaela       | Romito              | 9.613 | 11
+ Temple                | Briana         | Odom                | 9.611 | 11
+ Texas Woman's         | Mallory        | Moredock            | 9.610 | 12
+ Centenary College     | Noel           | Stubbs              | 9.608 | 13
+ Ursinus College       | Kaelin         | Ruoss               | 9.607 |  7
+ UC Davis              | Taylor         | Baron               | 9.606 |  4
+ Yale                  | Camilla        | Opperman            | 9.605 | 10
+ Sacramento State      | Annie          | Juarez              | 9.605 |  6
+ Bridgeport            | Kelsey         | CAMPBELL            | 9.604 | 13
+ Western Michigan      | Kayla          | Weber               | 9.603 |  9
+ BYU                   | Eliane         | Kulczyk             | 9.600 |  4
+ UIC                   | Nikki          | Woodruff            | 9.598 | 11
+ Minnesota             | Bailie         | Holst               | 9.597 | 13
+ Michigan State        | Victoria       | Huehn               | 9.595 | 11
+ Southern Conn.        | Jenny          | Kaufman             | 9.595 | 11
+ William & Mary        | LIVI           | O'CONNOR            | 9.595 | 10
+ Michigan State        | Holly          | Ryan                | 9.595 | 13
+ Iowa State            | Micole         | O'Dell              | 9.594 |  9
+ North Carolina        | Lauren         | Weisel              | 9.592 | 11
+ Alaska                | Konkright      | Kelsy               | 9.592 |  4
+ Cornell               | Alicia         | Bair                | 9.589 | 11
+ Towson University     | Janis          | Konkle              | 9.588 | 12
+ Alaska                | Madeleine      | Arbuckle            | 9.588 |  4
+ Centenary College     | Ashley         | White               | 9.587 | 13
+ Texas Woman's         | Brandi         | Lazarus             | 9.586 |  9
+ Illinois State        | Marie          | Priest              | 9.585 |  5
+ Illinois State        | Laura          | Jonas               | 9.583 | 12
+ West Chester          | Selena         | Swanger             | 9.582 | 11
+ Texas Woman's         | Stephanie      | Repp                | 9.582 | 12
+ Southern Conn.        | Nicole         | Pruchnik            | 9.580 | 11
+ Bridgeport            | Kaila          | SCHAEFFER           | 9.579 | 13
+ Northern Illinois     | Megan          | Gilliam             | 9.579 | 12
+ New Hampshire         | LIA            | BREEDEN             | 9.575 | 12
+ Pennsylvania          | Amber          | Woo                 | 9.575 |  9
+ Central Michigan      | Macey          | Hilliker            | 9.575 |  2
+ Illinois State        | Sarah          | Fisher              | 9.573 | 12
+ Western Michigan      | Jessica        | Juncaj              | 9.571 | 10
+ Illinois State        | Kylie          | Meyer               | 9.566 | 11
+ Lindenwood University | Valeri         | Ingui               | 9.564 | 11
+ Southern Conn.        | Taylor         | Rohrbaugh           | 9.559 | 10
+ West Chester          | Rachel         | Blair               | 9.559 | 11
+ Alaska                | Simone         | Penker              | 9.558 | 11
+ Cornell               | Sara           | Schupp              | 9.557 | 11
+ S.E. Missouri         | Alexandria     | Stokes              | 9.556 | 12
+ Sacramento State      | Tina           | Necas               | 9.554 | 12
+ Temple                | Jasmine        | Johnson             | 9.553 | 10
+ UIC                   | Chelsea        | Bailey              | 9.552 | 11
+ Lindenwood University | Ajiea          | Hargrave            | 9.550 |  1
+ Arizona State         | Morgan         | Steigerwalt         | 9.550 |  1
+ California            | Crystal        | Paz                 | 9.550 |  4
+ Pennsylvania          | Emily          | Paterson            | 9.550 | 10
+ Arizona State         | Beka           | Conrad              | 9.550 | 11
+ Brockport State       | Haylee         | Garrick             | 9.550 |  4
+ Michigan State        | Katie          | Richter             | 9.550 |  1
+ Temple                | Mikaela        | Postlethwait        | 9.550 |  7
+ West Virginia         | Alexa          | Goldberg            | 9.550 | 10
+ UIC                   | Giulia         | Hindermann          | 9.546 |  7
+ Arizona State         | Stephanie      | Miceli              | 9.545 | 11
+ Bowling Green         | Katrina        | Carpenter           | 9.545 | 11
+ Southern Conn.        | Meghan         | Cole                | 9.545 | 11
+ Ball State            | Shelby         | Arms                | 9.544 | 12
+ Towson University     | Samantha       | Lutz                | 9.544 | 12
+ Western Michigan      | Audry          | Merritt             | 9.543 | 10
+ Brown                 | Anya           | Olson               | 9.542 | 11
+ Wisconsin-Stout       | Kaylee         | Jondahl             | 9.541 | 11
+ Springfield College   | Marissa        | DeAngelo            | 9.539 | 10
+ Pennsylvania          | Megan          | Finck               | 9.538 | 10
+ Illinois State        | Sami           | King                | 9.538 | 11
+ Towson University     | Lauren         | Cahalan             | 9.538 | 12
+ Temple                | Victoria       | Reggiani            | 9.535 | 11
+ Kentucky              | Khadijah       | Hudson              | 9.533 |  3
+ Bridgeport            | Cheyenne       | KELLER              | 9.532 | 11
+ Air Force Academy     | Julia          | Sebben              | 9.531 | 10
+ Iowa                  | Ashley         | Fischer             | 9.531 |  8
+ Temple                | Stephanie      | Verry               | 9.529 | 10
+ Wisconsin-Whitewater  | Chloe          | Rehberg             | 9.528 |  9
+ Seattle Pacific       | Sydney         | CLARK               | 9.527 | 11
+ Lindenwood University | Kayla          | McMullan            | 9.525 |  7
+ BYU                   | Rachel         | Tucker              | 9.525 |  1
+ Sacramento State      | Alyssa         | Anderson            | 9.525 | 12
+ Southern Conn.        | Rachel         | de la Torre         | 9.525 | 11
+ Arizona               | Amber          | Wobma               | 9.525 |  1
+ Wisconsin-Whitewater  | Christina      | Slack               | 9.525 |  1
+ Washington            | Stephanie      | Stowe               | 9.525 | 11
+ Southern Conn.        | Alexandra      | Avendano            | 9.523 | 11
+ Air Force Academy     | Kim            | McRobbie            | 9.520 | 11
+ Sacramento State      | Jennifer       | Brenner             | 9.517 |  9
+ West Chester          | Melissa        | Prisco              | 9.514 |  9
+ Wisconsin-Whitewater  | Courtney       | Pickett             | 9.514 |  9
+ S.E. Missouri         | Jordan         | Clark               | 9.514 | 12
+ UIC                   | Citlali        | Cuevas              | 9.513 | 10
+ Yale                  | Sloane         | Smith               | 9.513 |  2
+ William & Mary        | BRI            | GIRONDA             | 9.513 | 10
+ Arizona State         | Savannah       | Borman              | 9.511 | 10
+ Yale                  | Joyce          | Li                  | 9.510 | 10
+ Arizona State         | Carissa        | Kraus               | 9.506 | 11
+ Centenary College     | Kellie         | Slater              | 9.506 | 12
+ Ursinus College       | Heather        | Brubaker            | 9.505 |  5
+ Brockport State       | Stephanie      | Schuler             | 9.505 | 10
+ Seattle Pacific       | Cara           | LORD                | 9.503 | 11
+ Illinois-Champaign    | Jordyn         | Givens              | 9.502 | 11
+ New Hampshire         | LAUREN         | BRODIE              | 9.500 |  6
+ Illinois-Champaign    | Kelsi          | Eberly              | 9.500 | 11
+ Seattle Pacific       | Breanna        | BELTRAN             | 9.500 | 11
+ Brown                 | Jorden         | Mitchell            | 9.500 | 11
+ Ursinus College       | Kristina       | Steffenhagan        | 9.494 |  9
+ Temple                | Alexis         | Arena               | 9.492 | 11
+ Alaska                | Stefany        | Bryan               | 9.492 |  9
+ Brockport State       | Lexi           | King                | 9.489 |  9
+ Iowa                  | Mollie         | Drenth              | 9.488 | 11
+ Yale                  | Anna           | Merkuryev           | 9.485 | 10
+ Brockport State       | Ananda         | Carney              | 9.485 | 10
+ Alaska                | Emily          | Ramberg             | 9.484 | 11
+ Oregon State          | Chelsea        | Tang                | 9.483 | 12
+ Yale                  | Brianna        | Chrisman            | 9.480 |  6
+ Temple                | Lauren         | Capone              | 9.475 | 11
+ Lindenwood University | Dani           | Fumagalli           | 9.475 |  9
+ Seattle Pacific       | Brittany       | ATCHISON            | 9.475 |  9
+ Yale                  | Katherine      | Lucas               | 9.475 |  9
+ West Virginia         | Lia            | Salzano             | 9.475 |  1
+ Iowa State            | Allie          | Hansen              | 9.475 |  8
+ San Jose State        | Amy            | Bellingham          | 9.475 |  7
+ Sacramento State      | Emily          | Bolton              | 9.475 |  1
+ Winona State          | Jade           | Donaldson           | 9.473 | 12
+ UIC                   | Ryann          | Conners             | 9.471 |  6
+ Kent State            | Amiah          | Mims                | 9.470 | 11
+ Texas Woman's         | Katie          | Simpson             | 9.465 | 12
+ Centenary College     | Allison        | Scates              | 9.463 | 13
+ Cornell               | Allison        | Franz               | 9.463 |  4
+ Cortland State        | Elise          | Konikoff            | 9.458 | 10
+ Wisconsin-Stout       | Kenzie         | Hyde                | 9.457 |  7
+ Pennsylvania          | Wynne          | Levy                | 9.456 |  8
+ Cortland State        | Meghan         | Goyden              | 9.455 | 10
+ Brown                 | Brooke         | Williams            | 9.452 | 11
+ Brockport State       | Olivia         | Sylvestro           | 9.450 |  7
+ Ball State            | Juliana        | Booth               | 9.450 |  9
+ Lindenwood University | Alicia         | Floyd               | 9.450 |  2
+ Pittsburgh            | Maegan         | Higdon              | 9.450 |  4
+ New Hampshire         | JEN            | KING                | 9.450 |  6
+ West Chester          | Samantha       | Engle               | 9.447 |  9
+ Pennsylvania          | Carissa        | Lim                 | 9.447 |  8
+ Alaska                | Julia          | York                | 9.446 |  9
+ Iowa                  | Nikki          | Youd                | 9.444 |  7
+ Brown                 | Diana          | Walters             | 9.443 | 11
+ Wisconsin-La Crosse   | Nicole         | Wangler             | 9.442 |  3
+ S.E. Missouri         | McKenna        | Stanley             | 9.442 | 12
+ Yale                  | Anella         | Anderson            | 9.438 | 10
+ Wisconsin-Whitewater  | Hannah         | Lee                 | 9.438 |  9
+ Brown                 | Danielle       | Hoffman             | 9.436 | 11
+ S.E. Missouri         | Chelsi         | Hamilton            | 9.430 | 10
+ Air Force Academy     | Kara           | Witgen              | 9.430 | 11
+ George Washington     | Madeline       | Seibold             | 9.425 |  3
+ Temple                | Brittanie      | DeMeno              | 9.425 |  1
+ UIC                   | Emily          | DeCesare            | 9.425 | 11
+ Ursinus College       | Monique        | Brooks              | 9.425 |  9
+ Illinois State        | Kristen        | Lieberman           | 9.421 | 12
+ Centenary College     | Natalie        | Humbert             | 9.421 |  8
+ Brockport State       | Brittany       | Vasile              | 9.420 | 10
+ North Carolina        | Josselyn       | Mackey              | 9.419 |  9
+ West Chester          | Meghan         | Chan                | 9.419 |  5
+ Northern Illinois     | Brittany       | Wenzel              | 9.419 | 12
+ Gustavus Adolphus     | Alexandra      | Kopp                | 9.418 | 11
+ William & Mary        | ALYSSA         | GLASS               | 9.417 |  9
+ Illinois State        | Demi           | Pas                 | 9.417 | 11
+ Cortland State        | Maddy          | Scozzie             | 9.417 | 10
+ Wisconsin-Eau Claire  | Julia          | Stedman             | 9.414 |  9
+ Arizona State         | Kristine       | Levin               | 9.413 | 11
+ Cornell               | Lauren         | Wong                | 9.411 |  7
+ Towson University     | Tyra           | McKellar            | 9.406 | 12
+ West Chester          | Rose           | Wortman             | 9.405 | 11
+ Kent State            | Whitnee        | Johnson             | 9.400 |  6
+ Cornell               | Joy            | Gage                | 9.400 | 11
+ Seattle Pacific       | Tracie         | VILLANUEVA          | 9.400 | 11
+ William & Mary        | MONICA         | OUELLET             | 9.400 | 10
+ Wisconsin-La Crosse   | Samantha       | Wiekamp             | 9.397 | 10
+ Pittsburgh            | Tiara          | Chadran             | 9.396 | 11
+ Texas Woman's         | Spencer        | Jones               | 9.393 | 12
+ Springfield College   | Lauren         | Pocius              | 9.390 | 10
+ Ithaca College        | Valerie        | Cohen               | 9.386 |  9
+ Springfield College   | Kristin        | Feliu               | 9.386 |  7
+ Brockport State       | Bridgette      | Schaal              | 9.380 |  5
+ William & Mary        | KRISTIE        | WEI                 | 9.378 |  8
+ Temple                | Danielle       | Vahala              | 9.375 |  3
+ Pennsylvania          | Jill           | Fordiani            | 9.372 |  9
+ Temple                | Gina           | Tucker              | 9.370 |  7
+ Air Force Academy     | Casey          | Bell                | 9.368 | 11
+ Cortland State        | Meghan         | Cobb                | 9.363 |  8
+ Springfield College   | Abby           | Clark               | 9.361 | 10
+ Cornell               | Samantha       | VanderPutten        | 9.359 | 11
+ Ursinus College       | Kelsey         | Stewart             | 9.358 |  9
+ Wisconsin-Whitewater  | Cici           | Talcott             | 9.356 |  9
+ Cornell               | Krystin        | Chiellini           | 9.353 |  9
+ Pennsylvania          | Ally           | Podsednik           | 9.350 |  7
+ Ursinus College       | Kristin        | Aichele             | 9.350 |  8
+ Bridgeport            | Rachel         | DICARLO             | 9.350 | 13
+ Bridgeport            | Maggie         | CORTESE             | 9.350 |  1
+ Wisconsin-Stout       | Kelly          | Huseman             | 9.346 |  9
+ Wisconsin-Stout       | Randi          | Schorzman           | 9.343 | 10
+ Ithaca College        | Rachel         | Lee                 | 9.341 |  9
+ Southern Conn.        | Samantha       | Menichini           | 9.336 | 11
+ Springfield College   | Madison        | Bowen               | 9.336 |  9
+ Cortland State        | Amanda         | Scanlon             | 9.333 | 10
+ Winona State          | Brooke         | Hiestand            | 9.327 | 12
+ Yale                  | Morgan         | Traina              | 9.325 | 10
+ North Carolina        | Christina      | Pheil               | 9.325 |  2
+ William & Mary        | FALLON         | WAY                 | 9.325 |  1
+ Wisconsin-Eau Claire  | Desirae        | Stanton             | 9.322 |  9
+ Wisconsin-Whitewater  | Lewa           | Evans               | 9.314 |  9
+ Southern Conn.        | Jasmine        | Zambrana            | 9.313 |  2
+ Rhode Island College  | Victoria       | Costello            | 9.310 | 10
+ Cortland State        | McKenna        | Passalacqua         | 9.308 | 10
+ Brockport State       | Casey          | Attenberger         | 9.300 |  1
+ Ursinus College       | Riley          | Acton               | 9.300 |  9
+ Winona State          | Emily          | Goldeman            | 9.292 | 12
+ Wisconsin-La Crosse   | Leah           | Spankowski          | 9.288 |  3
+ Wisconsin-La Crosse   | Sheree         | Romesburg           | 9.281 |  4
+ Wisconsin-Oshkosh     | Emily          | Ryan                | 9.281 |  4
+ Wisconsin-Oshkosh     | Krystal        | Walker              | 9.281 |  9
+ Ithaca College        | Kaylee         | Pacunas             | 9.278 |  9
+ Yale                  | Allison        | Bushman             | 9.275 |  8
+ Air Force Academy     | Joey           | Ching               | 9.263 |  4
+ Temple                | Michaela       | Lapent              | 9.263 | 11
+ Hamline               | Jacklyn        | Clements            | 9.255 | 10
+ Wisconsin-La Crosse   | Ali            | Berry               | 9.254 |  8
+ Wisconsin-La Crosse   | Savana         | Kettner             | 9.253 | 10
+ Seattle Pacific       | Kristi         | HAYASHIDA           | 9.250 | 11
+ Northern Illinois     | Jaelyn         | Olsen               | 9.250 |  8
+ Hamline               | Sela           | Fadness             | 9.248 | 10
+ Wisconsin-Eau Claire  | Elizabeth      | Stubbs              | 9.238 |  8
+ Winona State          | Taylor         | Lewis               | 9.225 | 12
+ Illinois-Champaign    | Suren          | Kanchanavaleerat    | 9.225 |  1
+ Ursinus College       | Kelly          | McLaughlin          | 9.225 |  4
+ Cortland State        | Michaela       | Stumpf              | 9.221 |  7
+ Ithaca College        | Megan          | Harrington          | 9.219 |  9
+ Springfield College   | Nicole         | Silva               | 9.213 |  9
+ Hamline               | Erika          | Briscoe             | 9.208 | 10
+ Ursinus College       | Alyssa         | Hershmen            | 9.206 |  4
+ Winona State          | Veronica       | Peterson            | 9.206 | 12
+ Rhode Island College  | Erin           | Shea                | 9.205 | 10
+ Winona State          | Joanna         | Reale               | 9.204 | 12
+ Wisconsin-Stout       | Callie         | Counts              | 9.195 | 10
+ Wisconsin-Eau Claire  | Lauren         | Zurowski            | 9.194 |  9
+ Rhode Island College  | Emma           | Hartan              | 9.188 | 10
+ Springfield College   | Gabby          | Christ              | 9.184 |  8
+ Wisconsin-La Crosse   | Kari           | Willett             | 9.183 |  7
+ Pittsburgh            | Lindsay        | Offutt              | 9.183 | 11
+ Hamline               | Alexis         | Nault               | 9.178 | 10
+ Bowling Green         | Alex           | Porter              | 9.175 |  2
+ Wisconsin-La Crosse   | Rose           | Franke              | 9.175 |  1
+ Hamline               | Alyssa         | Huch                | 9.169 |  9
+ Centenary College     | Taylor         | LeMoal              | 9.163 | 13
+ Rhode Island College  | Sammie         | LeMire              | 9.158 |  6
+ Brockport State       | Marla          | Thomas              | 9.150 |  5
+ Ithaca College        | Melissa        | Hollrigl            | 9.150 |  9
+ Wisconsin-Eau Claire  | Bailee         | Espelien            | 9.144 |  4
+ Wisconsin-La Crosse   | Lauren         | Wilson              | 9.133 | 10
+ Cortland State        | Nicole         | Zangoglia           | 9.125 | 10
+ Wisconsin-Eau Claire  | Destiny        | Cobbs               | 9.125 |  8
+ Hamline               | Sarah          | Dyer                | 9.125 | 10
+ Wisconsin-Eau Claire  | Victoria       | Erickson            | 9.114 |  9
+ Gustavus Adolphus     | Emily          | Anderson            | 9.114 | 11
+ Ithaca College        | Ingrid         | Calfee              | 9.100 |  9
+ Wisconsin-Oshkosh     | Kimberly       | Robertson           | 9.100 |  9
+ Wisconsin-Eau Claire  | Rebecca        | Wilcox              | 9.094 |  8
+ Gustavus Adolphus     | Lauren         | Kershner            | 9.089 | 11
+ Centenary College     | Sylvia         | Keiter              | 9.079 | 13
+ Hamline               | Emily          | Giefer              | 9.075 | 10
+ Wisconsin-Eau Claire  | Autumn         | Lefever             | 9.075 |  1
+ Gustavus Adolphus     | Kate           | Schneider           | 9.055 | 11
+ Wisconsin-La Crosse   | Ana            | Ginter              | 9.050 |  4
+ Wisconsin-Oshkosh     | Amanda         | McBrayer            | 9.050 |  9
+ Hamline               | Yabrei         | Butts               | 9.043 | 10
+ Rhode Island College  | Emily          | Murphy              | 9.042 | 10
+ Wisconsin-Stout       | Sara           | Perez               | 9.033 | 10
+ Rhode Island College  | Corrine        | Paul                | 9.018 | 10
+ Brown                 | Alexandra      | Chretien            | 9.000 | 11
+ Seattle Pacific       | Teryn          | LOLAND              | 9.000 |  2
+ Wisconsin-Eau Claire  | Malyssa        | Krajco              | 9.000 |  2
+ Wisconsin-Oshkosh     | Nicole         | deRoode             | 8.978 |  9
+ Brockport State       | Jennifer       | Sklenar             | 8.975 |  9
+ Gustavus Adolphus     | Jaimie         | Niedermayer         | 8.963 | 11
+ Ursinus College       | Amanda         | Palladino           | 8.950 |  9
+ Wisconsin-Stout       | Tara           | Zimmerman           | 8.950 | 10
+ Rhode Island College  | Erin           | Craig               | 8.938 |  4
+ Cortland State        | Kylie          | Feldman             | 8.938 |  9
+ Rutgers               | Emma           | Hoffman             | 8.925 | 12
+ Gustavus Adolphus     | Maggie         | Willis              | 8.925 |  5
+ Springfield College   | Jenna          | Croteau             | 8.913 | 10
+ Wisconsin-Oshkosh     | Taylor         | Ennocenti           | 8.911 |  9
+ Springfield College   | Olivia         | Morrell             | 8.900 |  4
+ Cortland State        | Ari            | Turso               | 8.888 |  8
+ Wisconsin-Stout       | Kourtland      | Thompson            | 8.860 | 10
+ Wisconsin-La Crosse   | Kendall        | Westrich            | 8.825 |  7
+ Western Michigan      | Kira           | Hoy                 | 8.825 |  4
+ Wisconsin-Oshkosh     | Kasandra       | Stamopoulos         | 8.821 |  9
+ Rhode Island College  | Courtney       | Osborn              | 8.746 | 10
+ Wisconsin-La Crosse   | Amy            | Enright             | 8.704 | 10
+ Ithaca College        | Danielle       | Maffuid             | 8.700 |  1
+ Auburn                | Sarah          | Garcia              | 8.675 |  1
+ Wisconsin-Stout       | Jordana        | Brady               | 8.650 |  6
+ Gustavus Adolphus     | Rachel         | Thiner              | 8.625 | 11
+ Gustavus Adolphus     | Alyssa         | Ciatti              | 8.488 | 11
+ Hamline               | Mickaela       | O'Malley            | 8.450 |  3
+ Brockport State       | Jill           | Daddario            | 8.450 |  6
+ Gustavus Adolphus     | Rachel         | Dargis              | 8.400 |  1
+ Illinois State        | Danci          | Cha                 | 8.250 | 12
+ Cortland State        | Bailey         | Gildemeyer          | 8.150 | 10
+ Pennsylvania          | Rachel         | Graham              |       |  6
+ Cornell               | Maia           | Vernacchia          |       |  8
+ Southern Conn.        | Kasey          | Kilmurray           |       | 11
+ Wisconsin-Oshkosh     | Alyssa         | Noel                |       |  3
+ Cortland State        | Tara           | Sweeney             |       |  4
+ Central Michigan      | Kylie          | Fagan               |       | 12
+ Temple                | Alexandra      | Forcucci            |       |  6
+ Seattle Pacific       | Alexa          | OKAMURA             |       |  8
+ New Hampshire         | KAYLA          | GRAY                |       | 12
+ Cornell               | Kennedy        | Prentice            |       |  2
+ Eastern Michigan      | Nikki          | Paterson            |       | 12
+ UCLA                  | Napualani      | Hall                |       |  5
+ Auburn                | Megan          | Walker              |       | 12
+ Brockport State       | Faith          | Burns               |       |  7
+ Washington            | Faith          | Morrison            |       | 10
+ Seattle Pacific       | Renee          | ZOGRAFOS            |       | 11
+ Eastern Michigan      | Kirsten        | Gendron             |       |  1
+ Oklahoma              | Rebecca        | Clark               |       | 12
+ Washington            | Janae          | Janik               |       | 11
+ Bridgeport            | Amber          | HILL                |       | 13
+ Wisconsin-Whitewater  | Megan          | Love                |       |  2
+ Air Force Academy     | Alexandra      | Stych               |       | 11
+ Rutgers               | Claudia        | Salinas             |       | 12
+ Arizona               | Victoria       | Ortiz               |       | 12
+ UCLA                  | Danusia        | Francis             |       | 11
+ S.E. Missouri         | Chloe          | Marshall            |       |  2
+ Northern Illinois     | Shelby         | Davis               |       | 11
+ Rutgers               | Jenna          | Crisalli            |       | 10
+ Iowa State            | Kristen        | DeCosta             |       | 11
+ Rhode Island College  | Jackie         | Hahn                |       | 10
+ Wisconsin-Oshkosh     | Valene         | Knutson             |       |  6
+ Towson University     | Bridget        | Steffen             |       | 12
+ Kentucky              | Taylor         | Puryear             |       | 11
+ Pennsylvania          | Amanda         | Schlaefer           |       |  9
+ Bridgeport            | Brianna        | COMPORT             |       | 13
+ BYU                   | Emily          | Vidmar              |       | 12
+ Wisconsin-La Crosse   | Monique        | Muehlethaler        |       |  3
+ Oregon State          | Nicole         | Turner              |       | 10
+ Hamline               | Morgan         | Bradford            |       | 10
+ Rhode Island College  | Cherise        | Lee                 |       | 10
+ Arkansas              | Keara          | Glover              |       | 12
+ Ithaca College        | Shelby         | Scanlon             |       |  1
+ Michigan              | Nichelle       | Christopherson      |       |  4
+ Wisconsin-La Crosse   | Chelsie        | Richards            |       |  5
+ Gustavus Adolphus     | Kalyn          | Botzet              |       |  8
+ Minnesota             | Madie          | Hanley              |       | 12
+ Southern Conn.        | Emily          | Shelton             |       |  8
+ Bowling Green         | Laura          | Mitchell            |       |  8
+ Rutgers               | Charly         | Santagado           |       | 11
+ Kentucky              | Amy            | Roemmele            |       | 11
+ Air Force Academy     | Shannen        | Kelly               |       | 11
+ BYU                   | Kyleigh        | Greenlief           |       |  8
+ Ursinus College       | Kelsey         | Jewell              |       |  9
+ San Jose State        | Allison        | Bellingham          |       |  7
+ Air Force Academy     | Lindsay        | Ebel                |       |  7
+ Wisconsin-La Crosse   | Kerry          | Scafidi             |       |  7
+ California            | Jordan         | Widener             |       | 10
+ Michigan State        | Kira           | Frederick           |       | 13
+ Wisconsin-Eau Claire  | Sarah          | Engstrom            |       |  9
+ UC Davis              | Lisa           | Wiktorski           |       | 12
+ UIC                   | Nicole         | Szabo               |       | 11
+ Eastern Michigan      | Lacey          | Rubin               |       | 12
+ Northern Illinois     | Natalie        | Amadio              |       | 12
+ Brown                 | Regan          | Butchness           |       | 10
+ Ithaca College        | Mina           | Shernan             |       |  9
+ Central Michigan      | Bryttany       | Kaplan              |       |  6
+ Nebraska              | Jennifer       | Lauer               |       | 11
+ Utah State            | Melanie        | Oster               |       |  6
+ Towson University     | Lauren         | Ross                |       | 12
+ Towson University     | Gabriella      | Yarussi             |       |  3
+ North Carolina State  | Nicole         | Wild                |       | 11
+ Kent State            | Nicole         | Radon               |       | 11
+ Utah                  | MADDY          | STOVER              |       | 11
+ Air Force Academy     | Annie          | Graft               |       | 11
+ Denver                | Claire         | Hammen              |       |  1
+ Gustavus Adolphus     | Jessica        | Niedermayer         |       | 11
+ Hamline               | Olivia         | Kressler            |       | 10
+ Rutgers               | Claire         | Jones               |       | 10
+ BYU                   | Taylor         | Harward             |       | 11
+ Seattle Pacific       | Amanda         | WILLINGHAM          |       |  8
+ Stanford              | Haley          | Spector             |       | 11
+ California            | Dana           | Ho                  |       | 12
+ West Virginia         | Brooklyn       | Doggette            |       | 11
+ Ithaca College        | Emma           | Duncan              |       |  1
+ Alabama               | Amanda         | Jetter              |       | 10
+ S.E. Missouri         | Taylor         | Penzien             |       |  8
+ Oregon State          | Shireen        | Khamedoost          |       |  7
+ UCLA                  | Ellette        | Craddock            |       |  3
+ California            | Zoe            | Draghi              |       | 12
+ Ursinus College       | Vanessa        | Scalora             |       |  9
+ Minnesota             | Hanna          | Nordquist           |       |  7
+ UIC                   | Amelia         | Rafferty            |       |  1
+ Springfield College   | Linda          | McAuley             |       |  1
+ Arizona               | Kennady        | Schneider           |       | 12
+ Bowling Green         | Caroline       | Ellingboe           |       | 12
+ Wisconsin-Eau Claire  | Erin           | Olson               |       |  9
+ Brockport State       | Caitlin        | Elsadek             |       | 10
+ UC Davis              | Cassie         | Quebral             |       | 12
+ California            | Isabelle       | Castillo            |       |  2
+ Hamline               | Josephine      | Kent                |       |  3
+ Wisconsin-Whitewater  | Alexis         | Williams            |       |  8
+ Cornell               | Hannah         | Clark               |       |  6
+ Missouri              | Tia            | Allbritten          |       | 13
+ Brockport State       | Amanda         | Rota                |       |  9
+ Wisconsin-La Crosse   | Elsa           | Spitzmueller        |       |  9
+ Central Michigan      | Preslee        | Harrald             |       | 12
+ Air Force Academy     | Hannah         | Wilken              |       |  8
+ Bridgeport            | Randi          | CUTOLO              |       | 13
+ Wisconsin-Oshkosh     | Leane          | Blais               |       |  9
+ Illinois State        | Samantha       | Ward                |       | 12
+ Cornell               | Elana          | Molotsky            |       | 11
+ Illinois State        | Heather        | Pena                |       |  5
+ Oklahoma              | McKenzie       | Wofford             |       | 12
+ Alaska                | Brice          | Mizell              |       |  1
+ Arkansas              | Sydnie         | Dillard             |       | 12
+ Hamline               | Madison        | Couves              |       |  4
+ William & Mary        | BRANDY         | STOVER              |       | 10
+ Missouri              | Becca          | Johnson             |       | 13
+ Pittsburgh            | Dani           | Hall                |       | 10
+ Ball State            | Jillian        | Hacker              |       |  4
+ West Chester          | Cecelia        | Lorenzen            |       |  9
+ Wisconsin-Stout       | Kasondra       | Tulloch             |       |  3
+ West Chester          | Lindsay        | Knapp               |       | 11
+ Hamline               | Madeline       | Lind                |       |  5
+ San Jose State        | Mackenzie      | Douglas             |       | 12
+ Brockport State       | Kendal         | Hamer               |       |  8
+ Winona State          | Kathryn        | Pipp                |       | 12
+ Arkansas              | Erin           | Freier              |       | 12
+ Wisconsin-Eau Claire  | Emily          | Van Krevelen        |       |  1
+ North Carolina        | Lindsey        | Lemke               |       |  9
+ Maryland              | Nicole         | Dragon              |       |  2
+ Pennsylvania          | Kyra           | Levi                |       | 10
+ West Virginia         | Melissa        | Idell               |       | 11
+ Ball State            | Miranda        | Kuehl               |       | 12
+ Oregon State          | Katelyn        | Ohlrich             |       |  9
+ Lindenwood University | Trystien       | Charles             |       |  9
+ Wisconsin-Whitewater  | Kate           | Mierow              |       |  1
+ Cornell               | Abaigeal       | Thompson            |       | 10
+ Alabama               | Kiana          | Winston             |       |  6
+ George Washington     | Brenna         | Marcoux             |       |  1
+ Wisconsin-Whitewater  | Grayson        | Esslinger           |       |  7
+ Pennsylvania          | Emily          | Shugan              |       |  9
+ Springfield College   | Nicole         | Caradonna           |       | 10
+ Iowa State            | Lark           | Pokladnik           |       | 11
+ Penn State            | Lexi           | Carroll             |       |  6
+ Central Michigan      | Jordan         | Charrette           |       |  1
+ Southern Utah         | Arlyn          | AMOR                |       |  8
+ L.S.U.                | Shae           | Zamardi             |       | 11
+ Wisconsin-Oshkosh     | Elizabeth      | Kiel                |       |  9
+ BYU                   | Ashley         | Robinson            |       | 12
+ Winona State          | Katie          | Carling             |       | 12
+ Alaska                | Kallie         | Randolph            |       |  9
+ Hamline               | Briana         | Bridgeford          |       | 10
+ UIC                   | Riley          | Cholod              |       | 11
+ Centenary College     | Jordan         | Anderson            |       |  9
+ Western Michigan      | Kendall        | Carlson             |       |  2
+ Wisconsin-Whitewater  | Caroline       | Holverson           |       |  9
+ Ball State            | Angela         | Durkac              |       | 10
+ Bowling Green         | Morgan         | Denlinger           |       |  8
+ Michigan State        | Hailee         | Westney             |       |  9
+ Arizona               | Shay           | Fox                 |       | 12
+ Bridgeport            | Carol          | CHILES              |       |  9
+ Winona State          | Danielle       | Thenell             |       | 12
+ Boise State           | Diana          | Mejia               |       | 12
+ San Jose State        | Gabby          | Kambur              |       |  9
+ Bridgeport            | Bethany        | DICARLO             |       |  5
+ Missouri              | Briana         | Conkle              |       | 13
+ Florida               | Grace          | McLaughlin          |       |  1
+ Ithaca College        | Anastassia     | Trent               |       |  7
+ Brockport State       | Connie         | Kung                |       |  1
+ Temple                | Hannah         | Popper              |       |  6
+ Hamline               | Madeleine      | Sendek              |       |  1
+ Wisconsin-Eau Claire  | Leah           | Robinette           |       |  8
+ Brown                 | Claire         | Ryan                |       | 11
+ Ithaca College        | Kelly          | Nash                |       |  9
+ Brockport State       | Miranda        | Shaine              |       |  6
+ Cornell               | Julohn         | Teixeira            |       | 10
+ Rhode Island College  | Alexandra      | Otis                |       |  2
+ Kentucky              | Sara           | Shipley             |       |  1
+ UIC                   | Alexandra      | Vedenin             |       |  2
+ Bowling Green         | Jordan         | Rae                 |       | 12
+ Lindenwood University | Olivia         | Oswalt              |       |  6
+ UC Davis              | Whitney        | Estrada             |       |  1
+ West Virginia         | Lindsey        | Litten              |       | 10
+ Yale                  | Kacie          | Traina              |       |  3
+ Alaska                | Nicole         | Larkin              |       | 11
+ Brown                 | Tori           | Kinamon             |       |  1
+ Kentucky              | Cori           | Rechenmacher        |       | 11
+ Nebraska              | Madison        | McConkey            |       |  1
+ Rutgers               | Ayana          | Lee                 |       |  2
+ Georgia               | Vivi           | Babalis             |       | 12
+ Temple                | Taylor         | Rakus               |       |  8
+ Alaska                | Kendra         | Daniels             |       |  9
+ Missouri              | Sasha          | Sander              |       |  3
+ UCLA                  | Sophina        | DeJesus             |       | 11
+ Cortland State        | Bri            | Michaels            |       | 10
+ Kent State            | Ali            | Marrero             |       | 11
+ L.S.U.                | Michelle       | Gauthier            |       |  1
+ Ohio State            | Rachel         | Abrams              |       | 12
+ Brockport State       | Lily           | Jagodzinski         |       | 10
+ Springfield College   | Alexis         | Stiefel             |       |  2
+ Southern Utah         | Natalie        | TREJO               |       | 12
+ Oregon State          | Jamie          | Radermacher         |       |  3
+ Pittsburgh            | Laura          | Kummerle            |       | 10
+ Central Michigan      | Taylor         | Bolender            |       | 12
+ Oregon State          | Kailie         | Ponto               |       |  4
+ Rhode Island College  | Jamie          | Krywinski           |       |  3
+ Hamline               | Alexandra      | Vorderbruggen       |       |  9
+ Rutgers               | Anastasia      | Halbig              |       | 11
+ Northern Illinois     | Taylor         | Crumley             |       |  7
+ Wisconsin-Oshkosh     | Courtney       | Howard              |       |  9
+ Alabama               | Nickie         | Guerrero            |       |  5
+ Bowling Green         | McKenna        | Schoenberger        |       |  9
+ California            | Jessica        | Howe                |       |  3
+ Kent State            | Rachel         | Stypinski           |       | 11
+ West Virginia         | Audrey         | Tolbert             |       |  2
+ Ball State            | Brooklyn       | Schumacher          |       | 12
+ Denver                | Rachel         | Feeken              |       |  8
+ Central Michigan      | Taylor         | Noonan              |       |  4
+ Western Michigan      | Courtney       | Bergstrom           |       |  1
+ Arizona               | Lexi           | Mills               |       | 12
+ Western Michigan      | Emilee         | Incammicia          |       |  1
+ Rutgers               | Katie          | Stebick             |       |  4
+ Denver                | Leah           | Lomonte             |       | 13
+ Ball State            | Madison        | Shorts              |       |  2
+ Maryland              | Sarah          | Faller              |       | 12
+ Iowa State            | Hilary         | Green               |       | 13
+ Ball State            | Baylee         | Bell                |       | 12
+ Kentucky              | Katie          | Carlisle            |       | 10
+ Wisconsin-Oshkosh     | Tabitha        | Dorshorst           |       |  7
+ Iowa                  | Johanny        | Sotillo             |       | 11
+ Wisconsin-Eau Claire  | Taylor         | Custer              |       |  8
+ Springfield College   | Ashley         | Parchinski          |       | 10
+ Northern Illinois     | Meg            | Piepenbrink         |       | 12
+ Texas Woman's         | Alyssa         | Kelly               |       |  4
+ West Chester          | Madison        | Brent               |       |  8
+ Utah                  | KASSANDRA      | LOPEZ               |       | 11
+ Arizona State         | Brianna        | Gades               |       |  9
+ Maryland              | Nikola         | Chung               |       |  2
+ Texas Woman's         | Tessa          | Jaranowski          |       |  1
+ Wisconsin-Stout       | Stephanie      | Shields             |       |  5
+ New Hampshire         | MaKENZIE       | KEROUAC             |       | 12
+ Bowling Green         | Gina           | Locigno             |       | 12
+ Pennsylvania          | Jennifer       | Silver              |       |  1
+ Yale                  | Tatiana        | Winkelman           |       | 10
+ Auburn                | Abby           | Milliet             |       |  9
+ Illinois State        | Amanda         | Mohler              |       | 11
+ Michigan State        | Brittany       | Holmes              |       | 12
+ Cornell               | Christine      | Wong                |       | 10
+ Ursinus College       | Alexandra      | Puryear             |       |  4
+ Boise State           | Molly          | McFarland           |       |  6
+ Nebraska              | Amanda         | Lauer               |       |  1
+ Maryland              | Emily          | Brauckmuller        |       |  1
+ Brown                 | Maggie         | McAvoy              |       |  8
+ Bowling Green         | Krista         | Walberer            |       |  4
+ Oklahoma              | Natalie        | Brown               |       |  1
+ Cortland State        | Emily          | Nagy                |       |  9
+ Iowa                  | Melissa        | Zurawski            |       | 11
+ Pittsburgh            | Taylor         | Laymon              |       | 11
+ S.E. Missouri         | Lauren         | Israel              |       | 12
+ Minnesota             | Abby           | DeMuse              |       |  7
+ Winona State          | Jessica        | Gabriel             |       |  9
+ Oklahoma              | Haley          | Sorensen            |       | 11
+ Cornell               | Courtney       | Spitzer             |       | 11
+ Centenary College     | Megan          | Desjardins          |       | 13
+ Alaska                | Morgan         | Ross                |       |  1
+ UC Davis              | Jamie          | Yamashita           |       |  1
+ West Chester          | Patricia       | Konschak            |       |  1
+ West Chester          | Emily          | Harrison            |       |  1
+ Kent State            | Rebecca        | Osmer               |       | 11
+ New Hampshire         | CATARINA       | BROCCOLI            |       | 10
+ Texas Woman's         | Madison        | Kremer              |       | 10
+ Southern Utah         | Ana            | JAWORSKI            |       | 12
+ Lindenwood University | Shaylyn        | Garay               |       | 11
+ Arizona               | Krysten        | Howard              |       | 12
+ Eastern Michigan      | Taylor         | Young               |       |  7
+ Utah State            | JoAnna         | Cuba                |       |  9
+ Georgia               | Hayley         | Sanders             |       |  1
+ BYU                   | Brittni        | Wilde               |       |  4
+ Alabama               | Mackenzie      | Valentin            |       |  3
+ Ball State            | Katie          | Honarmand           |       | 11
+ Sacramento State      | Anneke         | Klaver              |       |  6
+ Pennsylvania          | Amber          | Hu                  |       | 10
+ North Carolina State  | Aubrey         | Hine                |       | 11
+ Southern Utah         | Kirsten        | YEE                 |       |  9
+ North Carolina State  | Courtney       | Bisbe               |       |  3
+ North Carolina        | Acacia         | Cosentino           |       | 10
+ Maryland              | Evelyn         | Nee                 |       | 11
+ UCLA                  | Hallie         | Mossett             |       | 10
+ Cornell               | Anna           | Huang               |       | 11
+ Kentucky              | Montana        | Whittle             |       | 11
+ Towson University     | Vicki          | Vesecky             |       | 12
+ Stanford              | Rebecca        | Wing                |       | 11
+ Temple                | Kerry          | Arone               |       | 10
+ Ithaca College        | Hannah         | Donnelly            |       |  9
+ Utah                  | BECKY          | TUTKA               |       |  8
+ Hamline               | Tasha          | Golding             |       | 10
+ Rutgers               | Makenzey       | Shank               |       |  3
+ Wisconsin-Eau Claire  | Alyssa         | Farmer              |       |  2
+ Penn State            | Christina      | Postiglione         |       |  7
+ Wisconsin-Whitewater  | Kristen        | Shackelton          |       |  7
+ Northern Illinois     | Jamyra         | Carter              |       | 10
+ Wisconsin-La Crosse   | Kelsi          | Vomacka             |       | 10
+ San Jose State        | Marissa        | Unpingco            |       | 10
+ Iowa                  | Caitlin        | Tanzer              |       |  3
+ Ball State            | Brooke         | Evans               |       |  9
+ Florida               | Bianca         | DancoseGiambattisto |       | 11
+ Auburn                | Caryn          | Kadous              |       | 12
+ Wisconsin-Whitewater  | Stephanie      | Cross               |       |  9
+ Oklahoma              | Erica          | Brewer              |       | 11
+ Southern Conn.        | Chelcie        | Rosborough          |       | 11
+ George Washington     | Liz            | Pfeiler             |       | 13
+ Ursinus College       | Lauren         | Chavis              |       |  9
+ Brockport State       | Madison        | O'Braitis           |       | 10
+ Lindenwood University | MacKenzie      | McMullan            |       |  2
+ Northern Illinois     | Lauren         | Africano            |       | 12
+ Yale                  | Brittney       | Sooksengdao         |       |  8
+ Central Michigan      | Megan          | Lamphere            |       |  9
+ Central Michigan      | Miranda        | Wieczoreck          |       |  9
+ Eastern Michigan      | Chantelle      | Loehner             |       | 12
+ Brockport State       | Natalie        | Manga               |       | 10
+ Wisconsin-Whitewater  | Steffi         | Heuer               |       |  9
+ Ithaca College        | Kendra         | Balcerak            |       |  9
+ Southern Conn.        | Rotem          | Porat               |       | 11
+ Maryland              | Ebony          | Walters             |       | 12
+ Illinois-Champaign    | Jordan         | Naleway             |       | 12
+ BYU                   | Brielle        | Wilchuck            |       | 11
+ West Chester          | Cassandra      | Ringer              |       | 10
+ Ithaca College        | Margaret       | Nieto               |       |  9
+ West Chester          | Katelyn        | Roland              |       |  7
+ Texas Woman's         | Courtney       | Cochefski           |       | 12
+ Michigan              | Lindsay        | Williams            |       | 11
+ Denver                | Brittany       | Franklin            |       |  3
+ Rhode Island College  | Kayla          | LaRoche             |       |  1
+ Utah State            | Charly         | Belliston           |       | 13
+ Ursinus College       | Jillian        | Casarella           |       |  8
+ Rhode Island College  | Megan          | McNeil              |       |  2
+ UC Davis              | Amanda         | Presswood           |       | 11
+ Northern Illinois     | Morgan         | Johnson             |       |  3
+ Utah State            | Cidney         | Robinson            |       |  2
+ West Virginia         | Brittney       | Harris              |       |  6
+ Iowa                  | Lexi           | Mura                |       | 10
+ Southern Utah         | Sydney         | TOWNSEND            |       |  9
+ Missouri              | Kelli          | Martin              |       |  7
+ Wisconsin-La Crosse   | Carly          | Kiesow              |       | 10
+ Cornell               | Kaylie         | Cronin              |       |  8
+ Ithaca College        | Lara           | Haberle             |       |  9
+ Eastern Michigan      | Natalie        | Gervais             |       | 10
+ Pittsburgh            | Julia          | Schindel            |       |  6
+ Sacramento State      | Kayla          | Wonderly            |       | 12
+ Oregon State          | Risa           | Perez               |       | 11
+ Michigan State        | Kate           | Filosi              |       |  1
+ Centenary College     | Casie          | Hood                |       | 13
+ Kentucky              | Kirsten        | Canini              |       |  1
+ Rhode Island College  | Meghan         | French              |       |  9
+ Boise State           | Marissa        | Wossner             |       |  5
+ Texas Woman's         | Abigail        | Versemann           |       |  5
+ West Chester          | Alyssa         | Hult                |       | 11
+ Minnesota             | Kaitlin        | Rahon               |       | 13
+ North Carolina State  | Courtney       | Turner              |       | 11
+ Southern Conn.        | Austin         | Page                |       |  2
+ Iowa                  | Maryah         | Huntley             |       |  5
+ George Washington     | Jessica        | Mishlove            |       | 11
+ Seattle Pacific       | Shannon        | ESCARRA             |       | 11
+ Eastern Michigan      | Rachel         | Slocum              |       | 12
+ Wisconsin-Eau Claire  | Bailey         | Peter               |       |  9
+ Maryland              | Stephanie      | Giameo              |       | 12
+ Stanford              | Samantha       | Shapiro             |       | 11
+ Cortland State        | Allie          | Osmundsen           |       |  9
+ Gustavus Adolphus     | Hillary        | Sabourin            |       |  8
+ Rutgers               | Aziza          | Day                 |       |  2
+ Sacramento State      | Cassie         | Benning             |       | 12
+ Utah State            | Destiny        | Ezell               |       |  5
+ West Virginia         | Mackenzie      | Myers               |       |  8
+ Wisconsin-Oshkosh     | Barbara        | Bass                |       |  8
+ Stanford              | Ivana          | Hong                |       | 11
+ Hamline               | Sydney         | Tribbet             |       |  4
+ Wisconsin-La Crosse   | Katie          | Palluck             |       |  5
+ Georgia               | Rachel         | Schick              |       |  6
+ Georgia               | Morgan         | Reynolds            |       |  7
+ Georgia               | Mary Beth      | Box                 |       | 12
+ Ohio State            | Samantha       | Kent                |       | 11
+ Wisconsin-La Crosse   | Rachel         | Riesterer           |       | 10
+ Winona State          | Olivia         | Cattelino           |       | 12
+ Bridgeport            | Brianna        | QUINN               |       |  5
+ Pennsylvania          | Kaitlyn        | Reszkowski          |       |  9
+ Bridgeport            | Christine      | LIAUTAUD            |       | 13
+ Nebraska              | Danielle       | Breen               |       | 11
+ Alabama               | Aja            | Sims                |       | 12
+ Seattle Pacific       | Alyssa         | ORTIZ               |       |  2
+ Lindenwood University | Hannah         | Rector              |       | 11
+ Wisconsin-Oshkosh     | Danielle       | Turner              |       |  9
+ Wisconsin-Eau Claire  | Bailei         | Hughes              |       |  1
+ Utah State            | Keri           | Peel                |       |  7
+ Oregon State          | Silvia         | ColussiPelaez       |       | 12
+ UIC                   | Katie          | Snyder              |       |  4
+ Florida               | Claire         | Boyce               |       | 11
+ Penn State            | Nicole         | Medvitz             |       | 10
+ Illinois State        | Megan          | Knoernschild        |       |  5
+ Northern Illinois     | Peyton         | Taylor              |       |  3
+ UC Davis              | Jordan         | Helgesen            |       |  2
+ West Virginia         | Jordan         | Gillette            |       |  9
+ Auburn                | Kullen         | Hlawek              |       | 11
+ Missouri              | Miranda        | Eubank              |       | 11
+ Brown                 | Anya           | BarcaHall           |       |  3
+ Wisconsin-Eau Claire  | Kellie         | Dougherty           |       |  9
+ Washington            | Kaitlyn        | Duranczyk           |       | 10
+ New Hampshire         | JESS           | GRACIA              |       | 12
+ California            | Alicia         | Gallarzo            |       |  6
+ Kent State            | Kelsey         | Lawless             |       |  7
+ Springfield College   | Sarah          | Libuda              |       |  4
+ L.S.U.                | Randii         | Wyrick              |       | 10
+ North Carolina        | Janell         | Sargent             |       | 10
+ Georgia               | Kiera          | Brown               |       | 12
+ Southern Conn.        | Christine      | Volz                |       | 11
+ Illinois-Champaign    | Sunny          | Kato                |       | 12
+ Bowling Green         | Rachel         | Reis                |       |  6
+ UCLA                  | Mikaela        | Gerber              |       | 10
+ Hamline               | Courtney       | Morrison            |       |  9
+ Sacramento State      | Brennan        | Bailes              |       |  1
+ North Carolina State  | Hannah         | Sobhan              |       |  6
+ William & Mary        | MAGGIE         | LUNDEEN             |       | 10
+ Centenary College     | Saxon          | Reaux               |       | 12
+ Washington            | Fechter        | McKenzie            |       | 11
+ Western Michigan      | Jessie         | Peszek              |       | 10
+ Penn State            | Alex           | Witt                |       | 11
+ Texas Woman's         | Taylor         | Vincent             |       |  7
+ Washington            | Jackie         | McCartin            |       | 11
+ George Washington     | Taylor         | Redmond             |       | 13
+ Maryland              | Danielle       | Kram                |       | 10
+ Southern Conn.        | Abigail        | Bensley             |       | 11
+ Lindenwood University | Lauren         | Cartmell            |       | 11
+ Ball State            | Jessica        | Leko                |       | 12
+ Alabama               | Lora Leigh     | Frost               |       | 10
+ Towson University     | Bayleigh       | Fobes               |       |  2
+ Utah State            | Breyanna       | Aufiero             |       |  8
+ San Jose State        | Alyssa         | Kaschak             |       |  6
+ Springfield College   | Kelsi          | Levesque            |       |  6
+ Stanford              | Jenna          | Frowein             |       |  9
+ William & Mary        | STACIA         | RUSE                |       |  9
+ Ohio State            | Maggie         | Dunn                |       |  1
+ Ursinus College       | Sydney         | Eckert              |       |  3
+ Pennsylvania          | Elyse          | Shenberger          |       | 10
+ Central Michigan      | Caroline       | Fitzpatrick         |       | 12
+ Southern Conn.        | Jennifer       | Rochefort           |       |  1
+ Centenary College     | Ronni          | Bear                |       |  1
+ Rhode Island College  | Cailee         | Mallory             |       |  6
+ Wisconsin-Eau Claire  | Jessica        | Dhaene              |       |  6
+ Springfield College   | Brianna        | Kerr                |       | 10
+ Springfield College   | Kelsey         | Price               |       |  4
+ West Chester          | Meghan         | Brannon             |       | 10
+ Winona State          | Cassidy        | Kleven              |       | 11
+ UIC                   | Kerensa        | Mitchell            |       |  4
+ Northern Illinois     | Katherine      | Prentice            |       |  3
+ Pennsylvania          | Alex           | Hartke              |       |  3
+ Southern Conn.        | Kathleen       | Aberger             |       |  8
+ Iowa State            | Sara           | Townsend            |       | 10
+ Winona State          | Melanee        | Pfautz              |       | 12
+ Rhode Island College  | Ashley         | Mertins             |       |  1
+ Ursinus College       | Katherine      | Norris              |       |  9
+ Utah State            | Susie          | Miller              |       | 13
+ San Jose State        | Kiley          | Field               |       | 12
+ Iowa State            | Sammie         | Pearsall            |       | 12
+ Pittsburgh            | Kelly          | Burak               |       | 11
+(1161 rows)
+
