@@ -11,7 +11,7 @@ url = "http://www.troester.com/gym/MenuW.asp"
 
 path = '//*[@id="table2"]/tr[position()>1]'
 
-schools = CSV.open("csv/schools.csv","r")
+teams = CSV.open("csv/teams.csv","r")
 rosters = CSV.open("csv/rosters.csv","w")
 
 begin
@@ -23,15 +23,15 @@ end
 
 form = page.forms[0]
 
-schools.each do |school|
+teams.each do |team|
 
-  school_id = school[0]
+  team_id = team[0]
 
-  form["Team"] = school_id
+  form["Team"] = team_id
   page = form.submit
 
   page.parser.xpath(path).each do |tr|
-    row = [school_id]
+    row = [team_id]
 
     tr.xpath("td").each_with_index do |td,j|
       case j

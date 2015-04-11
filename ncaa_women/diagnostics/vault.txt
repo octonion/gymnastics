@@ -1,0 +1,1674 @@
+[1] 5535    4
+Linear mixed model fit by REML ['lmerMod']
+Formula: log(vault) ~ field + (1 | name) + (1 | match_number)
+   Data: games
+REML criterion at convergence: -25848.54
+Random effects:
+ Groups       Name        Std.Dev.
+ match_number (Intercept) 0.007381
+ name         (Intercept) 0.024907
+ Residual                 0.019014
+Number of obs: 5535, groups:  match_number, 929; name, 697
+Fixed Effects:
+(Intercept)       fieldH  
+   2.260752     0.000129  
+Linear mixed model fit by REML ['lmerMod']
+Formula: log(vault) ~ field + (1 | name) + (1 | match_number)
+   Data: games
+
+REML criterion at convergence: -25848.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-14.3885  -0.1536   0.1087   0.3574   4.1191 
+
+Random effects:
+ Groups       Name        Variance  Std.Dev.
+ match_number (Intercept) 5.448e-05 0.007381
+ name         (Intercept) 6.203e-04 0.024907
+ Residual                 3.615e-04 0.019014
+Number of obs: 5535, groups:  match_number, 929; name, 697
+
+Fixed effects:
+             Estimate Std. Error t value
+(Intercept) 2.2607525  0.0010669  2118.9
+fieldH      0.0001290  0.0007394     0.2
+
+Correlation of Fixed Effects:
+       (Intr)
+fieldH -0.266
+ (Intercept)       fieldH 
+2.2607524868 0.0001289879 
+$match_number
+      (Intercept)
+1   -7.761277e-04
+2    5.778273e-03
+3   -1.176386e-02
+4    5.943360e-03
+5   -6.812138e-03
+6    5.987877e-03
+7   -3.769435e-03
+8   -4.143622e-03
+9    4.671146e-03
+10  -7.734667e-03
+11   4.933810e-03
+13  -1.136141e-02
+14  -8.528028e-04
+15   4.730486e-03
+16  -3.417673e-03
+17  -8.517421e-03
+18  -2.338986e-03
+19  -2.824684e-03
+20  -3.562615e-03
+21   1.656048e-03
+22   5.666991e-03
+24   1.161714e-03
+25  -4.360546e-03
+26  -1.967755e-03
+27  -1.314174e-03
+28   1.163808e-03
+29  -3.531410e-03
+30   9.569824e-04
+31   4.059195e-04
+32   2.159737e-03
+33   4.469103e-03
+34   3.395166e-03
+35   4.578198e-03
+36  -1.244689e-02
+37   2.608613e-04
+38   2.142380e-03
+39   3.724231e-03
+40   4.187231e-04
+41   1.521331e-03
+42   2.543254e-03
+43  -2.372858e-03
+44   2.695073e-03
+45   2.151405e-03
+46  -4.905100e-03
+56  -1.080367e-03
+57   1.997153e-03
+58   9.395137e-04
+59   5.218124e-03
+60  -2.188873e-03
+61  -4.698079e-04
+62   5.949193e-04
+63   3.954245e-03
+64  -4.400272e-03
+65   3.819462e-03
+66   3.166371e-03
+67  -1.882150e-02
+68  -1.082875e-02
+69   6.595052e-03
+70  -1.301317e-03
+71   5.318259e-03
+72  -8.150975e-03
+73   7.059152e-03
+74  -4.969609e-03
+75   7.403190e-03
+76  -1.742783e-03
+77   1.321877e-03
+78   2.081343e-03
+79   7.704482e-04
+80  -2.248340e-03
+81   2.165127e-03
+82   6.476451e-03
+83  -2.977409e-03
+84  -1.679245e-02
+85   6.434431e-03
+86   4.866830e-03
+87   4.856066e-03
+88  -1.055512e-03
+89   7.198755e-03
+90  -1.440652e-04
+91  -2.247460e-03
+92  -1.223458e-02
+93   4.944955e-03
+94  -3.333591e-03
+95   3.433044e-03
+96   1.977104e-04
+97   6.537590e-05
+98   3.340694e-03
+99   9.772517e-04
+100 -2.303658e-04
+101 -6.078259e-03
+102  1.736341e-03
+103  3.551991e-03
+104 -2.891750e-03
+105 -6.079987e-03
+106 -1.112771e-03
+107  6.389966e-04
+108 -1.344702e-03
+109  1.279221e-03
+110  3.695037e-03
+111  1.817021e-03
+112  6.631535e-04
+113  2.878634e-03
+114 -3.532089e-03
+115 -2.530519e-03
+116 -9.141691e-04
+117 -3.652297e-03
+118  2.275302e-03
+119 -2.395828e-03
+120 -7.261955e-03
+121  6.622617e-03
+122  4.868675e-03
+123 -4.185220e-03
+124 -4.974442e-03
+125  7.287715e-03
+126  5.916967e-03
+127 -1.235186e-02
+129 -7.772122e-03
+130  1.563681e-03
+131  7.960673e-04
+132  2.866610e-03
+133  4.302197e-03
+134 -3.304547e-03
+136  2.254351e-03
+137  7.543455e-03
+138  5.596725e-04
+139 -1.945980e-04
+140  3.945340e-03
+141 -3.608282e-03
+142  9.648064e-04
+143 -3.902778e-03
+144  2.446795e-03
+145  9.677903e-04
+146 -4.623506e-04
+147  5.344497e-03
+148  1.354178e-03
+149  2.289716e-03
+150  2.037501e-03
+151  7.105008e-04
+152  2.168172e-03
+153  1.430041e-03
+154 -2.206326e-02
+155 -6.228408e-03
+156 -2.572554e-03
+157  4.275850e-03
+158  2.705874e-03
+159 -3.826518e-05
+160  5.346554e-03
+161  5.088182e-03
+162 -4.886088e-04
+163  2.398005e-03
+164  9.118133e-04
+165  5.730026e-03
+166 -5.472376e-03
+167 -3.486389e-03
+168  3.717346e-03
+169 -2.256927e-03
+170  2.769891e-03
+171  4.552726e-03
+172  1.750883e-03
+173  9.480216e-04
+174  4.876026e-04
+175  1.890328e-03
+176  9.685174e-04
+177 -1.047043e-03
+178  1.066428e-04
+179  1.109629e-03
+180  1.577232e-03
+181  2.973322e-03
+182  2.722662e-03
+183 -7.187321e-05
+184 -8.249713e-04
+185 -4.936793e-04
+186  1.845725e-03
+187  1.713907e-03
+188  2.859012e-03
+189  1.387827e-03
+190  1.128762e-03
+191  5.343907e-03
+192  5.229537e-03
+193  2.614078e-03
+194 -7.949183e-03
+195  1.962235e-03
+196  7.499292e-04
+197  1.485769e-03
+198  3.168469e-03
+199  1.101653e-03
+200  3.105250e-03
+201  2.570177e-03
+202 -8.696687e-04
+203  4.915297e-03
+205  1.769323e-03
+206 -2.476011e-02
+207 -4.996633e-03
+208  2.229161e-03
+209  2.690788e-03
+210  1.259231e-03
+211 -1.600898e-03
+212  6.016492e-03
+213  5.746877e-03
+214  5.344681e-03
+215  6.212946e-03
+216  5.548366e-03
+217 -4.540370e-03
+218 -1.150997e-02
+219  1.191290e-03
+220  2.823240e-04
+221  3.319649e-03
+222  2.167532e-03
+223  1.217290e-05
+224  2.235789e-03
+225  3.306190e-03
+226 -6.230567e-03
+227  2.137981e-04
+228  3.704930e-03
+229  1.094795e-03
+230  1.382632e-03
+231  2.504412e-03
+232 -2.695093e-03
+233 -3.474066e-03
+234 -8.492212e-03
+235  4.353990e-04
+236 -1.908858e-03
+237  1.465318e-03
+238  5.758164e-03
+239 -1.116921e-03
+240 -4.793377e-03
+241  1.727481e-03
+242  4.736419e-03
+243  1.087715e-04
+244 -9.216681e-04
+245  2.653652e-03
+246  5.762120e-04
+247 -3.732553e-04
+248  3.614965e-03
+249  2.199968e-03
+250  2.660902e-03
+251  1.455734e-03
+252 -3.399861e-03
+253  1.250472e-03
+254  1.548951e-03
+255 -2.377194e-03
+256 -3.415016e-03
+257  2.770411e-03
+258  3.204061e-03
+259  2.122658e-03
+260  1.097845e-03
+261 -2.481593e-02
+262  2.015879e-03
+263  6.643258e-03
+264  7.426989e-03
+265 -7.140427e-03
+266  4.046442e-03
+267 -1.231089e-03
+268  8.056709e-03
+269  3.387433e-03
+270 -4.562313e-03
+271  1.950881e-03
+272 -4.181289e-03
+273  5.711166e-03
+274 -9.250303e-03
+275 -5.218220e-03
+276  7.942360e-03
+277  3.294889e-04
+278 -1.524879e-03
+279 -9.033223e-03
+280  4.931616e-03
+281 -8.668051e-03
+282  6.155944e-03
+283 -3.244725e-03
+284  9.892153e-04
+285  4.159944e-03
+286 -2.876618e-04
+287 -1.596715e-02
+288  4.121272e-03
+289 -6.910453e-04
+290 -3.717610e-03
+291  1.872072e-03
+292 -2.352719e-02
+293  7.803610e-04
+294 -1.277073e-02
+296  8.264199e-03
+297  7.702454e-03
+298 -3.776762e-04
+299  8.178006e-06
+300  3.422632e-03
+301  1.664147e-04
+302 -3.855848e-04
+303 -9.373287e-03
+304  4.017040e-03
+305  1.380895e-03
+306 -2.697165e-03
+307  2.453421e-03
+308  1.019181e-05
+309  5.047073e-03
+310 -2.073797e-04
+311  1.454632e-03
+312 -2.027474e-03
+313  2.066949e-03
+314  8.392334e-04
+315  3.335471e-03
+316 -9.238848e-03
+317 -9.820831e-04
+318 -1.422684e-03
+319  3.156581e-03
+320  2.754902e-03
+321 -1.554615e-02
+322 -1.088985e-02
+323  5.630115e-04
+324 -6.642615e-03
+325 -1.189454e-02
+326  2.511159e-03
+327 -2.624549e-03
+328  1.178259e-02
+329  1.054278e-02
+331 -5.213532e-03
+332 -5.615401e-03
+333  2.217801e-03
+334  1.031508e-04
+335 -1.330487e-02
+336 -2.070940e-03
+338  2.911178e-03
+339  2.717558e-03
+340  2.709320e-03
+341  5.125226e-03
+342  4.516005e-03
+343  1.590922e-03
+344 -6.632076e-03
+345  2.314190e-03
+346  2.766458e-03
+347  1.128860e-03
+348  3.983863e-03
+349  1.937115e-04
+350 -2.324297e-04
+351  2.255999e-03
+352  1.405773e-03
+353  2.614508e-03
+354 -3.517100e-03
+355 -1.376020e-02
+356  2.133157e-03
+357 -6.085193e-03
+358 -3.934826e-03
+359  2.784261e-03
+360 -2.800126e-03
+361 -4.270535e-03
+362  1.957110e-03
+363  4.556482e-03
+365 -3.606832e-03
+366  2.735712e-03
+367 -3.652522e-03
+368 -1.478838e-03
+369  2.525246e-03
+370  3.134250e-03
+371 -3.660275e-03
+372  2.327810e-03
+373  6.636197e-03
+374  9.578704e-04
+375  2.598875e-04
+376 -8.984709e-04
+377  7.244363e-04
+378 -1.938550e-03
+379  1.969773e-03
+380  5.081037e-04
+381 -1.763666e-03
+382  1.336536e-03
+383 -3.180021e-04
+384  9.657604e-04
+385  4.358635e-03
+386  3.544670e-03
+387 -3.802535e-03
+388 -7.881765e-04
+389  3.981529e-03
+390  3.031048e-03
+391  1.438060e-03
+392  1.005410e-03
+393  4.536882e-04
+394  1.303552e-03
+395 -5.521367e-04
+396  1.990987e-03
+397  1.827551e-03
+398  2.962303e-03
+399  9.116873e-04
+400  9.059200e-04
+401  1.714988e-03
+404  2.757106e-03
+405  2.617206e-04
+406  2.801786e-03
+407  8.090189e-04
+408  1.571548e-03
+409  2.450133e-03
+410  1.448629e-03
+411  1.637403e-04
+412  1.367397e-03
+413  2.109584e-03
+414  9.651585e-04
+415  1.652785e-03
+416  1.584968e-03
+417  3.251193e-03
+418  2.633310e-03
+419 -2.879505e-03
+420  3.855039e-03
+421 -9.012038e-03
+422  3.427067e-04
+423 -3.199996e-03
+424  3.318868e-03
+425  2.255604e-03
+426  4.347788e-04
+427  2.713969e-03
+428  1.391607e-03
+429 -6.864698e-04
+430 -1.520812e-03
+431  4.429844e-03
+432 -3.786795e-03
+433 -6.879669e-04
+434 -7.856424e-03
+435 -1.468601e-03
+436 -7.724332e-03
+437  5.878323e-03
+438  3.909822e-03
+439  3.604745e-03
+440  4.870173e-03
+441  3.834717e-03
+442 -3.331946e-03
+443  2.535775e-03
+444  7.802825e-04
+445 -9.127149e-04
+446 -1.068910e-03
+447  1.974539e-03
+448  1.366024e-03
+449  5.207993e-03
+450 -4.830018e-03
+451  2.706278e-03
+452 -3.865581e-03
+453  5.526037e-03
+454  4.116146e-03
+455  2.971956e-03
+456  4.563396e-04
+457  2.467916e-03
+458 -8.990081e-04
+459  1.752382e-03
+460  4.636412e-04
+461 -6.266970e-03
+462  8.497085e-04
+463 -2.433477e-03
+464  2.146153e-03
+465  3.622474e-03
+466  1.160587e-03
+467  9.543007e-04
+468  1.418817e-03
+469  2.632704e-03
+470 -2.601363e-04
+471 -4.026237e-03
+472  1.547303e-03
+473  1.976993e-04
+474  1.400386e-03
+475  1.566429e-03
+476  1.220812e-03
+477  2.268291e-03
+478  9.031029e-04
+479 -7.393411e-03
+480 -3.187418e-03
+481  2.506796e-03
+482  7.401276e-03
+483 -7.062223e-03
+484  2.029912e-03
+485 -1.145841e-03
+486 -4.606921e-03
+487  4.644519e-03
+490  7.940954e-04
+491  1.619219e-03
+492 -9.259088e-04
+493 -1.381924e-04
+494  2.027555e-03
+495  1.525552e-03
+496  6.928423e-04
+497  1.032809e-03
+498  2.078227e-03
+499  6.341444e-04
+500  1.643455e-03
+501 -4.320833e-04
+502  4.216199e-03
+503  3.178972e-03
+504  9.834361e-04
+505  1.717482e-03
+506  1.993484e-03
+507 -9.385667e-04
+508  1.225355e-03
+509  1.516899e-03
+510  1.129817e-03
+511  7.898526e-04
+512  4.334766e-04
+513  2.799204e-03
+514  2.075028e-03
+515  2.122154e-03
+516  1.914079e-03
+517 -1.604052e-03
+518 -5.908541e-04
+519 -6.984246e-04
+520 -1.164453e-03
+521  5.740055e-04
+522  1.936715e-03
+523  4.559288e-04
+524 -1.427568e-03
+525  3.288676e-03
+526  2.966245e-03
+527  3.600473e-03
+528  1.586941e-03
+529  3.326087e-03
+530  2.190786e-03
+531  2.632448e-03
+532 -3.897351e-03
+533  3.624383e-03
+534  7.226609e-04
+535 -3.419356e-03
+536 -4.228225e-03
+537  9.122247e-04
+538 -5.120036e-03
+539 -2.935881e-03
+540  1.663557e-03
+541  1.514469e-03
+542  7.125053e-04
+543  3.578989e-03
+544  4.871979e-03
+545  5.152153e-03
+546 -3.621944e-03
+547 -9.707254e-04
+548  6.441574e-03
+549 -8.530156e-03
+551  5.120331e-03
+552 -6.419443e-03
+553 -3.438067e-03
+554 -5.516659e-03
+555 -8.234061e-03
+556 -2.113121e-03
+557 -5.649680e-03
+558 -1.149620e-02
+559 -6.980976e-03
+560  7.075141e-03
+561  9.164857e-03
+562  4.202830e-03
+563  3.928405e-03
+564 -1.913190e-03
+565 -6.282692e-04
+566 -3.558684e-03
+567 -2.717855e-03
+568  4.847909e-03
+569  3.491034e-03
+570  3.526452e-03
+571 -3.670927e-03
+572  1.188133e-03
+573 -3.917455e-03
+574 -2.820558e-03
+575 -4.653733e-04
+576  3.239467e-03
+577  8.474646e-04
+578  2.229847e-03
+579  2.814702e-03
+580  7.823020e-04
+581 -1.731190e-03
+582  8.163116e-04
+583 -4.976539e-04
+584  1.448972e-04
+585  2.167400e-03
+586  8.197624e-04
+587  2.041041e-03
+588  1.293209e-03
+589  4.149691e-03
+590  2.137002e-03
+591  3.708917e-03
+592 -8.551739e-04
+593  2.539288e-03
+594 -3.977022e-03
+595  5.399057e-04
+596  7.517372e-04
+597 -3.910210e-04
+598 -1.090985e-02
+599  2.134765e-03
+600  4.000188e-03
+601 -2.143437e-03
+602 -9.696182e-03
+603  2.863817e-04
+604  9.653027e-03
+605  2.965003e-03
+606 -7.077815e-03
+607 -6.037891e-03
+608  1.582494e-03
+609 -3.883789e-04
+610  3.463011e-03
+611  3.076283e-03
+612  3.172979e-03
+613  3.612777e-04
+614  3.061945e-04
+615 -3.762936e-03
+616 -1.231872e-02
+617 -5.018526e-04
+618  5.104095e-04
+619  1.580780e-03
+620  2.395147e-03
+621  2.540161e-03
+622 -2.909568e-03
+623  4.362616e-03
+624  2.201826e-03
+625  3.005755e-03
+626  3.615284e-03
+627  4.420274e-03
+630  7.948885e-04
+631 -1.307810e-04
+633  2.514993e-03
+635  3.169454e-03
+636  2.705474e-03
+639  9.540665e-04
+640  5.738801e-04
+643  2.759695e-03
+645  1.156933e-03
+648  1.705332e-03
+649  1.441641e-03
+650 -2.338739e-03
+651  7.912724e-03
+652 -4.309011e-03
+653 -1.507811e-02
+654 -1.275456e-02
+655 -1.165334e-02
+656  6.072927e-03
+657  2.220453e-03
+658  4.830229e-04
+659 -4.389397e-05
+660  2.266425e-03
+661  6.272836e-04
+662  2.081950e-03
+663  1.869064e-03
+664 -3.848312e-03
+665  2.693467e-03
+666  1.100971e-03
+667 -4.055725e-03
+668  1.544576e-03
+669 -1.413186e-03
+670 -1.586264e-06
+671 -1.672089e-03
+672 -5.889445e-03
+673 -1.892264e-02
+674  2.809469e-03
+675  3.026929e-03
+676 -3.350718e-03
+677 -2.604411e-03
+680 -3.922868e-03
+681 -4.969781e-04
+682 -2.220017e-03
+683  9.838565e-04
+684  1.410543e-03
+685  1.541925e-04
+686  1.349816e-03
+687  2.195475e-03
+688  1.149395e-04
+689  2.003261e-03
+690  2.009710e-03
+691  3.809203e-04
+692  9.868259e-04
+693  1.661203e-03
+694  1.986870e-04
+695  1.664129e-03
+696  5.930620e-04
+697 -1.742166e-03
+698  2.815706e-03
+699  1.065353e-03
+700  3.418025e-03
+701  3.076560e-03
+702  1.622002e-03
+703  3.152802e-03
+704  4.741789e-04
+705  1.210545e-03
+706 -2.792445e-03
+707  8.295975e-04
+708  1.866100e-03
+709  4.629786e-03
+710  7.087325e-04
+711  2.660331e-03
+712  6.169706e-04
+713  2.664200e-03
+714  1.121967e-03
+729 -5.715015e-03
+730 -6.653090e-03
+731 -7.132450e-03
+732  5.630639e-03
+733 -6.945632e-03
+734  3.111054e-03
+735  4.711226e-03
+736 -1.206173e-02
+737  2.981831e-04
+738 -6.019576e-03
+739  8.386057e-03
+740  2.335212e-03
+741  9.027695e-03
+742 -5.368072e-03
+743 -1.654246e-03
+744  2.791201e-03
+745  5.829702e-03
+746  6.028754e-03
+747 -5.668960e-03
+748 -7.789851e-03
+749  3.884816e-03
+750  4.679111e-03
+751  3.662142e-03
+752 -2.580119e-03
+753  4.277401e-03
+754 -3.112790e-03
+755 -5.950369e-03
+756  2.097440e-03
+757 -7.504693e-03
+758  4.230142e-04
+759 -5.122835e-03
+760  8.254221e-04
+761 -5.896816e-03
+762  5.937433e-03
+763  4.711380e-03
+764  5.731092e-03
+765 -1.085313e-02
+766  2.665169e-04
+767 -1.425621e-03
+768 -7.228851e-04
+769  3.111299e-03
+770 -4.947460e-03
+771  3.465787e-03
+772  2.506951e-03
+773  4.336118e-03
+774  3.200372e-03
+775  7.513885e-03
+776 -1.958799e-03
+777 -1.129348e-03
+778  9.234598e-04
+779  4.525141e-03
+780 -1.900683e-03
+781 -1.555870e-03
+782 -2.838011e-03
+783  3.085042e-03
+784  4.163247e-03
+785  1.567116e-03
+786  6.566939e-04
+787  1.401011e-03
+788  1.079804e-03
+789 -3.959141e-03
+790  1.771445e-03
+791  5.885889e-03
+792  3.780619e-03
+793 -4.709713e-03
+794 -1.053737e-03
+795  5.212100e-03
+796  1.581984e-03
+797  2.280467e-03
+798 -1.427575e-02
+799 -1.643698e-03
+800  9.100673e-04
+801 -1.348176e-03
+802 -1.201046e-04
+803  1.041454e-03
+804  8.679830e-04
+805 -1.062326e-04
+806  6.590250e-04
+807  1.687212e-03
+809  1.003528e-03
+810  2.740832e-03
+811  2.223115e-03
+812 -9.587423e-03
+813 -2.466414e-05
+814 -8.381375e-05
+815 -3.853999e-03
+816  2.195439e-03
+817  3.537438e-03
+818  1.194443e-03
+819  3.210714e-03
+820  1.796774e-03
+821  2.747052e-03
+822  3.345478e-03
+823  3.319506e-03
+824  2.299213e-04
+825 -1.575583e-03
+826 -1.694525e-03
+827  7.384924e-04
+828  2.093785e-03
+829 -1.926885e-03
+830  1.688987e-03
+831  8.793593e-04
+832  1.749222e-03
+833  3.165231e-03
+834  2.586924e-03
+835  6.500263e-04
+836 -1.166597e-02
+837  1.126516e-03
+838  1.376217e-03
+839  2.793534e-03
+840  8.728384e-04
+841 -6.557069e-03
+842 -2.329131e-03
+843  1.492131e-03
+844 -1.108438e-03
+845  5.077136e-03
+846  1.027430e-02
+858  1.465375e-03
+859  2.487459e-03
+860  2.648805e-03
+861  5.215342e-04
+862 -3.868628e-04
+863  2.269306e-03
+864  1.884924e-03
+865  1.223593e-03
+866  1.486610e-03
+867  4.824274e-04
+868  2.022472e-03
+869  2.687560e-03
+871 -7.985362e-03
+872  4.595214e-03
+873 -7.758793e-03
+874  1.050941e-03
+875 -3.213347e-03
+876 -5.714375e-03
+877 -2.885348e-04
+878 -1.414935e-02
+879 -1.091127e-02
+880  6.272947e-03
+881  6.778102e-04
+882  2.314138e-04
+883  1.474423e-03
+884 -1.736630e-03
+885 -3.885285e-03
+886 -5.365213e-03
+887 -8.954055e-04
+888  5.354375e-03
+889  2.989339e-03
+890  4.404337e-03
+891  1.208735e-03
+892  9.491244e-04
+893 -3.460273e-04
+894 -7.103774e-03
+895  2.901308e-03
+896  2.459610e-04
+897 -3.025055e-03
+898 -1.835999e-03
+899  5.619396e-04
+900  4.279822e-03
+901 -4.026920e-04
+902  1.065517e-03
+903  1.574080e-03
+904  2.626671e-03
+905  2.680631e-03
+906 -1.725892e-02
+907  1.873128e-03
+908 -1.277220e-03
+909  7.946139e-04
+910 -2.663654e-04
+911 -1.344198e-03
+912 -1.498885e-03
+913  2.344217e-03
+914  1.758455e-03
+915  1.075926e-03
+916 -4.341715e-03
+917 -4.540225e-03
+918 -2.399387e-02
+919 -1.431813e-02
+920  1.168166e-02
+921  1.899121e-03
+922  3.262207e-03
+923  2.044471e-03
+924 -1.872100e-03
+925 -5.092759e-03
+928 -1.262603e-02
+929 -1.862356e-02
+930  7.602717e-03
+931  1.436798e-02
+932 -1.794381e-02
+933 -4.855546e-03
+934  1.503055e-03
+935 -3.598295e-03
+936 -6.430355e-03
+937  4.380481e-03
+938  2.711256e-04
+939  1.177359e-03
+940 -8.246400e-04
+941  9.747012e-04
+942 -4.146496e-04
+943  2.146324e-03
+944  2.469418e-03
+945  3.349978e-03
+946  7.868766e-04
+947  3.013562e-03
+948  3.795014e-04
+949 -1.061671e-03
+950  3.234267e-03
+951 -6.658147e-03
+952  5.689171e-03
+953 -1.242371e-02
+954 -5.583667e-03
+955 -6.837727e-03
+956  2.192626e-03
+957 -1.624277e-03
+958  7.647385e-03
+959 -3.828277e-03
+960  3.654485e-03
+961 -8.576834e-03
+962 -1.357711e-02
+963 -3.481321e-04
+964 -1.160669e-02
+965 -6.643433e-03
+966 -6.929607e-03
+967 -1.371469e-02
+968  1.583508e-03
+969  5.428300e-03
+970  7.769731e-04
+971  6.567142e-03
+972  2.657674e-03
+974  4.698780e-03
+975  3.934364e-04
+976  4.115221e-03
+977  1.387238e-03
+978  1.366063e-03
+979  8.029415e-04
+980 -1.205888e-03
+981  2.962914e-03
+982 -2.556891e-03
+983  5.406924e-03
+984  5.736689e-03
+985  8.905550e-03
+986  5.239677e-03
+987 -1.583344e-03
+988  2.518277e-04
+989  1.504924e-03
+990  2.281332e-03
+992  2.553356e-03
+994  2.444343e-03
+995 -1.572660e-04
+996  1.953935e-03
+997 -2.031482e-03
+
+$name
+                                            (Intercept)
+Air Force Academy/Casey Bell              -2.219872e-02
+Air Force Academy/Jamie Lewis              1.264664e-02
+Air Force Academy/Jessica Wallander        1.974649e-02
+Air Force Academy/Joey Ching              -2.974154e-02
+Air Force Academy/Julia Sebben            -6.092398e-03
+Air Force Academy/Kara Witgen             -1.599699e-02
+Air Force Academy/Kim McRobbie            -6.957810e-03
+Alabama/Carley Sims                        2.566810e-02
+Alabama/Dominique Pegg                     1.569001e-02
+Alabama/Hunter Dennis                      1.433608e-02
+Alabama/Kaitlyn Clark                      2.751633e-02
+Alabama/Katie Bailey                       2.282355e-02
+Alabama/Kayla Williams                     2.687028e-02
+Alabama/Keely McNeer                       2.250488e-02
+Alabama/Lauren Beers                       2.572821e-02
+Alabama/Mackenzie Brannan                  2.336293e-02
+Alabama/Mary Lillian Sanders               9.494722e-03
+Alaska/Emily Ramberg                      -9.396969e-03
+Alaska/Julia York                         -1.399597e-02
+Alaska/Konkright Kelsy                    -1.946373e-03
+Alaska/Madeleine Arbuckle                  7.171997e-04
+Alaska/MarieSophie Boggasch                2.801665e-03
+Alaska/Morgan Cook                         3.670537e-03
+Alaska/M'rcy Matsunami                     1.130786e-02
+Alaska/Sariaye Fishburn                   -8.779248e-04
+Alaska/Simone Penker                      -2.714895e-03
+Alaska/Stefany Bryan                      -9.231473e-03
+Arizona/Allison Flores                     1.744997e-02
+Arizona/Amber Wobma                       -4.727458e-03
+Arizona/Gabrielle Laub                     1.724512e-02
+Arizona/Jessica Sisler                     1.907476e-02
+Arizona/Madison Cindric                    1.292560e-02
+Arizona/Selynna FelixTerrazas              1.317684e-02
+Arizona/Shelby Edwards                     2.261066e-02
+Arizona State/Allie Salas                  1.417540e-02
+Arizona State/Beka Conrad                 -5.333038e-03
+Arizona State/Carissa Kraus               -8.954524e-03
+Arizona State/Kristine Levin              -1.649165e-02
+Arizona State/Morgan Steigerwalt          -8.786831e-04
+Arizona State/Savannah Borman             -7.549904e-03
+Arizona State/Stephanie Miceli            -4.651207e-03
+Arizona State/Tasha Sundby                 2.053145e-02
+Arizona State/Taylor Allex                 2.393071e-02
+Arkansas/Amanda Wellick                    3.019093e-02
+Arkansas/Cailee Ellsworth                  1.417756e-02
+Arkansas/Heather Elswick                   2.455115e-02
+Arkansas/Kathleen York                     5.053505e-03
+Arkansas/Leah MacMoyle                     2.177741e-02
+Arkansas/Paige Zaziski                     2.515076e-02
+Arkansas/Samantha Nelson                   1.857772e-02
+Arkansas/Stephani Canizaro                 1.342498e-02
+Auburn/Bri Guy                             2.227663e-02
+Auburn/Brittany Webster                    1.473347e-02
+Auburn/Caitlin Atkinson                    2.843009e-02
+Auburn/Kait Kluz                           1.194893e-02
+Auburn/Kelsey Kopec                        1.619719e-02
+Auburn/Lexus Demers                        2.474942e-02
+Auburn/MJ Rott                             2.776298e-02
+Auburn/Sarah Garcia                       -5.731620e-02
+Ball State/Denasiha Christian              1.784859e-02
+Ball State/Erin Patchey                    1.465759e-02
+Ball State/Jala Washington                 5.148193e-03
+Ball State/Jordyn Penny                    1.337784e-02
+Ball State/Juliana Booth                  -7.883316e-03
+Ball State/Kayla Beckler                   1.107808e-02
+Ball State/Sarah Ebeyer                    1.342229e-02
+Ball State/Shelby Arms                    -6.080371e-03
+Boise State/Ann Stockwell                  2.356400e-02
+Boise State/Ciera Perkins                  2.848115e-02
+Boise State/Kelsey Morris                  2.416376e-02
+Boise State/Krystine Jacobsen              4.646652e-03
+Boise State/Lianne Josbacher               1.384471e-02
+Boise State/Mackenzie Bennion              1.139437e-02
+Boise State/Maddie Krentz                  2.690356e-02
+Boise State/Mary Francis Bir               1.528357e-02
+Boise State/Paige Urquhart                 1.590171e-02
+Boise State/Sandra Collantes               1.704876e-02
+Bowling Green/Alex Porter                 -3.451125e-02
+Bowling Green/Alyssa Nocella               1.140211e-02
+Bowling Green/Amanda Lievendag             1.736194e-02
+Bowling Green/Jamilah Ali                  9.135485e-03
+Bowling Green/Katrina Carpenter           -5.168786e-03
+Bowling Green/Lauren Feeley                1.525065e-02
+Bowling Green/Victoria Heath               9.158556e-03
+Bridgeport/Caitlin PERRY                   5.929134e-03
+Bridgeport/Cheyenne KELLER                -7.711946e-03
+Bridgeport/Hope TRALLI                     6.890599e-03
+Bridgeport/Kaila SCHAEFFER                -1.281109e-03
+Bridgeport/Kelsey CAMPBELL                 1.090951e-03
+Bridgeport/Kim STEWART                     1.574888e-02
+Bridgeport/Maggie CORTESE                 -1.112212e-02
+Bridgeport/Rachel DICARLO                 -8.228664e-03
+Bridgeport/Sasha TSIKHANOVICH              1.265421e-02
+Brockport State/Ananda Carney             -8.676734e-03
+Brockport State/Bridgette Schaal          -1.961722e-02
+Brockport State/Brittany Vasile           -1.511415e-02
+Brockport State/Casey Attenberger         -2.240884e-02
+Brockport State/Haylee Garrick            -3.964691e-03
+Brockport State/Jennifer Sklenar          -3.651273e-02
+Brockport State/Jill Daddario             -7.279825e-02
+Brockport State/Lexi King                 -9.100033e-03
+Brockport State/Marla Thomas              -3.171449e-02
+Brockport State/Olivia Sylvestro          -1.058289e-02
+Brockport State/Stephanie Schuler         -6.607468e-03
+Brown/Alexandra Chretien                  -4.160061e-02
+Brown/Anya Olson                          -7.408853e-03
+Brown/Brooke Williams                     -1.342673e-02
+Brown/Caroline Morant                      1.398203e-02
+Brown/Corey Holman                         7.109818e-03
+Brown/Danielle Hoffman                    -1.499517e-02
+Brown/Diana Walters                       -1.564260e-02
+Brown/Jorden Mitchell                     -9.438765e-03
+BYU/Eliane Kulczyk                        -2.885109e-05
+BYU/Jill Van Mierlo                        1.804335e-02
+BYU/Jordan Schult                          1.587396e-02
+BYU/KayCee Gassaway                        1.119192e-02
+BYU/Makenzie Johnson                       2.398635e-02
+BYU/Mikaela Jones                          1.362821e-02
+BYU/Rachel Tucker                         -5.929971e-03
+BYU/Sin To                                 1.281062e-02
+California/Amber Takara                    9.397222e-03
+California/Arianna Robinson                1.973948e-02
+California/Charlie Owens                   2.133917e-02
+California/Crystal Paz                     2.361552e-03
+California/Desiree Palomares               1.868877e-02
+California/Emily Richardson                1.781278e-02
+California/Kristina Heymann                9.361340e-03
+California/Serena Leong                    2.300549e-02
+California/ToniAnn Williams                3.059668e-02
+Centenary College/Allison Scates          -1.217544e-02
+Centenary College/Ashley White             2.002755e-04
+Centenary College/Kellie Slater           -7.546071e-03
+Centenary College/Natalie Humbert         -1.702842e-02
+Centenary College/Noel Stubbs              2.239127e-03
+Centenary College/Sylvia Keiter           -4.783215e-02
+Centenary College/Taylor LeMoal           -4.342481e-02
+Central Michigan/Becca Druien              1.065014e-02
+Central Michigan/Halle Moraw               2.065123e-02
+Central Michigan/Karlee Teet               1.171773e-02
+Central Michigan/Kiki Petzold              1.678650e-02
+Central Michigan/Kirstin Stambaugh         7.033683e-03
+Central Michigan/Macey Hilliker            6.692455e-03
+Central Michigan/Rachel Carr               1.511436e-02
+Central Michigan/Tori Garcia               1.272083e-02
+Cornell/Alexandria Bourgeois               4.893939e-03
+Cornell/Alicia Bair                        1.009304e-04
+Cornell/Allison Franz                     -1.132129e-02
+Cornell/Joy Gage                          -1.660873e-02
+Cornell/Krystin Chiellini                 -2.184678e-02
+Cornell/Lauren Wong                       -1.679426e-02
+Cornell/Samantha VanderPutten             -2.282495e-02
+Cornell/Sara Schupp                       -3.111088e-03
+Cortland State/Amanda Scanlon             -2.438844e-02
+Cortland State/Ari Turso                  -5.367873e-02
+Cortland State/Bailey Gildemeyer          -1.015612e-01
+Cortland State/Elise Konikoff             -1.038708e-02
+Cortland State/Kylie Feldman              -4.756346e-02
+Cortland State/Maddy Scozzie              -1.846253e-02
+Cortland State/McKenna Passalacqua        -2.525299e-02
+Cortland State/Meghan Cobb                -2.169081e-02
+Cortland State/Meghan Goyden              -1.034104e-02
+Cortland State/Michaela Stumpf            -3.098619e-02
+Cortland State/Nicole Zangoglia           -3.837871e-02
+Denver/Ellese SakaiHart                    1.008406e-02
+Denver/Emily Barrett                       2.092010e-02
+Denver/Julia Ross                          2.145380e-02
+Denver/Katie Menhinick                     1.371089e-02
+Denver/Maggie Laughlin                     2.047770e-02
+Denver/Nikole Addison                      1.821512e-02
+Denver/Nina McGee                          2.616571e-02
+Denver/Rachel Fielitz                      2.709742e-02
+Eastern Michigan/Anna Willette             2.067696e-02
+Eastern Michigan/Carrina Lo Bello          1.622807e-02
+Eastern Michigan/Catie Conrad              5.221844e-03
+Eastern Michigan/Julia Schwartz            1.370959e-02
+Eastern Michigan/Kendall Valentin          1.822569e-02
+Eastern Michigan/Kimberly Ebeyer           4.153048e-03
+Eastern Michigan/Paulina Miller            1.233047e-02
+Eastern Michigan/Sydney McEachern          1.048453e-02
+Florida/Alex McMurtry                      3.230452e-02
+Florida/Bridget Sloan                      2.969527e-02
+Florida/Bridgette Caquatto                 2.305427e-02
+Florida/Ericha Fassbender                  1.811555e-02
+Florida/Kennedy Baker                      2.477722e-02
+Florida/Kiersten Wang                      2.400741e-02
+Florida/Kytra Hunter                       2.560309e-02
+Florida/Rachel Spicer                      2.200111e-02
+George Washington/Alex DeMoura             1.517532e-02
+George Washington/Cami DrouinAllaire       2.867734e-02
+George Washington/Chelsea Raineri          1.488285e-02
+George Washington/Courtney Willoughby      9.267119e-03
+George Washington/Elena Corcoran           2.288525e-02
+George Washington/Jillian Winstanley       2.381884e-02
+George Washington/Madeline Seibold        -8.879746e-03
+George Washington/Sara Mermelstein         1.036321e-02
+Georgia/Ashlyn Broussard                   2.463646e-02
+Georgia/Beth Roberts                       1.657670e-02
+Georgia/Brandie Jay                        2.819865e-02
+Georgia/Brittany Rogers                    2.328149e-02
+Georgia/Chelsea Davis                      2.485728e-02
+Georgia/GiGi Marino                        1.255921e-02
+Georgia/Natalie Vaculik                    2.034346e-02
+Georgia/Sarah Persinger                    1.703477e-02
+Gustavus Adolphus/Alexandra Kopp          -1.320813e-02
+Gustavus Adolphus/Alyssa Ciatti           -1.000202e-01
+Gustavus Adolphus/Emily Anderson          -4.463747e-02
+Gustavus Adolphus/Jaimie Niedermayer      -5.903341e-02
+Gustavus Adolphus/Kate Schneider          -5.113041e-02
+Gustavus Adolphus/Lauren Kershner         -4.748103e-02
+Gustavus Adolphus/Maggie Willis           -6.342164e-02
+Gustavus Adolphus/Rachel Dargis           -7.514249e-02
+Gustavus Adolphus/Rachel Thiner           -8.156849e-02
+Hamline/Alexis Nault                      -3.884550e-02
+Hamline/Alyssa Huch                       -3.781041e-02
+Hamline/Emily Giefer                      -4.741909e-02
+Hamline/Erika Briscoe                     -3.246066e-02
+Hamline/Jacklyn Clements                  -3.064208e-02
+Hamline/Mickaela O'Malley                 -1.003581e-01
+Hamline/Sarah Dyer                        -4.093869e-02
+Hamline/Sela Fadness                      -3.117756e-02
+Hamline/Yabrei Butts                      -5.281736e-02
+Illinois-Champaign/Erin Buchanan           2.036799e-02
+Illinois-Champaign/Giana O'Connor          2.704759e-02
+Illinois-Champaign/Heather Foley           1.427161e-02
+Illinois-Champaign/Jordyn Givens          -1.028483e-02
+Illinois-Champaign/Kelsi Eberly           -5.846187e-03
+Illinois-Champaign/Mary Jane Horth         2.220336e-02
+Illinois-Champaign/Sarah Lyons             1.107974e-02
+Illinois-Champaign/Suren Kanchanavaleerat -2.325497e-02
+Illinois State/Danci Cha                  -8.420576e-02
+Illinois State/Demi Pas                   -1.654521e-02
+Illinois State/Kristen Lieberman          -1.651369e-02
+Illinois State/Kristyn Bossle              1.395949e-02
+Illinois State/Kylie Meyer                -3.189156e-03
+Illinois State/Laura Jonas                -2.619375e-04
+Illinois State/Marie Priest                1.159204e-03
+Illinois State/Sami King                   1.625823e-03
+Illinois State/Sarah Fisher               -1.190892e-03
+Iowa/Alie Glover                           1.926169e-02
+Iowa/Angel Metcalf                         2.035948e-02
+Iowa/Ashleigh Edlin                        9.204944e-03
+Iowa/Ashley Fischer                       -6.322848e-03
+Iowa/Caroline McCrady                      1.120985e-02
+Iowa/Mollie Drenth                        -9.436270e-03
+Iowa/Nikki Youd                           -1.280568e-02
+Iowa State/Alex Marasco                    1.137376e-02
+Iowa State/Allie Hansen                   -5.363240e-03
+Iowa State/Briana Ledesma                  8.706176e-03
+Iowa State/Caitlin Brown                   1.932152e-02
+Iowa State/Courtney Middelkoop             1.757915e-02
+Iowa State/Haylee Young                    2.214143e-02
+Iowa State/Kelsey Paz                      1.328875e-02
+Iowa State/Micole O'Dell                  -9.474954e-04
+Iowa/Sydney Hoerr                          9.377565e-03
+Ithaca College/Danielle Maffuid           -5.735860e-02
+Ithaca College/Ingrid Calfee              -4.747087e-02
+Ithaca College/Kaylee Pacunas             -2.901020e-02
+Ithaca College/Megan Harrington           -3.546349e-02
+Ithaca College/Melissa Hollrigl           -4.227520e-02
+Ithaca College/Rachel Lee                 -2.315953e-02
+Ithaca College/Valerie Cohen              -1.802889e-02
+Kent State/Amiah Mims                     -1.649994e-02
+Kent State/Brooke Timko                    1.835448e-02
+Kent State/Chelsea Drooger                 2.059042e-02
+Kent State/Jordan Hardison                 1.064808e-02
+Kent State/Michaela Romito                 7.682631e-03
+Kent State/Nicolle Eastman                 6.978808e-03
+Kent State/Skyelee Lamano                  6.006186e-03
+Kent State/Whitnee Johnson                -1.173298e-02
+Kentucky/Alexis Gross                      1.157313e-02
+Kentucky/Brittany Furuyama                 1.219861e-02
+Kentucky/Kayla Hartley                     5.368265e-03
+Kentucky/Khadijah Hudson                  -7.315433e-03
+Kentucky/Marissa Beucler                   1.189817e-02
+Kentucky/Shannon Mitchell                  1.920881e-02
+Kentucky/Shelby Hilton                     7.917865e-03
+Kentucky/Sydney Waltz                      2.124843e-02
+Kentucky/Tiara Phipps                      1.692021e-02
+Lindenwood University/Ajiea Hargrave      -3.530181e-03
+Lindenwood University/Alicia Floyd        -7.342451e-03
+Lindenwood University/Aubree Horn          7.996884e-03
+Lindenwood University/Courtney Heise       1.648463e-03
+Lindenwood University/Dani Fumagalli      -1.094034e-02
+Lindenwood University/Kayla McMullan      -6.407408e-03
+Lindenwood University/Kierstin Sokolowski  2.102942e-02
+Lindenwood University/Rachel Zabawa        1.614962e-02
+Lindenwood University/Valeri Ingui        -3.208246e-03
+L.S.U./Ashleigh Gnat                       2.610731e-02
+L.S.U./Britney Ranzy                       1.843056e-02
+L.S.U./Erin Macadaeg                       1.609861e-02
+L.S.U./Jessica Savona                      2.203820e-02
+L.S.U./Jessie Jordan                       2.620981e-02
+L.S.U./Lloimincia Hall                     2.415537e-02
+L.S.U./Myia Hambrick                       2.701464e-02
+L.S.U./Rheagan Courville                   3.063902e-02
+L.S.U./Scarlett Williams                   1.977293e-02
+L.S.U./Sydney Ewing                        2.560807e-02
+Maryland/Abigail Epperson                  1.573217e-02
+Maryland/Dominiquea Trotter                1.569742e-02
+Maryland/Karen Tang                        7.975933e-03
+Maryland/Kathy Tang                        2.119095e-02
+Maryland/Katy Dodds                        2.156549e-02
+Maryland/Leah Slobodin                     1.326740e-02
+Maryland/Shannon Skochko                   1.936083e-02
+Michigan/Austin Sheppard                   2.314141e-02
+Michigan/Brianna Brown                     2.041619e-02
+Michigan/Briley Casanova                   1.324478e-02
+Michigan/Brooke Parker                     2.019118e-02
+Michigan/Nicole Artz                       2.392336e-02
+Michigan/Sachi Sugiyama                    2.917743e-02
+Michigan State/Alina Cartwright            2.570969e-02
+Michigan State/Anna Gamelo                 1.778343e-02
+Michigan State/Ashley Noll                 4.882323e-03
+Michigan State/Elena Lagoski               7.541912e-03
+Michigan State/Holly Ryan                  1.149531e-03
+Michigan State/Katie Richter              -5.601147e-03
+Michigan State/Lisa Burt                   1.551225e-02
+Michigan State/Mackenzie Smith             7.791174e-03
+Michigan State/Nicola Deans                2.127079e-02
+Michigan State/Victoria Huehn             -4.559159e-04
+Michigan/Talia Chiarelli                   2.348899e-02
+Minnesota/Bailey Abernathy                 2.062926e-03
+Minnesota/Bailey Gardner                   1.899482e-02
+Minnesota/Bailie Holst                    -1.928099e-04
+Minnesota/Ciara Gardner                    1.239681e-02
+Minnesota/Ciara Tomson                     1.961345e-02
+Minnesota/Jenny Covers                     2.477064e-02
+Minnesota/Lindsay Mable                    2.878008e-02
+Minnesota/Rachel Haines                    1.979859e-02
+Missouri/Alyson Heimsath                   9.396175e-03
+Missouri/Angie Kern                        1.485789e-02
+Missouri/Becca Schugel                     1.301310e-02
+Missouri/Katelyn Trevino                   8.729400e-03
+Missouri/Kennedi Harris                    1.372180e-02
+Missouri/Laura Kappler                     2.106616e-02
+Missouri/Shauna Miller                     2.626984e-02
+Nebraska/Ashley Lambert                    2.861907e-02
+Nebraska/Desire' Stephens                  2.418984e-02
+Nebraska/Grace Williams                    2.219538e-02
+Nebraska/Hollie Blanske                    2.637945e-02
+Nebraska/Jennie Laeng                      2.349109e-02
+Nebraska/Jessie DeZiel                     2.796734e-02
+Nebraska/Kamerin Moore                     2.229700e-02
+New Hampshire/ADRIENNE HILL                1.294912e-02
+New Hampshire/CASEY LAUTER                 1.229818e-02
+New Hampshire/ELIZABETH MAHONEY            1.900882e-02
+New Hampshire/ERIKA RUDIGER                2.662229e-03
+New Hampshire/JEN KING                    -1.048973e-02
+New Hampshire/KELSEY AUCOIN                1.437372e-02
+New Hampshire/LAUREN BRODIE               -6.100006e-03
+New Hampshire/LIA BREEDEN                 -8.634011e-04
+New Hampshire/MARISSA TOCI                 5.313062e-03
+New Hampshire/MEGHAN PFLIEGER              2.028690e-02
+North Carolina/Christina Pheil            -2.297317e-02
+North Carolina/Haley Watts                 1.612200e-02
+North Carolina/Josselyn Mackey            -1.684528e-02
+North Carolina/Kaitlynn Hedelund           6.184518e-03
+North Carolina/Kristin Aloi                9.704731e-03
+North Carolina/Lauren Weisel              -4.030085e-04
+North Carolina/Lexi Cappalli               8.712673e-03
+North Carolina/Morgan Lane                 1.383378e-02
+North Carolina/Sarah Peterson              1.780444e-02
+North Carolina State/Allie Wismer          1.333127e-02
+North Carolina State/Amanda Fillard        1.431890e-02
+North Carolina State/Brittni Watkins       2.614479e-02
+North Carolina State/Chelsea Knight        2.225636e-02
+North Carolina State/Lane Jarred           9.918015e-03
+North Carolina State/Mackenzie Itcush      1.247683e-02
+North Carolina State/Michaela Woodford     1.343964e-02
+Northern Illinois/Amanda Stepp             2.005942e-02
+Northern Illinois/Andie Van Voorhis        1.703453e-02
+Northern Illinois/Ashley Potts             1.220324e-02
+Northern Illinois/Brittany Wenzel         -1.470052e-02
+Northern Illinois/Courtney Dowdell         2.219813e-03
+Northern Illinois/Jaelyn Olsen            -2.166608e-02
+Northern Illinois/Kelly Nortz              8.244016e-03
+Northern Illinois/Megan Gilliam           -8.046561e-04
+Northern Illinois/Megan Greenfield         1.804315e-02
+Ohio State/Alexis Mattern                  7.438591e-03
+Ohio State/Erin Malone                     1.035525e-02
+Ohio State/Jaine VanPutten                 1.023578e-02
+Ohio State/Michelle Burns                  1.809033e-02
+Ohio State/Sarah Grady                     1.547140e-02
+Ohio State/Stefanie Merkle                 1.609976e-02
+Ohio State/Taylor Harrison                 2.102243e-02
+Ohio State/Tenille Funches                 1.937696e-02
+Oklahoma/Ali Jackson                       2.659420e-02
+Oklahoma/Brenna Dowell                     2.619332e-02
+Oklahoma/Charity Jones                     1.253993e-02
+Oklahoma/Chayse Capps                      2.945380e-02
+Oklahoma/Haley Scaman                      3.181173e-02
+Oklahoma/Hunter Price                      1.231868e-02
+Oklahoma/Kara Lovan                        2.197068e-02
+Oklahoma/Keeley Kmieciak                   2.468493e-02
+Oklahoma/Maile'ana Kanewa                  2.347917e-02
+Oregon State/Cerise Witherby               1.292072e-02
+Oregon State/Chelsea Tang                 -1.016664e-02
+Oregon State/Dani Dessaints                1.695601e-02
+Oregon State/Erika Aufiero                 2.423384e-02
+Oregon State/Kaytianna McMillan            7.190091e-03
+Oregon State/Madeline Gardiner             2.444662e-02
+Oregon State/Megan Jimenez                 2.121564e-02
+Oregon State/Taylor Keeker                 2.625820e-02
+Oregon State/Taylor Ricci                  1.684130e-02
+Penn State/Briannah Tsang                  2.496158e-02
+Penn State/Chanen Raygoza                  6.811394e-03
+Penn State/Emma Sibson                     2.408724e-02
+Penn State/Krystal Welsh                   1.715717e-02
+Penn State/Lauren Li                       2.149561e-02
+Penn State/Oni Timothy                     1.313797e-02
+Penn State/Sidney SanabriaRobles           2.387231e-02
+Pennsylvania/Ally Podsednik               -1.866073e-02
+Pennsylvania/Amber Woo                    -2.326290e-03
+Pennsylvania/Carissa Lim                  -1.315533e-02
+Pennsylvania/Emily Paterson               -3.507202e-03
+Pennsylvania/Jill Fordiani                -2.075684e-02
+Pennsylvania/Megan Finck                  -4.713178e-03
+Pennsylvania/Morgan Venuti                 6.112919e-03
+Pennsylvania/Wynne Levy                   -1.350440e-02
+Pittsburgh/Erika Reichert                  4.364180e-03
+Pittsburgh/Lindsay Offutt                 -4.070655e-02
+Pittsburgh/Lisa Soto                       9.364696e-03
+Pittsburgh/Maebelle Pacheco                1.160790e-02
+Pittsburgh/Maegan Higdon                  -1.202716e-02
+Pittsburgh/Miya Dotson                     1.175071e-02
+Pittsburgh/Tiara Chadran                  -1.742013e-02
+Pittsburgh/Tracey Pearson                  1.707007e-02
+Rhode Island College/Corrine Paul         -5.546861e-02
+Rhode Island College/Courtney Osborn      -8.121261e-02
+Rhode Island College/Emily Murphy         -4.906614e-02
+Rhode Island College/Emma Hartan          -3.800078e-02
+Rhode Island College/Erin Craig           -6.039066e-02
+Rhode Island College/Erin Shea            -3.566289e-02
+Rhode Island College/Sammie LeMire        -4.161678e-02
+Rhode Island College/Victoria Costello    -2.497517e-02
+Rutgers/April Baker                        1.591227e-02
+Rutgers/Elizabeth Groden                   1.431655e-02
+Rutgers/Emma Hoffman                      -4.542874e-02
+Rutgers/Jenna Williams                     5.965334e-03
+Rutgers/Luisa Leal                         2.128580e-02
+Rutgers/Nicolette Wilson                   4.006108e-03
+Rutgers/Sahara Gipson                      1.132880e-02
+Rutgers/Sara Skammer                       1.442783e-02
+Sacramento State/Alyssa Anderson          -6.282476e-03
+Sacramento State/Annie Juarez              4.069750e-03
+Sacramento State/Caitlin Soliwoda          7.878352e-03
+Sacramento State/Courtney Soliwoda         3.858070e-03
+Sacramento State/Dallas Smith              1.898577e-03
+Sacramento State/Emily Bolton             -7.850741e-04
+Sacramento State/Jennifer Brenner         -5.597595e-03
+Sacramento State/Julia Konner              1.346913e-02
+Sacramento State/Kalliah McCartney         1.111916e-02
+Sacramento State/Lauren Rice               1.572975e-02
+Sacramento State/Megan Kyle                1.015131e-02
+Sacramento State/Tina Necas               -4.347469e-03
+San Jose State/Alyssa Montalban            6.955877e-03
+San Jose State/Amy Bellingham             -7.979967e-03
+San Jose State/Cami Guyer                  1.732489e-02
+San Jose State/Erica Matos                 1.238283e-02
+San Jose State/Hannah Gilbert              1.512914e-02
+San Jose State/Kaitlin Won                 1.431141e-02
+San Jose State/Maddie Herr                 9.319153e-03
+San Jose State/Rachel Heinl                1.359386e-02
+Seattle Pacific/Arianna HARGER             5.778215e-03
+Seattle Pacific/Breanna BELTRAN           -8.757863e-03
+Seattle Pacific/Brittany ATCHISON         -7.546731e-03
+Seattle Pacific/Cara LORD                 -8.773304e-03
+Seattle Pacific/Kristi HAYASHIDA          -2.469857e-02
+Seattle Pacific/Maria HUNDLEY              9.722620e-03
+Seattle Pacific/Paige BLANEY               8.388817e-03
+Seattle Pacific/Sydney CLARK              -5.694050e-03
+Seattle Pacific/Teryn LOLAND              -4.716149e-02
+Seattle Pacific/Tracie VILLANUEVA         -1.077777e-02
+S.E. Missouri/Alexandria Stokes           -1.415088e-03
+S.E. Missouri/Alexis Brawner               1.432822e-02
+S.E. Missouri/Alyssa Tucker                5.721916e-03
+S.E. Missouri/Ashley Thomas                1.559790e-02
+S.E. Missouri/Bailey Walker                7.230317e-03
+S.E. Missouri/Chelsi Hamilton             -1.710622e-02
+S.E. Missouri/Erin Brady                   3.814766e-03
+S.E. Missouri/Jordan Clark                -8.183951e-03
+S.E. Missouri/McKenna Stanley             -1.307428e-02
+Southern Conn./Alexandra Avendano         -6.140282e-03
+Southern Conn./Jasmine Zambrana           -1.862002e-02
+Southern Conn./Jenny Kaufman               8.394946e-04
+Southern Conn./Meghan Cole                -3.536568e-03
+Southern Conn./Nicole Pruchnik            -6.093169e-04
+Southern Conn./Rachel de la Torre         -7.703594e-03
+Southern Conn./Samantha Menichini         -2.573811e-02
+Southern Conn./Taylor Rohrbaugh           -3.644035e-03
+Southern Utah/Brittney JENSEN              1.628182e-02
+Southern Utah/Danielle RAMIREZ             2.250486e-02
+Southern Utah/Jamie ARMIJO                 1.574080e-02
+Southern Utah/Madyson BLAKE                1.783383e-02
+Southern Utah/Rochelle BERNIER             8.770822e-03
+Southern Utah/Stacie WEBB                  2.168612e-02
+Southern Utah/Tyly BOZZUTO                 1.456315e-02
+Southern Utah/Virginia BROWNSELL           9.953203e-03
+Springfield College/Abby Clark            -2.080133e-02
+Springfield College/Gabby Christ          -3.797659e-02
+Springfield College/Jenna Croteau         -5.015634e-02
+Springfield College/Kristin Feliu         -1.921020e-02
+Springfield College/Lauren Pocius         -1.792135e-02
+Springfield College/Madison Bowen         -2.461628e-02
+Springfield College/Marissa DeAngelo      -4.744848e-03
+Springfield College/Nicole Silva          -3.376387e-02
+Springfield College/Olivia Morrell        -5.198870e-02
+Stanford/Danielle McNair                   1.929645e-02
+Stanford/Elizabeth Price                   3.240194e-02
+Stanford/Kristina Vaculik                  1.045119e-02
+Stanford/Nicolette McNair                  2.475683e-02
+Stanford/Pauline Hanset                    1.973694e-02
+Stanford/Rachel Daum                       5.048353e-03
+Stanford/Taylor Rice                       1.800182e-02
+Temple/Alexis Arena                       -1.053739e-02
+Temple/Briana Odom                         2.226270e-03
+Temple/Brittanie DeMeno                   -9.883770e-03
+Temple/Danielle Vahala                    -7.073536e-03
+Temple/Gina Tucker                        -2.049121e-02
+Temple/Jasmine Johnson                    -4.323360e-03
+Temple/Lauren Capone                      -1.169883e-02
+Temple/Michaela Lapent                    -2.487141e-02
+Temple/Mikaela Postlethwait               -7.574884e-04
+Temple/Stephanie Verry                    -5.634615e-03
+Temple/Victoria Reggiani                  -4.487940e-03
+Texas Woman's/Brandi Lazarus              -1.191386e-03
+Texas Woman's/Katie Simpson               -1.334071e-02
+Texas Woman's/Kayla Jones                  5.708087e-03
+Texas Woman's/Madison Nettles              1.805395e-02
+Texas Woman's/Mallory Moredock             1.848074e-03
+Texas Woman's/Schyler Jones                3.689529e-03
+Texas Woman's/Spencer Jones               -1.992194e-02
+Texas Woman's/Stephanie Repp              -4.097785e-04
+Towson University/Janis Konkle            -3.932908e-04
+Towson University/Katie Sassa              2.010637e-02
+Towson University/Lauren Cahalan          -4.425017e-03
+Towson University/Lydia Thompson           9.323498e-03
+Towson University/Nicolette Vignola        5.252747e-03
+Towson University/Noelle Harada            2.702024e-03
+Towson University/Samantha Lutz           -3.284194e-03
+Towson University/Tyra McKellar           -2.087961e-02
+UC Davis/Alexis Brown                      5.222387e-03
+UC Davis/Dani Judal                        1.616698e-02
+UC Davis/Kala DeFrancesco                  7.101313e-03
+UC Davis/Katy Nogaki                       2.407028e-02
+UC Davis/Miranda Holder                    1.099070e-02
+UC Davis/Stephanie Stamates                7.185314e-03
+UC Davis/Taylor Baron                      8.353499e-04
+UC Davis/Tiana Montell                     1.438841e-02
+UC Davis/Yonni Michovska                   6.180164e-03
+UCLA/Angi Cipra                            2.074303e-02
+UCLA/JaNay Honest                          2.093876e-02
+UCLA/Jennifer Pinches                      1.675758e-02
+UCLA/Jordan Williams                       2.725450e-02
+UCLA/LaNieshaJopre' Irvin                  2.321301e-02
+UCLA/PengPeng Lee                          2.115661e-02
+UCLA/Sadiqua Bynum                         2.420134e-02
+UCLA/Samantha Peszek                       2.877171e-02
+UCLA/Sonya Meraz                           1.789074e-02
+UIC/Chelsea Bailey                        -4.065382e-03
+UIC/Citlali Cuevas                        -6.704355e-03
+UIC/Emily DeCesare                        -8.688943e-03
+UIC/Gabrielle May                          1.825257e-02
+UIC/Giulia Hindermann                     -3.306118e-03
+UIC/Kimberly Randall                       1.846982e-02
+UIC/Nikki Woodruff                         4.127499e-04
+UIC/Ryann Conners                         -1.320726e-02
+Ursinus College/Alyssa Hershmen           -3.143774e-02
+Ursinus College/Amanda Palladino          -3.689627e-02
+Ursinus College/Heather Brubaker          -4.987651e-03
+Ursinus College/Kaelin Ruoss               3.326244e-03
+Ursinus College/Kelly McLaughlin          -3.287120e-02
+Ursinus College/Kelsey Stewart            -1.889885e-02
+Ursinus College/Kristin Aichele           -2.742638e-02
+Ursinus College/Kristina Steffenhagan     -8.249564e-03
+Ursinus College/Monique Brooks            -1.344485e-02
+Ursinus College/Riley Acton               -3.062090e-02
+Utah/BAELY ROWE                            2.093505e-02
+Utah/BREANNA HUGHES                        1.311605e-02
+Utah/CORRIE LOTHROP                        1.963706e-02
+Utah/GEORGIA DABRITZ                       2.503806e-02
+Utah/KAILAH DELANEY                        2.764028e-02
+Utah/KARI LEE                              2.806550e-02
+Utah/SAMANTHA PARTYKA                      2.554872e-02
+Utah State/Bailey McIntire                 1.514191e-02
+Utah State/Hayley Sanzotti                 1.212001e-02
+Utah State/Jillian Chappel                 1.588536e-02
+Utah State/Kaitlyn Betts                   1.125198e-02
+Utah State/McKinzey Martinez               2.085818e-02
+Utah State/MIchelle Yasukochi              1.369619e-02
+Utah State/Miranda Kerr                    1.594079e-02
+Utah State/Sarah Landes                    1.757193e-02
+Utah/TIFFANI LEWIS                         1.823366e-02
+Utah/TORY WILSON                           3.070044e-02
+Washington/Alexandra Yacalis               1.118547e-02
+Washington/Allison Northey                 1.499001e-02
+Washington/Dori Overhus                    3.125118e-03
+Washington/Emily Liddle                    8.073449e-03
+Washington/Hailey Burleson                 2.315462e-02
+Washington/Joslyn Goings                   1.610219e-02
+Washington/Podlucky Madison                2.395984e-03
+Washington/Stephanie Stowe                -6.468682e-03
+Washington/Zoey Schaefer                   9.081123e-03
+West Chester/Majesta Valentine             1.242120e-02
+West Chester/Meghan Chan                  -1.410891e-02
+West Chester/Melissa Prisco               -7.222816e-03
+West Chester/Rachel Blair                 -2.825009e-03
+West Chester/Rose Wortman                 -1.836787e-02
+West Chester/Samantha Engle               -1.473979e-02
+West Chester/Selena Swanger               -5.815709e-04
+Western Michigan/Anna Corbett              1.547937e-02
+Western Michigan/Audry Merritt            -5.189684e-03
+Western Michigan/Brittany Aragon           6.621577e-03
+Western Michigan/Jessi Buis                1.960804e-02
+Western Michigan/Jessica Juncaj           -2.154165e-03
+Western Michigan/Kayla Weber               3.150099e-04
+Western Michigan/Kelsey Hood               1.887403e-02
+Western Michigan/Kira Hoy                 -5.023148e-02
+Western Michigan/Lauren Vandenberg         3.209511e-03
+West Virginia/Alexa Goldberg              -4.329725e-03
+West Virginia/Amanda Bowman                8.607000e-03
+West Virginia/Beth Deal                    1.072354e-03
+West Virginia/Dayah Haley                  1.560465e-02
+West Virginia/Emma Lasker                  2.533600e-03
+West Virginia/Jaida Lawrence               2.243663e-02
+West Virginia/Lia Salzano                 -8.086163e-03
+West Virginia/Nicolette Swoboda            1.870000e-02
+West Virginia/Robyn Bernard                1.178088e-02
+West Virginia/Zaakira Muhammad             2.046252e-02
+William & Mary/ALYSSA GLASS               -1.710219e-02
+William & Mary/BRI GIRONDA                -7.420948e-03
+William & Mary/BRITTANY STOVER             2.672756e-02
+William & Mary/FALLON WAY                 -1.747701e-02
+William & Mary/KRISTIE WEI                -2.079727e-02
+William & Mary/LARSON LASEK                1.441066e-02
+William & Mary/LIVI O'CONNOR               5.541461e-04
+William & Mary/MONICA OUELLET             -1.703387e-02
+Winona State/Brooke Hiestand              -2.541563e-02
+Winona State/Emily Goldeman               -2.956698e-02
+Winona State/Jade Donaldson               -1.057133e-02
+Winona State/Joanna Reale                 -3.809029e-02
+Winona State/Taylor Lewis                 -3.610459e-02
+Winona State/Veronica Peterson            -3.788061e-02
+Wisconsin-Eau Claire/Autumn Lefever       -3.332947e-02
+Wisconsin-Eau Claire/Bailee Espelien      -4.165534e-02
+Wisconsin-Eau Claire/Desirae Stanton      -2.371528e-02
+Wisconsin-Eau Claire/Destiny Cobbs        -3.142102e-02
+Wisconsin-Eau Claire/Elizabeth Stubbs     -3.108549e-02
+Wisconsin-Eau Claire/Julia Stedman        -1.434684e-02
+Wisconsin-Eau Claire/Lauren Zurowski      -3.650461e-02
+Wisconsin-Eau Claire/Malyssa Krajco       -4.676370e-02
+Wisconsin-Eau Claire/Rebecca Wilcox       -4.634636e-02
+Wisconsin-Eau Claire/Victoria Erickson    -4.244192e-02
+Wisconsin-La Crosse/Ali Berry             -3.063852e-02
+Wisconsin-La Crosse/Amy Enright           -8.896114e-02
+Wisconsin-La Crosse/Ana Ginter            -4.400468e-02
+Wisconsin-La Crosse/Kari Willett          -3.557381e-02
+Wisconsin-La Crosse/Kendall Westrich      -6.021259e-02
+Wisconsin-La Crosse/Lauren Wilson         -4.415861e-02
+Wisconsin-La Crosse/Leah Spankowski       -2.419822e-02
+Wisconsin-La Crosse/Nicole Wangler        -1.008976e-02
+Wisconsin-La Crosse/Rose Franke           -2.292448e-02
+Wisconsin-La Crosse/Samantha Wiekamp      -1.608355e-02
+Wisconsin-La Crosse/Savana Kettner        -3.048078e-02
+Wisconsin-La Crosse/Sheree Romesburg      -2.653421e-02
+Wisconsin-Oshkosh/Amanda McBrayer         -5.190862e-02
+Wisconsin-Oshkosh/Emily Ryan              -2.183668e-02
+Wisconsin-Oshkosh/Kasandra Stamopoulos    -7.852742e-02
+Wisconsin-Oshkosh/Kimberly Robertson      -4.664506e-02
+Wisconsin-Oshkosh/Krystal Walker          -2.773311e-02
+Wisconsin-Oshkosh/Nicole deRoode          -5.899360e-02
+Wisconsin-Oshkosh/Taylor Ennocenti        -6.654607e-02
+Wisconsin-Stout/Callie Counts             -3.730926e-02
+Wisconsin-Stout/Jordana Brady             -5.567058e-02
+Wisconsin-Stout/Kaylee Jondahl            -2.699114e-03
+Wisconsin-Stout/Kelly Huseman             -2.148887e-02
+Wisconsin-Stout/Kenzie Hyde               -1.371154e-02
+Wisconsin-Stout/Kourtland Thompson        -6.712595e-02
+Wisconsin-Stout/Randi Schorzman           -2.214205e-02
+Wisconsin-Stout/Sara Perez                -5.419604e-02
+Wisconsin-Stout/Tara Zimmerman            -4.093391e-02
+Wisconsin-Whitewater/Chloe Rehberg        -5.653066e-03
+Wisconsin-Whitewater/Christina Slack      -7.251156e-03
+Wisconsin-Whitewater/Cici Talcott         -2.323567e-02
+Wisconsin-Whitewater/Courtney Pickett     -6.881450e-03
+Wisconsin-Whitewater/Hannah Lee           -1.372851e-02
+Wisconsin-Whitewater/Katie Fiorilli        6.417714e-03
+Wisconsin-Whitewater/Lewa Evans           -2.724991e-02
+Yale/Allison Bushman                      -2.256873e-02
+Yale/Anella Anderson                      -1.497491e-02
+Yale/Anna Merkuryev                       -1.021425e-02
+Yale/Brianna Chrisman                     -1.183397e-02
+Yale/Camilla Opperman                      2.321806e-03
+Yale/Joyce Li                             -7.064887e-03
+Yale/Katherine Lucas                      -7.989145e-03
+Yale/Morgan Traina                        -2.983630e-02
+Yale/Sloane Smith                         -1.043051e-02
+
+

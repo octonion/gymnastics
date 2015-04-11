@@ -1,0 +1,35 @@
+sink("diagnostics/vault.txt")
+
+library(RPostgreSQL)
+
+#library(betareg)
+#library(lmtest)
+library(lme4)
+
+drv <- dbDriver("PostgreSQL")
+
+con <- dbConnect(drv, dbname="gymnastics")
+
+query <- dbSendQuery(con, "
+select
+first_name||' '||last_name as name,
+home_away as field,
+match_number,
+vault/10.0 as vault
+from ncaa.individual_results ir
+join ncaa.teams t
+  on (t.team_id)=(ir.team_id)
+;")
+
+games <- fetch(query,n=-1)
+
+dim(games)
+
+games$match_number <- as.factor(games$match_number)
+
+fit <- glm(vault ~ name+field+match_number, family=binomial("logit"), data=games)
+
+fit
+summary(fit)
+#lrtest(fit0,fit)
+#waldtest(fit0,fit)
